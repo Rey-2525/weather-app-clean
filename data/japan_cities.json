@@ -1,0 +1,77 @@
+[
+  {
+    "name": "札幌",
+    "temp": 16,
+    "humidity": 91
+  },
+  {
+    "name": "仙台",
+    "temp": 19,
+    "humidity": 83
+  },
+  {
+    "name": "東京",
+    "temp": 22,
+    "humidity": 87
+  },
+  {
+    "name": "名古屋",
+    "temp": 28,
+    "humidity": 73
+  },
+  {
+    "name": "大阪",
+    "temp": 28,
+    "humidity": 63
+  },
+  {
+    "name": "広島",
+    "temp": 27,
+    "humidity": 80
+  },
+  {
+    "name": "福岡",
+    "temp": 27,
+    "humidity": 74
+  },
+  {
+    "name": "那覇",
+    "temp": 27,
+    "humidity": 87
+  },
+  {
+    "name": "金沢",
+    "temp": 24,
+    "humidity": 82
+  },
+  {
+    "name": "松本",
+    "temp": 20,
+    "humidity": 97
+  },
+  {
+    "name": "熊谷",
+    "temp": 23,
+    "humidity": 88
+  },
+  {
+    "name": "軽井沢",
+    "temp": 18,
+    "humidity": 100
+  },
+  {
+    "name": "函館",
+    "temp": 17,
+    "humidity": 83
+  },
+  {
+    "name": "高松",
+    "temp": 27,
+    "humidity": 81
+  },
+  {
+    "name": "鹿児島",
+    "temp": 27,
+    "humidity": 56
+  }
+]
