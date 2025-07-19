@@ -187,3 +187,18 @@ button:hover {
   max-width: 100%;
   box-sizing: border-box;  /* 念のため */
 }
+
+/* 🌆 都市カードをグリッド表示 */
+.weather-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+/* スマホでは1列 */
+@media screen and (max-width: 600px) {
+  .weather-grid {
+    grid-template-columns: 1fr;
+  }
+}

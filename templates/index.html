@@ -35,6 +35,10 @@
     </div>
   </div>
 
+  <div id="weather" class="weather-card" style="display: none;"></div> <!-- 現在地など個別 -->
+  <div id="weather-list" class="weather-card" style="display: none;"></div> <!-- ⬅ 都市カード用グリッド -->
+
+
 
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
@@ -248,7 +252,8 @@
 
     const weatherContainer = document.getElementById("weather");
     weatherContainer.innerHTML = ""; // 初期化
-    weatherContainer.style.display = "block";
+    weatherContainer.className = "weather-grid";
+    weatherContainer.style.display = "grid";
 
     // 🔻 0件 or エラーメッセージが返ってきた場合
     if (!cityList || cityList.length === 0 || cityList[0].includes("見つかりませんでした")) {
