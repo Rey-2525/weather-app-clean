@@ -3,6 +3,7 @@ from pydantic import BaseModel
 import os
 import openai
 import json
+import random
 from dotenv import load_dotenv
 
 router = APIRouter()
@@ -90,6 +91,40 @@ def extract_conditions(message: str) -> dict:
         print("❌ 条件抽出失敗:", e)
         return {}
 
+# 仮の理由を返す関数
+async def generate_reason(name: str, temp: float, humidity: float) -> str:
+    response = await openai.ChatCompletion.acreate(
+        model="gpt-4o",
+        messages=[
+            {"role": "system", "content": "以下の都市の気候情報をもとに、おすすめ理由を一言で教えてください。"},
+            {"role": "user", "content": f"{name} の気温は {temp}℃、湿度は {humidity}% です。"}
+        ],
+        temperature=0.7,
+    )
+    return response.choices[0].message.content.strip()
+
+
+
+#async def generate_reason(city_name, temp, humidity): ←コメントアウトでダミー化
+    prompt = f"""
+都市名：{city_name}
+気温：{temp}℃
+湿度：{humidity}%
+これらの条件をもとに、この都市をおすすめする理由を80文字以内で説明してください。
+"""
+    try:
+        response = await openai.ChatCompletion.acreate(
+            model="gpt-4",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.7,
+            request_timeout=10  # 最大10秒でタイムアウトする
+        )
+        return response.choices[0].message.content.strip()
+    except Exception as e:
+        print(f"❌ 理由生成失敗（{city_name}): {e}")
+        return "気候条件によりおすすめです。"
+
+
 # ✅ NLPフィルターエンドポイント（静的JSONによるフィルター処理）
 @router.post("/filter-nlp")
 async def filter_nlp(request: NLPFilterRequest):
@@ -107,17 +142,34 @@ async def filter_nlp(request: NLPFilterRequest):
             temp = city["temp"]
             humidity = city["humidity"]
 
+            # 条件に合わなければスキップ
             if temp_cond and not eval(f"{temp}{temp_cond}"):
                 continue
             if hum_cond and not eval(f"{humidity}{hum_cond}"):
                 continue
 
-            matched.append(name)
+            matched.append({
+                "name": name,
+                "temp": temp,
+                "humidity": humidity
+            })
+
         except Exception as e:
             print(f"❌ {city['name']} のフィルタ処理でエラー: {e}")
             continue
 
-    if not matched:
-        matched = ["条件に合う都市が見つかりませんでした。"]
+    # ✅ 抽出＆理由生成（1件のみ）
+    if matched:
+        selected = random.choice(matched)
+        try:
+            reason = await generate_reason(selected["name"], selected["temp"], selected["humidity"])
+            selected["reason"] = reason
+        except Exception as e:
+            print(f"❌ 理由生成失敗（{selected['name']}）: {e}")
+            selected["reason"] = "理由の生成に失敗しました。"
 
-    return {"cities": matched}
+        result = [selected]
+    else:
+        result = [{"message": "条件に合う都市が見つかりませんでした。"}]
+
+    return {"cities": result}

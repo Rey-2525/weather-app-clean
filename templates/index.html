@@ -252,17 +252,17 @@
 
     const weatherContainer = document.getElementById("weather");
     weatherContainer.innerHTML = ""; // 初期化
-    weatherContainer.className = "weather-grid";
+    weatherContainer.className = "weather-card weather-grid";
     weatherContainer.style.display = "grid";
 
     // 🔻 0件 or エラーメッセージが返ってきた場合
-    if (!cityList || cityList.length === 0 || cityList[0].includes("見つかりませんでした")) {
-      const noResult = document.createElement("div");
-      noResult.className = "weather-card";
-      noResult.innerHTML = `<p>😢 条件に合う都市が見つかりませんでした。</p>`;
-      weatherContainer.appendChild(noResult);
-      return;
-    }
+    if (!cityList || cityList.length === 0 || (cityList[0].message && cityList[0].message.includes("見つかりませんでした"))) {
+  const noResult = document.createElement("div");
+  noResult.className = "weather-card";
+  noResult.innerHTML = `<p>😢 条件に合う都市が見つかりませんでした。</p>`;
+  weatherContainer.appendChild(noResult);
+  return;
+}
 
     // 🌤 各都市の天気取得＆表示
     for (const city of cityList) {
@@ -270,7 +270,7 @@
       const geoRes = await fetch("/geocode", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ city })
+        body: JSON.stringify({ city:city.name })
       });
       const geoData = await geoRes.json();
       if (!geoData.lat || !geoData.lon) continue;
@@ -311,8 +311,10 @@
       block.innerHTML = `
         <p><strong>📍 ${weatherData.location}</strong></p>
         <p>☁️ 天気：${weatherData.weather}、${weatherData.temperature}℃、湿度${weatherData.humidity}%</p>
+        <p>✨ おすすめ理由：${city.reason}</p>
         <p>📝 解説：${explanationData.explanation}</p>
         <p>👕 服装アドバイス：${adviceData.advice}</p>
+
         <hr>
       `;
       weatherContainer.appendChild(block);
