@@ -1,0 +1,11 @@
+# すべてのテキストファイルはLFに統一
+* text=auto eol=lf
+
+# ファイル種別ごとに明示（念のため）
+*.py     text eol=lf
+*.html   text eol=lf
+*.css    text eol=lf
+*.js     text eol=lf
+*.json   text eol=lf
+*.sh     text eol=lf
+*.env    text eol=lf

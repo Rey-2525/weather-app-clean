@@ -9,6 +9,8 @@ from dotenv import load_dotenv
 router = APIRouter()
 load_dotenv()
 
+CACHE_PATH = "data/reason_cache.json"
+
 # ✅ OpenAI APIキー
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
@@ -70,6 +72,46 @@ def extract_conditions(message: str) -> dict:
 リクエスト: 「乾燥しすぎないところがいい」
 出力: {{"humidity": ">=40"}}
 
+リクエスト: 「暑いところ」
+出力: {{"temperature": ">=30"}}
+
+リクエスト:「30度くらいの暑さが好き」
+出力: {{"temperature": ">=28"}}
+
+リクエスト:「涼しくてジメジメしない場所がいい」
+出力: {{"temperature": "<=25", "humidity": "<=60"}}
+
+リクエスト:「湿度は気にならないけど、寒いのは嫌だ」
+出力: {{"temperature": ">=20"}}
+
+リクエスト:「あたたかくてカラッとしてる場所」
+出力: {{"temperature": ">=25", "humidity": "<=55"}}
+
+リクエスト:「とにかく暑いところがいい！」
+出力: {{"temperature": ">=32"}}
+
+リクエスト:「寒くてもいいから湿度が低いところ」
+出力: {{"humidity": "<=50"}}
+
+リクエスト:「夏っぽい場所」
+出力: {{"temperature": ">=30", "humidity": ">=60"}}
+
+リクエスト:「秋っぽい涼しさ」
+出力: {{"temperature": "<=24", "humidity": "<=65"}}
+
+リクエスト:「春のような快適な気候」
+出力: {{"temperature": ">=18", "temperature": "<=26", "humidity": "<=65"}}
+
+リクエスト:「じめっとしてる場所を探してる」
+出力: {{"humidity": ">=75"}}
+
+リクエスト:「気温は低くてもOK。乾燥してる場所がいい」
+出力: {{"humidity": "<=55"}}
+
+リクエスト:「今の季節より暖かい場所」
+出力: {{"temperature": ">=25"}}  # ※仮定値
+
+
 
 リクエスト:「特に条件はない」
 出力: {{}}
@@ -91,38 +133,47 @@ def extract_conditions(message: str) -> dict:
         print("❌ 条件抽出失敗:", e)
         return {}
 
-# 仮の理由を返す関数
-async def generate_reason(name: str, temp: float, humidity: float) -> str:
-    response = await openai.ChatCompletion.acreate(
-        model="gpt-4o",
-        messages=[
-            {"role": "system", "content": "以下の都市の気候情報をもとに、おすすめ理由を一言で教えてください。"},
-            {"role": "user", "content": f"{name} の気温は {temp}℃、湿度は {humidity}% です。"}
-        ],
-        temperature=0.7,
-    )
-    return response.choices[0].message.content.strip()
+import json
+import os
 
+CACHE_PATH = "data/reason_cache.json"
 
+# キャッシュ読み込み
+if os.path.exists(CACHE_PATH):
+    with open(CACHE_PATH, "r", encoding="utf-8") as f:
+        reason_cache = json.load(f)
+else:
+    reason_cache = {}
 
-#async def generate_reason(city_name, temp, humidity): ←コメントアウトでダミー化
-    prompt = f"""
-都市名：{city_name}
-気温：{temp}℃
-湿度：{humidity}%
-これらの条件をもとに、この都市をおすすめする理由を80文字以内で説明してください。
-"""
+async def generate_reason(city_name, temp, humidity):
+    # キャッシュに存在すればそれを返す
+    if city_name in reason_cache:
+        return reason_cache[city_name]
+
+    # 存在しなければGPTから生成（↓ここにOpenAI API呼び出し）
+    prompt = f"{city_name}は気温{temp}℃、湿度{humidity}%ですが、なぜおすすめですか？"
     try:
         response = await openai.ChatCompletion.acreate(
             model="gpt-4",
-            messages=[{"role": "user", "content": prompt}],
+            messages=[
+                {"role": "system", "content": "旅行者にわかりやすく短めに説明してください。"},
+                {"role": "user", "content": prompt}
+            ],
             temperature=0.7,
-            request_timeout=10  # 最大10秒でタイムアウトする
+            max_tokens=200
         )
-        return response.choices[0].message.content.strip()
+        reason = response.choices[0].message.content.strip()
     except Exception as e:
         print(f"❌ 理由生成失敗（{city_name}): {e}")
-        return "気候条件によりおすすめです。"
+        return f"{city_name} は気温{temp}℃、湿度{humidity}%でおすすめです。"
+
+    # キャッシュに保存
+    reason_cache[city_name] = reason
+    with open(CACHE_PATH, "w", encoding="utf-8") as f:
+        json.dump(reason_cache, f, ensure_ascii=False, indent=2)
+
+    return reason
+
 
 
 # ✅ NLPフィルターエンドポイント（静的JSONによるフィルター処理）
@@ -132,7 +183,7 @@ async def filter_nlp(request: NLPFilterRequest):
     temp_cond = conditions.get("temperature")
     hum_cond = conditions.get("humidity")
 
-    with open("data/japan_city_weather.json", "r", encoding="utf-8") as f:
+    with open("data/japan_city_weather_limited_ja_extended.json", "r", encoding="utf-8") as f:
         cities = json.load(f)
 
     matched = []

@@ -1,0 +1,122 @@
+[
+  {
+    "name": "横浜",
+    "temp": 28,
+    "humidity": 72
+  },
+  {
+    "name": "東京",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "静岡",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "静岡",
+    "temp": 29,
+    "humidity": 66
+  },
+  {
+    "name": "大阪",
+    "temp": 29,
+    "humidity": 54
+  },
+  {
+    "name": "大阪",
+    "temp": 32,
+    "humidity": 52
+  },
+  {
+    "name": "岡山",
+    "temp": 33,
+    "humidity": 62
+  },
+  {
+    "name": "新潟",
+    "temp": 29,
+    "humidity": 63
+  },
+  {
+    "name": "那覇",
+    "temp": 30,
+    "humidity": 79
+  },
+  {
+    "name": "名古屋",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "長崎",
+    "temp": 30,
+    "humidity": 67
+  },
+  {
+    "name": "京都",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "神戸",
+    "temp": 30,
+    "humidity": 58
+  },
+  {
+    "name": "川崎",
+    "temp": 28,
+    "humidity": 72
+  },
+  {
+    "name": "川崎",
+    "temp": 32,
+    "humidity": 54
+  },
+  {
+    "name": "金沢",
+    "temp": 29,
+    "humidity": 65
+  },
+  {
+    "name": "鹿児島",
+    "temp": 31,
+    "humidity": 71
+  },
+  {
+    "name": "広島",
+    "temp": 32,
+    "humidity": 62
+  },
+  {
+    "name": "福岡",
+    "temp": 33,
+    "humidity": 51
+  },
+  {
+    "name": "仙台",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "千葉",
+    "temp": 30,
+    "humidity": 63
+  },
+  {
+    "name": "横浜",
+    "temp": 27,
+    "humidity": 72
+  },
+  {
+    "name": "札幌",
+    "temp": 27,
+    "humidity": 81
+  },
+  {
+    "name": "埼玉",
+    "temp": 34,
+    "humidity": 37
+  }
+]
