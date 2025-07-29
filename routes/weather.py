@@ -61,14 +61,15 @@ def get_forecast(lat: float = 35.6895, lon: float = 139.6917):
         now_timestamp = int(now_jst.timestamp())
 
         forecast = []
-        for entry in hourly:
-            dt_utc = entry["dt"]  # UNIX timestamp
-            if dt_utc > now_timestamp:
-                dt_jst = datetime.fromtimestamp(dt_utc, jst)
-                forecast.append({
-                    "time": dt_jst.strftime("%Y-%m-%d %H:%M:%S"),
-                    "pop": round(entry.get("pop", 0) * 100)
-                })
+        future_hourly = [entry for entry in hourly if entry["dt"] > now_timestamp]
+        # 3時間ごとにデータ抽出（0, 3, 6, 9番目）
+        for i in range(0, min(12, len(future_hourly)), 3):  # 安全のため最大12件まで
+            entry = future_hourly[i]
+            dt_jst = datetime.fromtimestamp(entry["dt"], jst)
+            forecast.append({
+                "time": dt_jst.strftime("%Y-%m-%d %H:%M:%S"),
+                "pop": round(entry.get("pop", 0) * 100)
+            })
             if len(forecast) >= 4:
                 break
 
