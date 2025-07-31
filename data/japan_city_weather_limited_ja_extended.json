@@ -1,0 +1,472 @@
+[
+  {
+    "name": "横浜",
+    "temp": 28,
+    "humidity": 72
+  },
+  {
+    "name": "東京",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "静岡",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "静岡",
+    "temp": 29,
+    "humidity": 66
+  },
+  {
+    "name": "大阪",
+    "temp": 29,
+    "humidity": 54
+  },
+  {
+    "name": "大阪",
+    "temp": 32,
+    "humidity": 52
+  },
+  {
+    "name": "岡山",
+    "temp": 33,
+    "humidity": 62
+  },
+  {
+    "name": "新潟",
+    "temp": 29,
+    "humidity": 63
+  },
+  {
+    "name": "那覇",
+    "temp": 30,
+    "humidity": 79
+  },
+  {
+    "name": "名古屋",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "長崎",
+    "temp": 30,
+    "humidity": 67
+  },
+  {
+    "name": "京都",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "神戸",
+    "temp": 30,
+    "humidity": 58
+  },
+  {
+    "name": "川崎",
+    "temp": 28,
+    "humidity": 72
+  },
+  {
+    "name": "川崎",
+    "temp": 32,
+    "humidity": 54
+  },
+  {
+    "name": "金沢",
+    "temp": 29,
+    "humidity": 65
+  },
+  {
+    "name": "鹿児島",
+    "temp": 31,
+    "humidity": 71
+  },
+  {
+    "name": "広島",
+    "temp": 32,
+    "humidity": 62
+  },
+  {
+    "name": "福岡",
+    "temp": 33,
+    "humidity": 51
+  },
+  {
+    "name": "仙台",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "千葉",
+    "temp": 30,
+    "humidity": 63
+  },
+  {
+    "name": "横浜",
+    "temp": 27,
+    "humidity": 72
+  },
+  {
+    "name": "札幌",
+    "temp": 27,
+    "humidity": 81
+  },
+  {
+    "name": "埼玉",
+    "temp": 34,
+    "humidity": 37
+  },
+  {
+    "name": "豊田",
+    "temp": 33,
+    "humidity": 59
+  },
+  {
+    "name": "徳島",
+    "temp": 33,
+    "humidity": 68
+  },
+  {
+    "name": "相模原",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "諫早",
+    "temp": 30,
+    "humidity": 75
+  },
+  {
+    "name": "山形",
+    "temp": 27,
+    "humidity": 85
+  },
+  {
+    "name": "富山",
+    "temp": 25,
+    "humidity": 58
+  },
+  {
+    "name": "豊橋",
+    "temp": 32,
+    "humidity": 62
+  },
+  {
+    "name": "下関",
+    "temp": 31,
+    "humidity": 67
+  },
+  {
+    "name": "函館",
+    "temp": 30,
+    "humidity": 53
+  },
+  {
+    "name": "網走",
+    "temp": 29,
+    "humidity": 83
+  },
+  {
+    "name": "小田原",
+    "temp": 25,
+    "humidity": 49
+  },
+  {
+    "name": "釧路",
+    "temp": 25,
+    "humidity": 63
+  },
+  {
+    "name": "和歌山",
+    "temp": 25,
+    "humidity": 77
+  },
+  {
+    "name": "延岡",
+    "temp": 28,
+    "humidity": 79
+  },
+  {
+    "name": "呉",
+    "temp": 25,
+    "humidity": 46
+  },
+  {
+    "name": "秋田",
+    "temp": 28,
+    "humidity": 78
+  },
+  {
+    "name": "岡崎",
+    "temp": 33,
+    "humidity": 67
+  },
+  {
+    "name": "都城",
+    "temp": 27,
+    "humidity": 45
+  },
+  {
+    "name": "帯広",
+    "temp": 31,
+    "humidity": 48
+  },
+  {
+    "name": "松江",
+    "temp": 26,
+    "humidity": 56
+  },
+  {
+    "name": "小松",
+    "temp": 29,
+    "humidity": 82
+  },
+  {
+    "name": "宮崎",
+    "temp": 29,
+    "humidity": 74
+  },
+  {
+    "name": "日田",
+    "temp": 32,
+    "humidity": 45
+  },
+  {
+    "name": "町田",
+    "temp": 28,
+    "humidity": 41
+  },
+  {
+    "name": "稚内",
+    "temp": 28,
+    "humidity": 43
+  },
+  {
+    "name": "宇都宮",
+    "temp": 27,
+    "humidity": 72
+  },
+  {
+    "name": "一宮",
+    "temp": 29,
+    "humidity": 73
+  },
+  {
+    "name": "弘前",
+    "temp": 34,
+    "humidity": 53
+  },
+  {
+    "name": "水戸",
+    "temp": 25,
+    "humidity": 56
+  },
+  {
+    "name": "佐世保",
+    "temp": 31,
+    "humidity": 52
+  },
+  {
+    "name": "柏",
+    "temp": 34,
+    "humidity": 61
+  },
+  {
+    "name": "伊那",
+    "temp": 28,
+    "humidity": 63
+  },
+  {
+    "name": "高知",
+    "temp": 27,
+    "humidity": 40
+  },
+  {
+    "name": "姫路",
+    "temp": 32,
+    "humidity": 61
+  },
+  {
+    "name": "八王子",
+    "temp": 27,
+    "humidity": 80
+  },
+  {
+    "name": "前橋",
+    "temp": 28,
+    "humidity": 68
+  },
+  {
+    "name": "青森",
+    "temp": 25,
+    "humidity": 40
+  },
+  {
+    "name": "倉敷",
+    "temp": 27,
+    "humidity": 65
+  },
+  {
+    "name": "盛岡",
+    "temp": 27,
+    "humidity": 67
+  },
+  {
+    "name": "酒田",
+    "temp": 28,
+    "humidity": 64
+  },
+  {
+    "name": "日南",
+    "temp": 29,
+    "humidity": 58
+  },
+  {
+    "name": "諏訪",
+    "temp": 25,
+    "humidity": 59
+  },
+  {
+    "name": "岐阜",
+    "temp": 28,
+    "humidity": 78
+  },
+  {
+    "name": "米沢",
+    "temp": 29,
+    "humidity": 65
+  },
+  {
+    "name": "津",
+    "temp": 31,
+    "humidity": 54
+  },
+  {
+    "name": "高松",
+    "temp": 31,
+    "humidity": 76
+  },
+  {
+    "name": "佐賀",
+    "temp": 34,
+    "humidity": 76
+  },
+  {
+    "name": "福井",
+    "temp": 25,
+    "humidity": 50
+  },
+  {
+    "name": "熊本",
+    "temp": 34,
+    "humidity": 85
+  },
+  {
+    "name": "大分",
+    "temp": 31,
+    "humidity": 62
+  },
+  {
+    "name": "石垣",
+    "temp": 34,
+    "humidity": 82
+  },
+  {
+    "name": "輪島",
+    "temp": 28,
+    "humidity": 44
+  },
+  {
+    "name": "鯖江",
+    "temp": 27,
+    "humidity": 72
+  },
+  {
+    "name": "久留米",
+    "temp": 30,
+    "humidity": 47
+  },
+  {
+    "name": "鳥取",
+    "temp": 26,
+    "humidity": 41
+  },
+  {
+    "name": "別府",
+    "temp": 34,
+    "humidity": 52
+  },
+  {
+    "name": "福島",
+    "temp": 26,
+    "humidity": 46
+  },
+  {
+    "name": "船橋",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "三島",
+    "temp": 32,
+    "humidity": 45
+  },
+  {
+    "name": "飯田",
+    "temp": 33,
+    "humidity": 56
+  },
+  {
+    "name": "甲府",
+    "temp": 26,
+    "humidity": 79
+  },
+  {
+    "name": "松山",
+    "temp": 32,
+    "humidity": 72
+  },
+  {
+    "name": "鶴岡",
+    "temp": 27,
+    "humidity": 58
+  },
+  {
+    "name": "大館",
+    "temp": 32,
+    "humidity": 78
+  },
+  {
+    "name": "宮古島",
+    "temp": 34,
+    "humidity": 77
+  },
+  {
+    "name": "今治",
+    "temp": 29,
+    "humidity": 48
+  },
+  {
+    "name": "立川",
+    "temp": 30,
+    "humidity": 49
+  },
+  {
+    "name": "会津若松",
+    "temp": 27,
+    "humidity": 58
+  },
+  {
+    "name": "奈良",
+    "temp": 27,
+    "humidity": 50
+  },
+  {
+    "name": "敦賀",
+    "temp": 26,
+    "humidity": 47
+  }
+]

@@ -1,0 +1,467 @@
+[
+  {
+    "name": "新宮",
+    "temp": 30,
+    "humidity": 66
+  },
+  {
+    "name": "厚木",
+    "temp": 31,
+    "humidity": 56
+  },
+  {
+    "name": "明石",
+    "temp": 31,
+    "humidity": 61
+  },
+  {
+    "name": "逗子",
+    "temp": 26,
+    "humidity": 82
+  },
+  {
+    "name": "淡路町",
+    "temp": 32,
+    "humidity": 51
+  },
+  {
+    "name": "蔵王町",
+    "temp": 32,
+    "humidity": 51
+  },
+  {
+    "name": "座間味",
+    "temp": 29,
+    "humidity": 81
+  },
+  {
+    "name": "座間",
+    "temp": 32,
+    "humidity": 51
+  },
+  {
+    "name": "湯沢",
+    "temp": 33,
+    "humidity": 46
+  },
+  {
+    "name": "遊佐",
+    "temp": 30,
+    "humidity": 59
+  },
+  {
+    "name": "湯津原",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "有楽町",
+    "temp": 30,
+    "humidity": 56
+  },
+  {
+    "name": "由良",
+    "temp": 33,
+    "humidity": 59
+  },
+  {
+    "name": "行橋",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "結城",
+    "temp": 34,
+    "humidity": 39
+  },
+  {
+    "name": "湯河原",
+    "temp": 27,
+    "humidity": 63
+  },
+  {
+    "name": "湯川",
+    "temp": 28,
+    "humidity": 41
+  },
+  {
+    "name": "湯浅",
+    "temp": 31,
+    "humidity": 62
+  },
+  {
+    "name": "吉野町",
+    "temp": 31,
+    "humidity": 53
+  },
+  {
+    "name": "吉川",
+    "temp": 33,
+    "humidity": 39
+  },
+  {
+    "name": "吉井",
+    "temp": 29,
+    "humidity": 57
+  },
+  {
+    "name": "吉井",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "吉田春日町",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "吉田",
+    "temp": 32,
+    "humidity": 38
+  },
+  {
+    "name": "輪島",
+    "temp": 29,
+    "humidity": 55
+  },
+  {
+    "name": "寄居",
+    "temp": 34,
+    "humidity": 40
+  },
+  {
+    "name": "与野",
+    "temp": 34,
+    "humidity": 38
+  },
+  {
+    "name": "与那国",
+    "temp": 29,
+    "humidity": 89
+  },
+  {
+    "name": "米子",
+    "temp": 33,
+    "humidity": 61
+  },
+  {
+    "name": "与那原",
+    "temp": 29,
+    "humidity": 74
+  },
+  {
+    "name": "横田",
+    "temp": 33,
+    "humidity": 43
+  },
+  {
+    "name": "横須賀",
+    "temp": 26,
+    "humidity": 87
+  },
+  {
+    "name": "横浜",
+    "temp": 28,
+    "humidity": 72
+  },
+  {
+    "name": "横大道",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "四日市",
+    "temp": 31,
+    "humidity": 66
+  },
+  {
+    "name": "八日市",
+    "temp": 31,
+    "humidity": 56
+  },
+  {
+    "name": "呼松",
+    "temp": 34,
+    "humidity": 63
+  },
+  {
+    "name": "八幡",
+    "temp": 32,
+    "humidity": 49
+  },
+  {
+    "name": "八津沢",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "本町",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "八尾町東組坂",
+    "temp": 34,
+    "humidity": 36
+  },
+  {
+    "name": "安来町",
+    "temp": 33,
+    "humidity": 58
+  },
+  {
+    "name": "安曇野市",
+    "temp": 31,
+    "humidity": 54
+  },
+  {
+    "name": "八代",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "八潮",
+    "temp": 33,
+    "humidity": 42
+  },
+  {
+    "name": "八百津",
+    "temp": 30,
+    "humidity": 57
+  },
+  {
+    "name": "八尾",
+    "temp": 32,
+    "humidity": 52
+  },
+  {
+    "name": "矢浜",
+    "temp": 30,
+    "humidity": 61
+  },
+  {
+    "name": "柳井",
+    "temp": 31,
+    "humidity": 62
+  },
+  {
+    "name": "柳川",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "柳田町",
+    "temp": 35,
+    "humidity": 39
+  },
+  {
+    "name": "大和高田",
+    "temp": 32,
+    "humidity": 53
+  },
+  {
+    "name": "大和南",
+    "temp": 31,
+    "humidity": 52
+  },
+  {
+    "name": "山崎町中広瀬",
+    "temp": 31,
+    "humidity": 62
+  },
+  {
+    "name": "山梨",
+    "temp": 31,
+    "humidity": 53
+  },
+  {
+    "name": "山北",
+    "temp": 30,
+    "humidity": 58
+  },
+  {
+    "name": "山口",
+    "temp": 30,
+    "humidity": 70
+  },
+  {
+    "name": "山口",
+    "temp": 30,
+    "humidity": 71
+  },
+  {
+    "name": "山鹿",
+    "temp": 32,
+    "humidity": 54
+  },
+  {
+    "name": "山江",
+    "temp": 33,
+    "humidity": 38
+  },
+  {
+    "name": "薬院堀端",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "矢掛",
+    "temp": 34,
+    "humidity": 62
+  },
+  {
+    "name": "焼津",
+    "temp": 29,
+    "humidity": 66
+  },
+  {
+    "name": "矢板",
+    "temp": 31,
+    "humidity": 50
+  },
+  {
+    "name": "矢渡谷",
+    "temp": 31,
+    "humidity": 66
+  },
+  {
+    "name": "薮市",
+    "temp": 31,
+    "humidity": 56
+  },
+  {
+    "name": "蕨",
+    "temp": 34,
+    "humidity": 39
+  },
+  {
+    "name": "和気の浜町",
+    "temp": 32,
+    "humidity": 56
+  },
+  {
+    "name": "脇町",
+    "temp": 32,
+    "humidity": 61
+  },
+  {
+    "name": "和歌山",
+    "temp": 28,
+    "humidity": 56
+  },
+  {
+    "name": "若狭",
+    "temp": 30,
+    "humidity": 69
+  },
+  {
+    "name": "輪島",
+    "temp": 27,
+    "humidity": 71
+  },
+  {
+    "name": "和泊",
+    "temp": 28,
+    "humidity": 82
+  },
+  {
+    "name": "和田山",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "宇都宮",
+    "temp": 33,
+    "humidity": 41
+  },
+  {
+    "name": "宇土",
+    "temp": 32,
+    "humidity": 60
+  },
+  {
+    "name": "宇多津",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "臼杵",
+    "temp": 29,
+    "humidity": 61
+  },
+  {
+    "name": "牛深町",
+    "temp": 31,
+    "humidity": 72
+  },
+  {
+    "name": "宇佐",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "嬉野町下宿",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "浦安",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "魚津",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "宇美",
+    "temp": 33,
+    "humidity": 39
+  },
+  {
+    "name": "宇城",
+    "temp": 32,
+    "humidity": 58
+  },
+  {
+    "name": "宇検",
+    "temp": 29,
+    "humidity": 72
+  },
+  {
+    "name": "氏家",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "宇治",
+    "temp": 32,
+    "humidity": 49
+  },
+  {
+    "name": "上野原",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "上野",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "上野恵比寿町",
+    "temp": 31,
+    "humidity": 54
+  },
+  {
+    "name": "植木",
+    "temp": 28,
+    "humidity": 70
+  },
+  {
+    "name": "植木町もの",
+    "temp": 31,
+    "humidity": 57
+  }
+]

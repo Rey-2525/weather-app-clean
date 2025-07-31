@@ -19,12 +19,17 @@
   </div>
 </div>
 
+
+
+
   <div class="container">
     <h1>🌤 現在地の天気情報</h1>
     <button id="get-weather-btn" type="button">現在地の天気を取得</button>
     <div id="explanation-box" class="weather-card" style="display: none;"></div>
     <div id="clothing-box" class="weather-card" style="display: none;"></div>
-    <div id="weather" class="weather-card" style="display: none;"></div>
+    <div id="clothing-text"></div>
+  </div>
+    <div id="weather" class="" style="display: none;"></div>
     <ul id="filter-result"></ul>
     <div id="loading" class="loading-spinner" style="display: none;">
       <p>天気情報を取得中...</p>
@@ -32,7 +37,7 @@
     </div>
   </div>
 
-  <div id="weather" class="weather-card" style="display: none;"></div> <!-- 現在地など個別 -->
+  <div id="weather" class="" style="display: none;"></div> <!-- 現在地など個別 -->
   <div id="weather-list" class="weather-card" style="display: none;"></div> <!-- ⬅ 都市カード用グリッド -->
 
 
@@ -84,9 +89,9 @@
         })
       });
       const data = await res.json();
-      const box = document.getElementById("explanation-box");
+      const box = document.getElementById("advice-box");
       box.style.display = "block";
-      box.innerHTML = `<p><strong>📝 解説：</strong> ${data.explanation}</p>`;
+      document.getElementById("explanation-text").innerHTML = `<p><strong>📝 解説：</strong> ${data.explanation}</p>`;
 }
 
     async function getClothingAdvice(weather, temp, humidity) {
@@ -220,10 +225,7 @@
 }
     
   try {
-      // ✅ 現在地カードを非表示に
-    document.getElementById("explanation-box").style.display = "none";
-    document.getElementById("clothing-box").style.display = "none";
-    
+
     // 🔍 曖昧表現のキーワードチェック&エンドポイント切替
     const fuzzyWords = ["ジメジメ", "ひんやり", "過ごしやすい", "暑すぎる", "寒い", "涼しい", "湿度", "温度", "条件なし"];
     const isFuzzy = fuzzyWords.some(word => keyword.includes(word)) || keyword.length >= 10;

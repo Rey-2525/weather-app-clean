@@ -1,0 +1,7012 @@
+[
+  {
+    "name": "Shingū",
+    "temp": 30,
+    "humidity": 66
+  },
+  {
+    "name": "Atsugi",
+    "temp": 31,
+    "humidity": 56
+  },
+  {
+    "name": "Akashi",
+    "temp": 31,
+    "humidity": 61
+  },
+  {
+    "name": "Zushi",
+    "temp": 26,
+    "humidity": 82
+  },
+  {
+    "name": "Awazuchō",
+    "temp": 32,
+    "humidity": 51
+  },
+  {
+    "name": "Zaōmachi",
+    "temp": 32,
+    "humidity": 51
+  },
+  {
+    "name": "Zamami",
+    "temp": 29,
+    "humidity": 81
+  },
+  {
+    "name": "Zama",
+    "temp": 32,
+    "humidity": 51
+  },
+  {
+    "name": "Yuzawa",
+    "temp": 33,
+    "humidity": 46
+  },
+  {
+    "name": "Yuza",
+    "temp": 30,
+    "humidity": 59
+  },
+  {
+    "name": "Yusuhara",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "Yūrakuchō",
+    "temp": 30,
+    "humidity": 56
+  },
+  {
+    "name": "Yura",
+    "temp": 33,
+    "humidity": 59
+  },
+  {
+    "name": "Yukuhashi",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "Yūki",
+    "temp": 34,
+    "humidity": 39
+  },
+  {
+    "name": "Yugawara",
+    "temp": 27,
+    "humidity": 63
+  },
+  {
+    "name": "Yugawa",
+    "temp": 28,
+    "humidity": 41
+  },
+  {
+    "name": "Yuasa",
+    "temp": 31,
+    "humidity": 62
+  },
+  {
+    "name": "Yoshino-chō",
+    "temp": 31,
+    "humidity": 53
+  },
+  {
+    "name": "Yoshikawa",
+    "temp": 33,
+    "humidity": 39
+  },
+  {
+    "name": "Yoshii",
+    "temp": 29,
+    "humidity": 57
+  },
+  {
+    "name": "Yoshii",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Yoshie",
+    "temp": 32,
+    "humidity": 52
+  },
+  {
+    "name": "Yoshida-kasugachō",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Yoshida",
+    "temp": 32,
+    "humidity": 38
+  },
+  {
+    "name": "Miimachi-yoromi",
+    "temp": 29,
+    "humidity": 55
+  },
+  {
+    "name": "Yorii",
+    "temp": 34,
+    "humidity": 40
+  },
+  {
+    "name": "Yono",
+    "temp": 34,
+    "humidity": 38
+  },
+  {
+    "name": "Yonakuni",
+    "temp": 29,
+    "humidity": 89
+  },
+  {
+    "name": "Yonago",
+    "temp": 33,
+    "humidity": 61
+  },
+  {
+    "name": "Yonabaru",
+    "temp": 29,
+    "humidity": 74
+  },
+  {
+    "name": "Yokota",
+    "temp": 33,
+    "humidity": 43
+  },
+  {
+    "name": "Yokosuka",
+    "temp": 26,
+    "humidity": 87
+  },
+  {
+    "name": "Yokohama",
+    "temp": 28,
+    "humidity": 72
+  },
+  {
+    "name": "Yokodaidō",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "Yokkaichi",
+    "temp": 31,
+    "humidity": 66
+  },
+  {
+    "name": "Youkaichi",
+    "temp": 31,
+    "humidity": 56
+  },
+  {
+    "name": "Yobimatsu",
+    "temp": 34,
+    "humidity": 63
+  },
+  {
+    "name": "Yawata",
+    "temp": 32,
+    "humidity": 49
+  },
+  {
+    "name": "Yatsuzawa",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Honmachi",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "Yatsuomachi-higashikumisaka",
+    "temp": 34,
+    "humidity": 36
+  },
+  {
+    "name": "Yasugichō",
+    "temp": 33,
+    "humidity": 58
+  },
+  {
+    "name": "Yasu-shi",
+    "temp": 31,
+    "humidity": 54
+  },
+  {
+    "name": "Yashiro",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Yashio",
+    "temp": 33,
+    "humidity": 42
+  },
+  {
+    "name": "Yaotsu",
+    "temp": 30,
+    "humidity": 57
+  },
+  {
+    "name": "Yao",
+    "temp": 32,
+    "humidity": 52
+  },
+  {
+    "name": "Yanohama",
+    "temp": 30,
+    "humidity": 61
+  },
+  {
+    "name": "Yanai",
+    "temp": 31,
+    "humidity": 62
+  },
+  {
+    "name": "Yanagawa",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "Yanadachō",
+    "temp": 35,
+    "humidity": 39
+  },
+  {
+    "name": "Yamato-Takada",
+    "temp": 32,
+    "humidity": 53
+  },
+  {
+    "name": "Yamatominami",
+    "temp": 31,
+    "humidity": 52
+  },
+  {
+    "name": "Yamata",
+    "temp": 34,
+    "humidity": 38
+  },
+  {
+    "name": "Yamazakichō-nakabirose",
+    "temp": 31,
+    "humidity": 62
+  },
+  {
+    "name": "Yamanashi",
+    "temp": 31,
+    "humidity": 53
+  },
+  {
+    "name": "Yamakita",
+    "temp": 30,
+    "humidity": 58
+  },
+  {
+    "name": "Yamaguchi",
+    "temp": 30,
+    "humidity": 70
+  },
+  {
+    "name": "Yamaguchi",
+    "temp": 30,
+    "humidity": 71
+  },
+  {
+    "name": "Yamaga",
+    "temp": 32,
+    "humidity": 54
+  },
+  {
+    "name": "Yamae",
+    "temp": 33,
+    "humidity": 38
+  },
+  {
+    "name": "Yakuin-Horibata",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Yakage",
+    "temp": 34,
+    "humidity": 62
+  },
+  {
+    "name": "Yaizu",
+    "temp": 29,
+    "humidity": 66
+  },
+  {
+    "name": "Yaita",
+    "temp": 31,
+    "humidity": 50
+  },
+  {
+    "name": "Yabutani",
+    "temp": 31,
+    "humidity": 66
+  },
+  {
+    "name": "Yabuhana",
+    "temp": 30,
+    "humidity": 58
+  },
+  {
+    "name": "Yabu",
+    "temp": 31,
+    "humidity": 56
+  },
+  {
+    "name": "Warabo",
+    "temp": 29,
+    "humidity": 60
+  },
+  {
+    "name": "Warabi",
+    "temp": 34,
+    "humidity": 39
+  },
+  {
+    "name": "Wano",
+    "temp": 28,
+    "humidity": 83
+  },
+  {
+    "name": "Wakinohamachō",
+    "temp": 32,
+    "humidity": 56
+  },
+  {
+    "name": "Wakimachi",
+    "temp": 32,
+    "humidity": 61
+  },
+  {
+    "name": "Wake",
+    "temp": 33,
+    "humidity": 62
+  },
+  {
+    "name": "Wakayama",
+    "temp": 28,
+    "humidity": 56
+  },
+  {
+    "name": "Wakasa",
+    "temp": 30,
+    "humidity": 69
+  },
+  {
+    "name": "Wajima",
+    "temp": 27,
+    "humidity": 71
+  },
+  {
+    "name": "Wadomari",
+    "temp": 28,
+    "humidity": 82
+  },
+  {
+    "name": "Wadayama",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Utsunomiya",
+    "temp": 33,
+    "humidity": 41
+  },
+  {
+    "name": "Uto",
+    "temp": 32,
+    "humidity": 60
+  },
+  {
+    "name": "Utazu",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Usuki",
+    "temp": 29,
+    "humidity": 61
+  },
+  {
+    "name": "Ushibukamachi",
+    "temp": 31,
+    "humidity": 72
+  },
+  {
+    "name": "Usa",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Ureshinomachi-shimojuku",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "Urayasu",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "Uozu",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Uno",
+    "temp": 33,
+    "humidity": 67
+  },
+  {
+    "name": "Umi",
+    "temp": 33,
+    "humidity": 39
+  },
+  {
+    "name": "Uki",
+    "temp": 32,
+    "humidity": 58
+  },
+  {
+    "name": "Uken",
+    "temp": 29,
+    "humidity": 72
+  },
+  {
+    "name": "Ujiie",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Uji",
+    "temp": 32,
+    "humidity": 49
+  },
+  {
+    "name": "Uenohara",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Ueno",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Ueno-ebisumachi",
+    "temp": 31,
+    "humidity": 54
+  },
+  {
+    "name": "Ueki",
+    "temp": 28,
+    "humidity": 70
+  },
+  {
+    "name": "Uekimachi-mōno",
+    "temp": 31,
+    "humidity": 57
+  },
+  {
+    "name": "Ueda",
+    "temp": 32,
+    "humidity": 38
+  },
+  {
+    "name": "Ube",
+    "temp": 30,
+    "humidity": 73
+  },
+  {
+    "name": "Tsuyama",
+    "temp": 32,
+    "humidity": 64
+  },
+  {
+    "name": "Tsushima",
+    "temp": 31,
+    "humidity": 60
+  },
+  {
+    "name": "Tsurusaki",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Tsuruoka",
+    "temp": 29,
+    "humidity": 63
+  },
+  {
+    "name": "Tsurugi-asahimachi",
+    "temp": 30,
+    "humidity": 46
+  },
+  {
+    "name": "Tsurugasaki",
+    "temp": 30,
+    "humidity": 65
+  },
+  {
+    "name": "Tsuruga",
+    "temp": 31,
+    "humidity": 60
+  },
+  {
+    "name": "Tsunō",
+    "temp": 30,
+    "humidity": 72
+  },
+  {
+    "name": "Tsunagi",
+    "temp": 31,
+    "humidity": 67
+  },
+  {
+    "name": "Tsuma",
+    "temp": 30,
+    "humidity": 74
+  },
+  {
+    "name": "Tsukumiura",
+    "temp": 30,
+    "humidity": 67
+  },
+  {
+    "name": "Tsukawaki",
+    "temp": 29,
+    "humidity": 61
+  },
+  {
+    "name": "Tsukasamachi",
+    "temp": 31,
+    "humidity": 57
+  },
+  {
+    "name": "Tsukaguchichō",
+    "temp": 32,
+    "humidity": 52
+  },
+  {
+    "name": "Tsuiki",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "Tsubota",
+    "temp": 27,
+    "humidity": 79
+  },
+  {
+    "name": "Tsubata",
+    "temp": 31,
+    "humidity": 49
+  },
+  {
+    "name": "Tsubame",
+    "temp": 33,
+    "humidity": 49
+  },
+  {
+    "name": "Tsu",
+    "temp": 31,
+    "humidity": 65
+  },
+  {
+    "name": "Tozawa",
+    "temp": 28,
+    "humidity": 60
+  },
+  {
+    "name": "Toyota-shi",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "Toyota",
+    "temp": 31,
+    "humidity": 56
+  },
+  {
+    "name": "Toyoshina",
+    "temp": 32,
+    "humidity": 36
+  },
+  {
+    "name": "Toyooka",
+    "temp": 32,
+    "humidity": 54
+  },
+  {
+    "name": "Toyonaka",
+    "temp": 33,
+    "humidity": 48
+  },
+  {
+    "name": "Toyokawa",
+    "temp": 30,
+    "humidity": 63
+  },
+  {
+    "name": "Toyohashi",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "Toyohama",
+    "temp": 30,
+    "humidity": 73
+  },
+  {
+    "name": "Toyama-ken",
+    "temp": 33,
+    "humidity": 42
+  },
+  {
+    "name": "Toyama",
+    "temp": 33,
+    "humidity": 43
+  },
+  {
+    "name": "Tottori",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "Tottori",
+    "temp": 32,
+    "humidity": 61
+  },
+  {
+    "name": "Totsuka chō",
+    "temp": 29,
+    "humidity": 65
+  },
+  {
+    "name": "Tosu",
+    "temp": 33,
+    "humidity": 46
+  },
+  {
+    "name": "Toriimatsu",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Tonoshō",
+    "temp": 32,
+    "humidity": 71
+  },
+  {
+    "name": "Tondabayashichō",
+    "temp": 32,
+    "humidity": 54
+  },
+  {
+    "name": "Tonami",
+    "temp": 30,
+    "humidity": 61
+  },
+  {
+    "name": "Tomioka",
+    "temp": 32,
+    "humidity": 51
+  },
+  {
+    "name": "Tomigusuku",
+    "temp": 30,
+    "humidity": 75
+  },
+  {
+    "name": "Tokyo Prefecture",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Tokyo",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Tokuyama",
+    "temp": 29,
+    "humidity": 72
+  },
+  {
+    "name": "Tokushima-ken",
+    "temp": 27,
+    "humidity": 60
+  },
+  {
+    "name": "Tokushima",
+    "temp": 31,
+    "humidity": 62
+  },
+  {
+    "name": "Tokuda",
+    "temp": 31,
+    "humidity": 61
+  },
+  {
+    "name": "Tokorozawa",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Tokoname",
+    "temp": 30,
+    "humidity": 70
+  },
+  {
+    "name": "Toki",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Tokashiki",
+    "temp": 29,
+    "humidity": 82
+  },
+  {
+    "name": "Tōkamachi",
+    "temp": 34,
+    "humidity": 43
+  },
+  {
+    "name": "Tōkaichi",
+    "temp": 33,
+    "humidity": 56
+  },
+  {
+    "name": "Tōji",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "Togitsu",
+    "temp": 32,
+    "humidity": 69
+  },
+  {
+    "name": "Todaka",
+    "temp": 30,
+    "humidity": 75
+  },
+  {
+    "name": "Tochio-honchō",
+    "temp": 33,
+    "humidity": 48
+  },
+  {
+    "name": "Tochigi",
+    "temp": 32,
+    "humidity": 46
+  },
+  {
+    "name": "Tochigi",
+    "temp": 35,
+    "humidity": 36
+  },
+  {
+    "name": "Tōbō",
+    "temp": 32,
+    "humidity": 61
+  },
+  {
+    "name": "Toba",
+    "temp": 30,
+    "humidity": 70
+  },
+  {
+    "name": "Tenri",
+    "temp": 32,
+    "humidity": 51
+  },
+  {
+    "name": "Tennō",
+    "temp": 27,
+    "humidity": 75
+  },
+  {
+    "name": "Tenjin",
+    "temp": 33,
+    "humidity": 48
+  },
+  {
+    "name": "Tenjimmae",
+    "temp": 31,
+    "humidity": 61
+  },
+  {
+    "name": "Tawaramoto",
+    "temp": 33,
+    "humidity": 49
+  },
+  {
+    "name": "Tatsuno",
+    "temp": 30,
+    "humidity": 42
+  },
+  {
+    "name": "Tatsunochō-tominaga",
+    "temp": 31,
+    "humidity": 66
+  },
+  {
+    "name": "Tateyama",
+    "temp": 28,
+    "humidity": 78
+  },
+  {
+    "name": "Tatebayashi",
+    "temp": 35,
+    "humidity": 36
+  },
+  {
+    "name": "Tarumizu",
+    "temp": 30,
+    "humidity": 68
+  },
+  {
+    "name": "Tarui",
+    "temp": 31,
+    "humidity": 64
+  },
+  {
+    "name": "Taragi",
+    "temp": 30,
+    "humidity": 67
+  },
+  {
+    "name": "Tanushimarumachi-toyoki",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Tanuma",
+    "temp": 34,
+    "humidity": 40
+  },
+  {
+    "name": "Nishi-Tokyo-shi",
+    "temp": 33,
+    "humidity": 43
+  },
+  {
+    "name": "Tanashichō",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Tanabe",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Tanabe",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "Tamba",
+    "temp": 32,
+    "humidity": 54
+  },
+  {
+    "name": "Tamarai",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "Tamano",
+    "temp": 33,
+    "humidity": 67
+  },
+  {
+    "name": "Tamana",
+    "temp": 32,
+    "humidity": 56
+  },
+  {
+    "name": "Tamamura",
+    "temp": 35,
+    "humidity": 40
+  },
+  {
+    "name": "Tamagawa",
+    "temp": 31,
+    "humidity": 48
+  },
+  {
+    "name": "Taketoyo",
+    "temp": 30,
+    "humidity": 70
+  },
+  {
+    "name": "Taketomi",
+    "temp": 28,
+    "humidity": 87
+  },
+  {
+    "name": "Takeochō-takeo",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "Takenouchi",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Takehara",
+    "temp": 31,
+    "humidity": 67
+  },
+  {
+    "name": "Takefu",
+    "temp": 32,
+    "humidity": 54
+  },
+  {
+    "name": "Takedamachi",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Takayama",
+    "temp": 30,
+    "humidity": 50
+  },
+  {
+    "name": "Takatsuki",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Takatsu",
+    "temp": 31,
+    "humidity": 65
+  },
+  {
+    "name": "Takatorichō",
+    "temp": 31,
+    "humidity": 60
+  },
+  {
+    "name": "Takatachō",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Takata",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Takasaki",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Takasagochō-takasemachi",
+    "temp": 31,
+    "humidity": 64
+  },
+  {
+    "name": "Takarazuka",
+    "temp": 32,
+    "humidity": 53
+  },
+  {
+    "name": "Takaoka",
+    "temp": 34,
+    "humidity": 36
+  },
+  {
+    "name": "Takanabe",
+    "temp": 30,
+    "humidity": 73
+  },
+  {
+    "name": "Takamori",
+    "temp": 29,
+    "humidity": 62
+  },
+  {
+    "name": "Takamatsu",
+    "temp": 28,
+    "humidity": 62
+  },
+  {
+    "name": "Takamatsu",
+    "temp": 31,
+    "humidity": 61
+  },
+  {
+    "name": "Takajōmachi",
+    "temp": 29,
+    "humidity": 65
+  },
+  {
+    "name": "Takaishi",
+    "temp": 32,
+    "humidity": 58
+  },
+  {
+    "name": "Takahashi",
+    "temp": 32,
+    "humidity": 62
+  },
+  {
+    "name": "Takaharu",
+    "temp": 30,
+    "humidity": 79
+  },
+  {
+    "name": "Takahama",
+    "temp": 31,
+    "humidity": 64
+  },
+  {
+    "name": "Bungo-Takada-shi",
+    "temp": 31,
+    "humidity": 61
+  },
+  {
+    "name": "Tajimi",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Tahara",
+    "temp": 29,
+    "humidity": 71
+  },
+  {
+    "name": "Tagawa",
+    "temp": 33,
+    "humidity": 52
+  },
+  {
+    "name": "Taga",
+    "temp": 31,
+    "humidity": 61
+  },
+  {
+    "name": "Tadotsu",
+    "temp": 29,
+    "humidity": 65
+  },
+  {
+    "name": "Tadami",
+    "temp": 32,
+    "humidity": 44
+  },
+  {
+    "name": "Tachikawa",
+    "temp": 33,
+    "humidity": 43
+  },
+  {
+    "name": "Tachiarai",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Tabuse",
+    "temp": 31,
+    "humidity": 65
+  },
+  {
+    "name": "Suzuka",
+    "temp": 31,
+    "humidity": 70
+  },
+  {
+    "name": "Suzaka",
+    "temp": 33,
+    "humidity": 38
+  },
+  {
+    "name": "Suwa",
+    "temp": 30,
+    "humidity": 42
+  },
+  {
+    "name": "Susami",
+    "temp": 30,
+    "humidity": 68
+  },
+  {
+    "name": "Susaki",
+    "temp": 28,
+    "humidity": 80
+  },
+  {
+    "name": "Sumoto",
+    "temp": 30,
+    "humidity": 67
+  },
+  {
+    "name": "Sukumo",
+    "temp": 30,
+    "humidity": 69
+  },
+  {
+    "name": "Suita",
+    "temp": 33,
+    "humidity": 51
+  },
+  {
+    "name": "Suibara",
+    "temp": 32,
+    "humidity": 54
+  },
+  {
+    "name": "Suguri",
+    "temp": 29,
+    "humidity": 36
+  },
+  {
+    "name": "Sugito",
+    "temp": 35,
+    "humidity": 36
+  },
+  {
+    "name": "Sueyoshichō-ninokata",
+    "temp": 30,
+    "humidity": 78
+  },
+  {
+    "name": "Shimosomeda",
+    "temp": 30,
+    "humidity": 65
+  },
+  {
+    "name": "Sōka",
+    "temp": 33,
+    "humidity": 41
+  },
+  {
+    "name": "Sōja",
+    "temp": 34,
+    "humidity": 60
+  },
+  {
+    "name": "Soeda",
+    "temp": 31,
+    "humidity": 53
+  },
+  {
+    "name": "Sobue",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Shuzenji",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Shōbu",
+    "temp": 35,
+    "humidity": 35
+  },
+  {
+    "name": "Shōbara",
+    "temp": 32,
+    "humidity": 58
+  },
+  {
+    "name": "Shizuoka",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Shizuoka",
+    "temp": 29,
+    "humidity": 66
+  },
+  {
+    "name": "Shitara",
+    "temp": 27,
+    "humidity": 66
+  },
+  {
+    "name": "Shirone",
+    "temp": 33,
+    "humidity": 48
+  },
+  {
+    "name": "Shirayamamachi",
+    "temp": 32,
+    "humidity": 44
+  },
+  {
+    "name": "Shiraoka",
+    "temp": 35,
+    "humidity": 36
+  },
+  {
+    "name": "Shirako",
+    "temp": 33,
+    "humidity": 42
+  },
+  {
+    "name": "Shirahamachō-usazakiminami",
+    "temp": 31,
+    "humidity": 64
+  },
+  {
+    "name": "Shirahama",
+    "temp": 31,
+    "humidity": 62
+  },
+  {
+    "name": "Shiozawa",
+    "temp": 28,
+    "humidity": 55
+  },
+  {
+    "name": "Shiozawa",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Shiomidai",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Shiojiri",
+    "temp": 30,
+    "humidity": 40
+  },
+  {
+    "name": "Shiobaru",
+    "temp": 33,
+    "humidity": 43
+  },
+  {
+    "name": "Shintō",
+    "temp": 28,
+    "humidity": 84
+  },
+  {
+    "name": "Shinshiro",
+    "temp": 29,
+    "humidity": 65
+  },
+  {
+    "name": "Shinjichō-shinji",
+    "temp": 36,
+    "humidity": 53
+  },
+  {
+    "name": "Shin’ichi",
+    "temp": 33,
+    "humidity": 56
+  },
+  {
+    "name": "Shingū",
+    "temp": 31,
+    "humidity": 66
+  },
+  {
+    "name": "Shinagawa-ku",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "Shimoshirouzu",
+    "temp": 33,
+    "humidity": 46
+  },
+  {
+    "name": "Shimo-satsume",
+    "temp": 33,
+    "humidity": 56
+  },
+  {
+    "name": "Shimonoseki",
+    "temp": 31,
+    "humidity": 66
+  },
+  {
+    "name": "Shimonita",
+    "temp": 30,
+    "humidity": 58
+  },
+  {
+    "name": "Shimoku",
+    "temp": 30,
+    "humidity": 53
+  },
+  {
+    "name": "Shimokodanaka",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Shimodate",
+    "temp": 33,
+    "humidity": 41
+  },
+  {
+    "name": "Shimoda",
+    "temp": 29,
+    "humidity": 68
+  },
+  {
+    "name": "Minato",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "Nishishinminato",
+    "temp": 35,
+    "humidity": 36
+  },
+  {
+    "name": "Shinbashichō",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Shimane-ken",
+    "temp": 33,
+    "humidity": 53
+  },
+  {
+    "name": "Shimada",
+    "temp": 30,
+    "humidity": 63
+  },
+  {
+    "name": "Shimabara",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "Shiki",
+    "temp": 34,
+    "humidity": 40
+  },
+  {
+    "name": "Shijōdōri",
+    "temp": 33,
+    "humidity": 51
+  },
+  {
+    "name": "Shiida",
+    "temp": 31,
+    "humidity": 62
+  },
+  {
+    "name": "Shiga",
+    "temp": 32,
+    "humidity": 61
+  },
+  {
+    "name": "Shido",
+    "temp": 33,
+    "humidity": 61
+  },
+  {
+    "name": "Nanabari",
+    "temp": 29,
+    "humidity": 80
+  },
+  {
+    "name": "Shibushi",
+    "temp": 31,
+    "humidity": 74
+  },
+  {
+    "name": "Shibukawa",
+    "temp": 31,
+    "humidity": 48
+  },
+  {
+    "name": "Shibata",
+    "temp": 29,
+    "humidity": 66
+  },
+  {
+    "name": "Seto",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Setakamachi-takayanagi",
+    "temp": 33,
+    "humidity": 51
+  },
+  {
+    "name": "Umegaoka",
+    "temp": 31,
+    "humidity": 53
+  },
+  {
+    "name": "Seta",
+    "temp": 33,
+    "humidity": 53
+  },
+  {
+    "name": "Kiire-sesekushichō",
+    "temp": 29,
+    "humidity": 70
+  },
+  {
+    "name": "Senzaki",
+    "temp": 31,
+    "humidity": 68
+  },
+  {
+    "name": "Satsumasendai",
+    "temp": 31,
+    "humidity": 71
+  },
+  {
+    "name": "Sembonyama",
+    "temp": 33,
+    "humidity": 68
+  },
+  {
+    "name": "Sekimachi",
+    "temp": 31,
+    "humidity": 57
+  },
+  {
+    "name": "Sekigahara",
+    "temp": 30,
+    "humidity": 65
+  },
+  {
+    "name": "Sekichō-furumaya",
+    "temp": 31,
+    "humidity": 64
+  },
+  {
+    "name": "Sayō",
+    "temp": 31,
+    "humidity": 64
+  },
+  {
+    "name": "Satte",
+    "temp": 35,
+    "humidity": 37
+  },
+  {
+    "name": "Sasebo",
+    "temp": 32,
+    "humidity": 53
+  },
+  {
+    "name": "Sasayama",
+    "temp": 31,
+    "humidity": 53
+  },
+  {
+    "name": "Sasaguri",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Sano",
+    "temp": 34,
+    "humidity": 39
+  },
+  {
+    "name": "Sanjō",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Sandachō",
+    "temp": 32,
+    "humidity": 53
+  },
+  {
+    "name": "Sanmyō",
+    "temp": 31,
+    "humidity": 75
+  },
+  {
+    "name": "Sanbashidōri",
+    "temp": 32,
+    "humidity": 68
+  },
+  {
+    "name": "Sakurakabu",
+    "temp": 30,
+    "humidity": 55
+  },
+  {
+    "name": "Sakurai",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "Sakurachō",
+    "temp": 36,
+    "humidity": 33
+  },
+  {
+    "name": "Sakurabashidōri",
+    "temp": 33,
+    "humidity": 43
+  },
+  {
+    "name": "Saku",
+    "temp": 30,
+    "humidity": 44
+  },
+  {
+    "name": "Sakata",
+    "temp": 29,
+    "humidity": 61
+  },
+  {
+    "name": "Ichinomiyamachi-sakanashi",
+    "temp": 28,
+    "humidity": 65
+  },
+  {
+    "name": "Sakaki",
+    "temp": 33,
+    "humidity": 36
+  },
+  {
+    "name": "Sakaiminato",
+    "temp": 34,
+    "humidity": 64
+  },
+  {
+    "name": "Sakaidechō",
+    "temp": 33,
+    "humidity": 67
+  },
+  {
+    "name": "Sakaidechō",
+    "temp": 33,
+    "humidity": 67
+  },
+  {
+    "name": "Sakai-nakajima",
+    "temp": 35,
+    "humidity": 38
+  },
+  {
+    "name": "Sakai",
+    "temp": 34,
+    "humidity": 38
+  },
+  {
+    "name": "Sakai",
+    "temp": 32,
+    "humidity": 52
+  },
+  {
+    "name": "Sakaguchi",
+    "temp": 32,
+    "humidity": 47
+  },
+  {
+    "name": "Sakado",
+    "temp": 35,
+    "humidity": 40
+  },
+  {
+    "name": "Saitama-ken",
+    "temp": 34,
+    "humidity": 39
+  },
+  {
+    "name": "Saiki",
+    "temp": 30,
+    "humidity": 73
+  },
+  {
+    "name": "Sagara",
+    "temp": 28,
+    "humidity": 66
+  },
+  {
+    "name": "Sagamihara",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Saga-ken",
+    "temp": 31,
+    "humidity": 57
+  },
+  {
+    "name": "Saga",
+    "temp": 32,
+    "humidity": 49
+  },
+  {
+    "name": "Sabae",
+    "temp": 33,
+    "humidity": 50
+  },
+  {
+    "name": "Ryūō",
+    "temp": 30,
+    "humidity": 54
+  },
+  {
+    "name": "Ryōtsu-minato",
+    "temp": 29,
+    "humidity": 58
+  },
+  {
+    "name": "Ronji",
+    "temp": 30,
+    "humidity": 75
+  },
+  {
+    "name": "Rokujizō",
+    "temp": 33,
+    "humidity": 50
+  },
+  {
+    "name": "Renjakuchō",
+    "temp": 34,
+    "humidity": 41
+  },
+  {
+    "name": "Ōzu",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Oyama",
+    "temp": 35,
+    "humidity": 37
+  },
+  {
+    "name": "Ōyama",
+    "temp": 28,
+    "humidity": 72
+  },
+  {
+    "name": "Owase",
+    "temp": 30,
+    "humidity": 63
+  },
+  {
+    "name": "Ōtsuki",
+    "temp": 31,
+    "humidity": 48
+  },
+  {
+    "name": "Ōtsu",
+    "temp": 32,
+    "humidity": 53
+  },
+  {
+    "name": "Ohtemachi",
+    "temp": 33,
+    "humidity": 50
+  },
+  {
+    "name": "Ōtake",
+    "temp": 32,
+    "humidity": 64
+  },
+  {
+    "name": "Ōta",
+    "temp": 35,
+    "humidity": 37
+  },
+  {
+    "name": "Oshi",
+    "temp": 35,
+    "humidity": 35
+  },
+  {
+    "name": "Ōsaka-fu",
+    "temp": 32,
+    "humidity": 52
+  },
+  {
+    "name": "Osaka",
+    "temp": 29,
+    "humidity": 54
+  },
+  {
+    "name": "Osaka",
+    "temp": 32,
+    "humidity": 52
+  },
+  {
+    "name": "Onomichi",
+    "temp": 32,
+    "humidity": 61
+  },
+  {
+    "name": "Onoda",
+    "temp": 31,
+    "humidity": 70
+  },
+  {
+    "name": "Ono",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Ono",
+    "temp": 32,
+    "humidity": 58
+  },
+  {
+    "name": "Ōno-hara",
+    "temp": 30,
+    "humidity": 65
+  },
+  {
+    "name": "Ono",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Onna",
+    "temp": 29,
+    "humidity": 79
+  },
+  {
+    "name": "Ōmuta",
+    "temp": 32,
+    "humidity": 58
+  },
+  {
+    "name": "Ōmura",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Ōmiyachō",
+    "temp": 29,
+    "humidity": 70
+  },
+  {
+    "name": "Omi",
+    "temp": 31,
+    "humidity": 43
+  },
+  {
+    "name": "Ōme",
+    "temp": 32,
+    "humidity": 45
+  },
+  {
+    "name": "Ōmamachō-ōmama",
+    "temp": 32,
+    "humidity": 45
+  },
+  {
+    "name": "Ōmachi",
+    "temp": 31,
+    "humidity": 41
+  },
+  {
+    "name": "Ōkuchi-shinohara",
+    "temp": 30,
+    "humidity": 74
+  },
+  {
+    "name": "Ōkubo-naka",
+    "temp": 30,
+    "humidity": 63
+  },
+  {
+    "name": "Okinawa",
+    "temp": 29,
+    "humidity": 84
+  },
+  {
+    "name": "Okegawa",
+    "temp": 35,
+    "humidity": 37
+  },
+  {
+    "name": "Ōkagō",
+    "temp": 26,
+    "humidity": 83
+  },
+  {
+    "name": "Okazaki",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Okayama-ken",
+    "temp": 32,
+    "humidity": 66
+  },
+  {
+    "name": "Okayama",
+    "temp": 33,
+    "humidity": 62
+  },
+  {
+    "name": "Okaya",
+    "temp": 30,
+    "humidity": 41
+  },
+  {
+    "name": "Ōkawa",
+    "temp": 32,
+    "humidity": 61
+  },
+  {
+    "name": "Okata",
+    "temp": 26,
+    "humidity": 85
+  },
+  {
+    "name": "Ojiya",
+    "temp": 32,
+    "humidity": 49
+  },
+  {
+    "name": "Shinochō-ōji",
+    "temp": 32,
+    "humidity": 53
+  },
+  {
+    "name": "Oita Prefecture",
+    "temp": 29,
+    "humidity": 66
+  },
+  {
+    "name": "Ōita",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Ōiso",
+    "temp": 28,
+    "humidity": 72
+  },
+  {
+    "name": "Ōi",
+    "temp": 34,
+    "humidity": 42
+  },
+  {
+    "name": "Ohama",
+    "temp": 28,
+    "humidity": 76
+  },
+  {
+    "name": "Hama",
+    "temp": 29,
+    "humidity": 86
+  },
+  {
+    "name": "Ōhama",
+    "temp": 29,
+    "humidity": 79
+  },
+  {
+    "name": "Ogunimachi",
+    "temp": 32,
+    "humidity": 52
+  },
+  {
+    "name": "Ogose",
+    "temp": 34,
+    "humidity": 41
+  },
+  {
+    "name": "Ogōri-shimogō",
+    "temp": 31,
+    "humidity": 73
+  },
+  {
+    "name": "Ōgimachiya",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Ogimachi",
+    "temp": 31,
+    "humidity": 51
+  },
+  {
+    "name": "Ogawa",
+    "temp": 34,
+    "humidity": 38
+  },
+  {
+    "name": "Ogano",
+    "temp": 33,
+    "humidity": 48
+  },
+  {
+    "name": "Ōgaki",
+    "temp": 32,
+    "humidity": 62
+  },
+  {
+    "name": "Mitsushimachō-ōfunakoshi",
+    "temp": 29,
+    "humidity": 79
+  },
+  {
+    "name": "Ōtera",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Odawara",
+    "temp": 29,
+    "humidity": 67
+  },
+  {
+    "name": "Ōdaka",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Ōdachō-ōda",
+    "temp": 33,
+    "humidity": 61
+  },
+  {
+    "name": "Ochiai",
+    "temp": 24,
+    "humidity": 52
+  },
+  {
+    "name": "Obuse",
+    "temp": 33,
+    "humidity": 39
+  },
+  {
+    "name": "Ōbu",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Obita",
+    "temp": 32,
+    "humidity": 64
+  },
+  {
+    "name": "Obama",
+    "temp": 32,
+    "humidity": 56
+  },
+  {
+    "name": "Nyūzen",
+    "temp": 29,
+    "humidity": 59
+  },
+  {
+    "name": "Numazu",
+    "temp": 28,
+    "humidity": 70
+  },
+  {
+    "name": "Numata",
+    "temp": 31,
+    "humidity": 49
+  },
+  {
+    "name": "Nosato",
+    "temp": 30,
+    "humidity": 79
+  },
+  {
+    "name": "Nonoichi",
+    "temp": 30,
+    "humidity": 61
+  },
+  {
+    "name": "Nōgata",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Noda",
+    "temp": 33,
+    "humidity": 40
+  },
+  {
+    "name": "Nobeoka",
+    "temp": 30,
+    "humidity": 73
+  },
+  {
+    "name": "Nishizu",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Nishiwaki",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Nishio",
+    "temp": 31,
+    "humidity": 64
+  },
+  {
+    "name": "Nishinoomote",
+    "temp": 29,
+    "humidity": 80
+  },
+  {
+    "name": "Nishinomiya-hama",
+    "temp": 32,
+    "humidity": 54
+  },
+  {
+    "name": "Nishikichō",
+    "temp": 30,
+    "humidity": 54
+  },
+  {
+    "name": "Nishi-hanawa",
+    "temp": 31,
+    "humidity": 53
+  },
+  {
+    "name": "Nishigochō",
+    "temp": 33,
+    "humidity": 35
+  },
+  {
+    "name": "Nishihara",
+    "temp": 30,
+    "humidity": 76
+  },
+  {
+    "name": "Nishi",
+    "temp": 29,
+    "humidity": 81
+  },
+  {
+    "name": "Nirasaki",
+    "temp": 30,
+    "humidity": 55
+  },
+  {
+    "name": "Ninomiya",
+    "temp": 28,
+    "humidity": 70
+  },
+  {
+    "name": "Nikkō",
+    "temp": 29,
+    "humidity": 57
+  },
+  {
+    "name": "Niitsu-honchō",
+    "temp": 33,
+    "humidity": 48
+  },
+  {
+    "name": "Niimi",
+    "temp": 32,
+    "humidity": 66
+  },
+  {
+    "name": "Niihama",
+    "temp": 32,
+    "humidity": 70
+  },
+  {
+    "name": "Niigata-ken",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "Niigata",
+    "temp": 29,
+    "humidity": 63
+  },
+  {
+    "name": "Nihon’ōdōri",
+    "temp": 28,
+    "humidity": 73
+  },
+  {
+    "name": "Nichinan",
+    "temp": 30,
+    "humidity": 77
+  },
+  {
+    "name": "Nerima",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Nemoto",
+    "temp": 27,
+    "humidity": 80
+  },
+  {
+    "name": "Naze",
+    "temp": 28,
+    "humidity": 75
+  },
+  {
+    "name": "Nasuzukuri",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Narutochō-mitsuishi",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "Narusawa",
+    "temp": 29,
+    "humidity": 54
+  },
+  {
+    "name": "Nara-ken",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Nara-shi",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Nanukaichi",
+    "temp": 34,
+    "humidity": 57
+  },
+  {
+    "name": "Nanao",
+    "temp": 33,
+    "humidity": 43
+  },
+  {
+    "name": "Namerikawa",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Nakijin",
+    "temp": 29,
+    "humidity": 77
+  },
+  {
+    "name": "Nakayama",
+    "temp": 30,
+    "humidity": 59
+  },
+  {
+    "name": "Nakatsugawa",
+    "temp": 29,
+    "humidity": 62
+  },
+  {
+    "name": "Nakatsu",
+    "temp": 30,
+    "humidity": 59
+  },
+  {
+    "name": "Nakatsu",
+    "temp": 31,
+    "humidity": 71
+  },
+  {
+    "name": "Nakano",
+    "temp": 28,
+    "humidity": 83
+  },
+  {
+    "name": "Nakanojōmachi",
+    "temp": 30,
+    "humidity": 55
+  },
+  {
+    "name": "Nakano",
+    "temp": 33,
+    "humidity": 41
+  },
+  {
+    "name": "Nakamura",
+    "temp": 31,
+    "humidity": 38
+  },
+  {
+    "name": "Nakamura",
+    "temp": 30,
+    "humidity": 72
+  },
+  {
+    "name": "Nakama",
+    "temp": 32,
+    "humidity": 60
+  },
+  {
+    "name": "Nakajima",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Nakaizumi",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Nakaichi",
+    "temp": 30,
+    "humidity": 71
+  },
+  {
+    "name": "Yamazakichō-nakai",
+    "temp": 31,
+    "humidity": 62
+  },
+  {
+    "name": "Naka-gōchi",
+    "temp": 31,
+    "humidity": 75
+  },
+  {
+    "name": "Nakagawa",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Nahari",
+    "temp": 30,
+    "humidity": 65
+  },
+  {
+    "name": "Naha",
+    "temp": 30,
+    "humidity": 79
+  },
+  {
+    "name": "Nagoya",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Nago",
+    "temp": 30,
+    "humidity": 77
+  },
+  {
+    "name": "Nagasaki Prefecture",
+    "temp": 31,
+    "humidity": 71
+  },
+  {
+    "name": "Nagasaki",
+    "temp": 30,
+    "humidity": 67
+  },
+  {
+    "name": "Nagareyama",
+    "temp": 32,
+    "humidity": 44
+  },
+  {
+    "name": "Nagaoka",
+    "temp": 32,
+    "humidity": 51
+  },
+  {
+    "name": "Nagao",
+    "temp": 33,
+    "humidity": 58
+  },
+  {
+    "name": "Nagano-ken",
+    "temp": 29,
+    "humidity": 39
+  },
+  {
+    "name": "Naganohara",
+    "temp": 29,
+    "humidity": 51
+  },
+  {
+    "name": "Nagano",
+    "temp": 33,
+    "humidity": 35
+  },
+  {
+    "name": "Nagahamamachi",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Nagahama",
+    "temp": 32,
+    "humidity": 61
+  },
+  {
+    "name": "Nabari",
+    "temp": 30,
+    "humidity": 54
+  },
+  {
+    "name": "Myōrakujichō",
+    "temp": 31,
+    "humidity": 57
+  },
+  {
+    "name": "Musashino",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Murotsu",
+    "temp": 28,
+    "humidity": 72
+  },
+  {
+    "name": "Muroto-misakicho",
+    "temp": 28,
+    "humidity": 72
+  },
+  {
+    "name": "Muramatsu",
+    "temp": 34,
+    "humidity": 43
+  },
+  {
+    "name": "Murakami",
+    "temp": 30,
+    "humidity": 56
+  },
+  {
+    "name": "Muraimachi-minami",
+    "temp": 32,
+    "humidity": 38
+  },
+  {
+    "name": "Mukō",
+    "temp": 33,
+    "humidity": 51
+  },
+  {
+    "name": "Mukai-awagasaki",
+    "temp": 29,
+    "humidity": 63
+  },
+  {
+    "name": "Muikamachi",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Mugiura",
+    "temp": 31,
+    "humidity": 66
+  },
+  {
+    "name": "Motomachi",
+    "temp": 31,
+    "humidity": 66
+  },
+  {
+    "name": "Motoichiba",
+    "temp": 28,
+    "humidity": 74
+  },
+  {
+    "name": "Motogoe",
+    "temp": 32,
+    "humidity": 61
+  },
+  {
+    "name": "Morohongō",
+    "temp": 34,
+    "humidity": 41
+  },
+  {
+    "name": "Yamakunimachi-morizane",
+    "temp": 29,
+    "humidity": 70
+  },
+  {
+    "name": "Moriyama",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Moriguchi",
+    "temp": 33,
+    "humidity": 46
+  },
+  {
+    "name": "Mori",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Mizunami",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "Mizoguchi",
+    "temp": 32,
+    "humidity": 60
+  },
+  {
+    "name": "Miyoshi-shi",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Miyoshi",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Miyazu",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "Miyazaki",
+    "temp": 29,
+    "humidity": 80
+  },
+  {
+    "name": "Miyazaki",
+    "temp": 31,
+    "humidity": 77
+  },
+  {
+    "name": "Miyamaechō",
+    "temp": 34,
+    "humidity": 42
+  },
+  {
+    "name": "Miyakonojō",
+    "temp": 30,
+    "humidity": 76
+  },
+  {
+    "name": "Miyake-naka",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Miyajima",
+    "temp": 29,
+    "humidity": 70
+  },
+  {
+    "name": "Miyaji",
+    "temp": 33,
+    "humidity": 58
+  },
+  {
+    "name": "Miyada",
+    "temp": 30,
+    "humidity": 49
+  },
+  {
+    "name": "Miyata",
+    "temp": 32,
+    "humidity": 51
+  },
+  {
+    "name": "Miwa",
+    "temp": 31,
+    "humidity": 36
+  },
+  {
+    "name": "Mitsuke",
+    "temp": 32,
+    "humidity": 47
+  },
+  {
+    "name": "Mitsukaidō",
+    "temp": 33,
+    "humidity": 42
+  },
+  {
+    "name": "Mitsugarasu",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Mitake",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Mitaka-shi",
+    "temp": 32,
+    "humidity": 46
+  },
+  {
+    "name": "Mita",
+    "temp": 30,
+    "humidity": 56
+  },
+  {
+    "name": "Mishima",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "Minowa",
+    "temp": 32,
+    "humidity": 45
+  },
+  {
+    "name": "Mino",
+    "temp": 31,
+    "humidity": 49
+  },
+  {
+    "name": "Minobu",
+    "temp": 28,
+    "humidity": 61
+  },
+  {
+    "name": "Mino",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Minatomachi",
+    "temp": 32,
+    "humidity": 58
+  },
+  {
+    "name": "Minato",
+    "temp": 28,
+    "humidity": 73
+  },
+  {
+    "name": "Minano",
+    "temp": 34,
+    "humidity": 43
+  },
+  {
+    "name": "Minamisenju",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Minamirinkan",
+    "temp": 31,
+    "humidity": 52
+  },
+  {
+    "name": "Minamikasagi",
+    "temp": 32,
+    "humidity": 51
+  },
+  {
+    "name": "Minamata",
+    "temp": 32,
+    "humidity": 65
+  },
+  {
+    "name": "Minakuchichō-matoba",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Minagi",
+    "temp": 34,
+    "humidity": 62
+  },
+  {
+    "name": "Mikuni",
+    "temp": 30,
+    "humidity": 66
+  },
+  {
+    "name": "Miki",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Mihara",
+    "temp": 32,
+    "humidity": 62
+  },
+  {
+    "name": "Mifune",
+    "temp": 32,
+    "humidity": 56
+  },
+  {
+    "name": "Mie-ken",
+    "temp": 30,
+    "humidity": 54
+  },
+  {
+    "name": "Mie",
+    "temp": 30,
+    "humidity": 61
+  },
+  {
+    "name": "Mibu",
+    "temp": 35,
+    "humidity": 37
+  },
+  {
+    "name": "Menuma",
+    "temp": 36,
+    "humidity": 35
+  },
+  {
+    "name": "Mayanoheta",
+    "temp": 32,
+    "humidity": 59
+  },
+  {
+    "name": "Matsuzaki",
+    "temp": 29,
+    "humidity": 68
+  },
+  {
+    "name": "Matsutō",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "Matsuzaka-shi",
+    "temp": 32,
+    "humidity": 60
+  },
+  {
+    "name": "Matsumoto",
+    "temp": 32,
+    "humidity": 37
+  },
+  {
+    "name": "Matsugasakihama",
+    "temp": 28,
+    "humidity": 70
+  },
+  {
+    "name": "Matsue",
+    "temp": 35,
+    "humidity": 60
+  },
+  {
+    "name": "Matsudo",
+    "temp": 31,
+    "humidity": 48
+  },
+  {
+    "name": "Matsubase",
+    "temp": 32,
+    "humidity": 60
+  },
+  {
+    "name": "Matsubara",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Matoba",
+    "temp": 33,
+    "humidity": 60
+  },
+  {
+    "name": "Masuda",
+    "temp": 32,
+    "humidity": 59
+  },
+  {
+    "name": "Maruoka",
+    "temp": 33,
+    "humidity": 50
+  },
+  {
+    "name": "Marunouchi",
+    "temp": 31,
+    "humidity": 54
+  },
+  {
+    "name": "Kamimaruko",
+    "temp": 32,
+    "humidity": 36
+  },
+  {
+    "name": "Marugame",
+    "temp": 33,
+    "humidity": 66
+  },
+  {
+    "name": "Manzawa",
+    "temp": 29,
+    "humidity": 68
+  },
+  {
+    "name": "Bandaichō",
+    "temp": 31,
+    "humidity": 67
+  },
+  {
+    "name": "Manazuru",
+    "temp": 28,
+    "humidity": 69
+  },
+  {
+    "name": "Mameda-honmachi",
+    "temp": 30,
+    "humidity": 58
+  },
+  {
+    "name": "Makurazaki",
+    "temp": 30,
+    "humidity": 73
+  },
+  {
+    "name": "Makinohara",
+    "temp": 29,
+    "humidity": 62
+  },
+  {
+    "name": "Maki",
+    "temp": 29,
+    "humidity": 66
+  },
+  {
+    "name": "Maizuru",
+    "temp": 33,
+    "humidity": 48
+  },
+  {
+    "name": "Maibara",
+    "temp": 32,
+    "humidity": 61
+  },
+  {
+    "name": "Maehama",
+    "temp": 31,
+    "humidity": 71
+  },
+  {
+    "name": "Maeda",
+    "temp": 31,
+    "humidity": 71
+  },
+  {
+    "name": "Maebashi",
+    "temp": 34,
+    "humidity": 42
+  },
+  {
+    "name": "Maebaru-chūō",
+    "temp": 33,
+    "humidity": 55
+  },
+  {
+    "name": "Machida",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Kyōto-shi",
+    "temp": 31,
+    "humidity": 54
+  },
+  {
+    "name": "Kyoto Prefecture",
+    "temp": 31,
+    "humidity": 50
+  },
+  {
+    "name": "Kyoto",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "Kyōguchi",
+    "temp": 33,
+    "humidity": 48
+  },
+  {
+    "name": "Kuwana",
+    "temp": 31,
+    "humidity": 66
+  },
+  {
+    "name": "Kushiro",
+    "temp": 33,
+    "humidity": 48
+  },
+  {
+    "name": "Kushimoto",
+    "temp": 30,
+    "humidity": 69
+  },
+  {
+    "name": "Kushikino",
+    "temp": 31,
+    "humidity": 69
+  },
+  {
+    "name": "Kusatsu",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Kurume",
+    "temp": 33,
+    "humidity": 51
+  },
+  {
+    "name": "Kuroda",
+    "temp": 32,
+    "humidity": 56
+  },
+  {
+    "name": "Kurihashi",
+    "temp": 35,
+    "humidity": 35
+  },
+  {
+    "name": "Kure",
+    "temp": 31,
+    "humidity": 67
+  },
+  {
+    "name": "Kurayoshi",
+    "temp": 33,
+    "humidity": 61
+  },
+  {
+    "name": "Kurashiki",
+    "temp": 34,
+    "humidity": 61
+  },
+  {
+    "name": "Kuradani",
+    "temp": 33,
+    "humidity": 48
+  },
+  {
+    "name": "Kunigami",
+    "temp": 29,
+    "humidity": 79
+  },
+  {
+    "name": "Kumamoto",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Kumamoto",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Kumagaya",
+    "temp": 36,
+    "humidity": 34
+  },
+  {
+    "name": "Kukichūō",
+    "temp": 35,
+    "humidity": 35
+  },
+  {
+    "name": "Kugayama",
+    "temp": 32,
+    "humidity": 47
+  },
+  {
+    "name": "Kugamachi",
+    "temp": 30,
+    "humidity": 63
+  },
+  {
+    "name": "Kudoyama",
+    "temp": 31,
+    "humidity": 56
+  },
+  {
+    "name": "Kudamatsu",
+    "temp": 30,
+    "humidity": 73
+  },
+  {
+    "name": "Kozakai-chō",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "Kotohira",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "Kōtari",
+    "temp": 33,
+    "humidity": 49
+  },
+  {
+    "name": "Kuragaki-kosugi",
+    "temp": 34,
+    "humidity": 40
+  },
+  {
+    "name": "Ko-shinozu",
+    "temp": 34,
+    "humidity": 63
+  },
+  {
+    "name": "Koshigaya",
+    "temp": 34,
+    "humidity": 38
+  },
+  {
+    "name": "Kosai-shi",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Kōnosu",
+    "temp": 35,
+    "humidity": 35
+  },
+  {
+    "name": "Kōnan",
+    "temp": 32,
+    "humidity": 56
+  },
+  {
+    "name": "Komoro",
+    "temp": 31,
+    "humidity": 41
+  },
+  {
+    "name": "Komono",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "Komatsushimachō",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "Komatsu",
+    "temp": 30,
+    "humidity": 65
+  },
+  {
+    "name": "Komaki",
+    "temp": 31,
+    "humidity": 57
+  },
+  {
+    "name": "Komagatamachi",
+    "temp": 34,
+    "humidity": 40
+  },
+  {
+    "name": "Kokubunji",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Kokubu-matsuki",
+    "temp": 30,
+    "humidity": 75
+  },
+  {
+    "name": "Koganei",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Koga",
+    "temp": 35,
+    "humidity": 35
+  },
+  {
+    "name": "Koga",
+    "temp": 31,
+    "humidity": 66
+  },
+  {
+    "name": "Kōfu",
+    "temp": 30,
+    "humidity": 54
+  },
+  {
+    "name": "Kodamachō-kodamaminami",
+    "temp": 35,
+    "humidity": 39
+  },
+  {
+    "name": "Kodaira",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Kochino",
+    "temp": 32,
+    "humidity": 56
+  },
+  {
+    "name": "Kochi Prefecture",
+    "temp": 31,
+    "humidity": 68
+  },
+  {
+    "name": "Kōchi",
+    "temp": 29,
+    "humidity": 66
+  },
+  {
+    "name": "Kochi",
+    "temp": 32,
+    "humidity": 67
+  },
+  {
+    "name": "Kobe",
+    "temp": 30,
+    "humidity": 58
+  },
+  {
+    "name": "Kobayashi",
+    "temp": 30,
+    "humidity": 78
+  },
+  {
+    "name": "Kobaruyama",
+    "temp": 30,
+    "humidity": 75
+  },
+  {
+    "name": "Kiyama",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Kitsuki",
+    "temp": 30,
+    "humidity": 70
+  },
+  {
+    "name": "Kita-toyama",
+    "temp": 31,
+    "humidity": 57
+  },
+  {
+    "name": "Kitakyushu",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "Kitakata",
+    "temp": 34,
+    "humidity": 42
+  },
+  {
+    "name": "Kitahama",
+    "temp": 32,
+    "humidity": 59
+  },
+  {
+    "name": "Kitadaishin",
+    "temp": 33,
+    "humidity": 43
+  },
+  {
+    "name": "Kishiwada",
+    "temp": 29,
+    "humidity": 63
+  },
+  {
+    "name": "Kisarazu",
+    "temp": 28,
+    "humidity": 74
+  },
+  {
+    "name": "Kisai",
+    "temp": 35,
+    "humidity": 34
+  },
+  {
+    "name": "Kiryū",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Kiragawachō",
+    "temp": 30,
+    "humidity": 69
+  },
+  {
+    "name": "Kin",
+    "temp": 29,
+    "humidity": 79
+  },
+  {
+    "name": "Kimiidera",
+    "temp": 31,
+    "humidity": 65
+  },
+  {
+    "name": "Kikuna",
+    "temp": 29,
+    "humidity": 67
+  },
+  {
+    "name": "Kikuchi",
+    "temp": 32,
+    "humidity": 61
+  },
+  {
+    "name": "Kazo",
+    "temp": 35,
+    "humidity": 34
+  },
+  {
+    "name": "Kawatana",
+    "temp": 32,
+    "humidity": 56
+  },
+  {
+    "name": "Kawasaki",
+    "temp": 28,
+    "humidity": 72
+  },
+  {
+    "name": "Kawasaki",
+    "temp": 32,
+    "humidity": 54
+  },
+  {
+    "name": "Kawanishi",
+    "temp": 32,
+    "humidity": 53
+  },
+  {
+    "name": "Kawamoto",
+    "temp": 33,
+    "humidity": 54
+  },
+  {
+    "name": "Kawai",
+    "temp": 27,
+    "humidity": 50
+  },
+  {
+    "name": "Kawaguchi",
+    "temp": 33,
+    "humidity": 41
+  },
+  {
+    "name": "Kawagoe",
+    "temp": 34,
+    "humidity": 41
+  },
+  {
+    "name": "Katsuyama",
+    "temp": 33,
+    "humidity": 43
+  },
+  {
+    "name": "Katase",
+    "temp": 28,
+    "humidity": 73
+  },
+  {
+    "name": "Kasukabe",
+    "temp": 34,
+    "humidity": 36
+  },
+  {
+    "name": "Kasugai",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Kasugabaru",
+    "temp": 33,
+    "humidity": 49
+  },
+  {
+    "name": "Kasuga",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Kashiwazaki",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Kashiwara",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Kashiwano",
+    "temp": 29,
+    "humidity": 62
+  },
+  {
+    "name": "Kashiwa",
+    "temp": 31,
+    "humidity": 48
+  },
+  {
+    "name": "Kashima",
+    "temp": 32,
+    "humidity": 60
+  },
+  {
+    "name": "Kashihara-shi",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Kashihara",
+    "temp": 33,
+    "humidity": 46
+  },
+  {
+    "name": "Kaseda-shirakame",
+    "temp": 31,
+    "humidity": 69
+  },
+  {
+    "name": "Kasaoka",
+    "temp": 34,
+    "humidity": 59
+  },
+  {
+    "name": "Kasamatsuchō",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Karochō",
+    "temp": 33,
+    "humidity": 57
+  },
+  {
+    "name": "Kariya",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Kariwa",
+    "temp": 29,
+    "humidity": 66
+  },
+  {
+    "name": "Karatsu",
+    "temp": 32,
+    "humidity": 60
+  },
+  {
+    "name": "Kanzakimachi-kanzaki",
+    "temp": 33,
+    "humidity": 55
+  },
+  {
+    "name": "Kanuma",
+    "temp": 33,
+    "humidity": 41
+  },
+  {
+    "name": "Kanoya",
+    "temp": 31,
+    "humidity": 73
+  },
+  {
+    "name": "Kan’onjichō",
+    "temp": 29,
+    "humidity": 68
+  },
+  {
+    "name": "Kannabechō-yahiro",
+    "temp": 34,
+    "humidity": 57
+  },
+  {
+    "name": "Kanie",
+    "temp": 31,
+    "humidity": 62
+  },
+  {
+    "name": "Kanekomachi",
+    "temp": 33,
+    "humidity": 43
+  },
+  {
+    "name": "Kanda",
+    "temp": 31,
+    "humidity": 69
+  },
+  {
+    "name": "Kanazu",
+    "temp": 31,
+    "humidity": 61
+  },
+  {
+    "name": "Kanazawa",
+    "temp": 29,
+    "humidity": 65
+  },
+  {
+    "name": "Kanazawachō",
+    "temp": 26,
+    "humidity": 83
+  },
+  {
+    "name": "Kanayama",
+    "temp": 29,
+    "humidity": 69
+  },
+  {
+    "name": "Kanaya",
+    "temp": 29,
+    "humidity": 62
+  },
+  {
+    "name": "Kanagawa",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Mitsu-kanagawa",
+    "temp": 33,
+    "humidity": 61
+  },
+  {
+    "name": "Kamonomiya",
+    "temp": 29,
+    "humidity": 68
+  },
+  {
+    "name": "Kamojimachō-jōgejima",
+    "temp": 32,
+    "humidity": 59
+  },
+  {
+    "name": "Kamogatachō-kamogata",
+    "temp": 34,
+    "humidity": 58
+  },
+  {
+    "name": "Kamo",
+    "temp": 34,
+    "humidity": 42
+  },
+  {
+    "name": "Hirosechō-kamiyamasa",
+    "temp": 34,
+    "humidity": 57
+  },
+  {
+    "name": "Kamirenjaku",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Kaminokawa",
+    "temp": 34,
+    "humidity": 38
+  },
+  {
+    "name": "Kami-nagarekawachō",
+    "temp": 32,
+    "humidity": 62
+  },
+  {
+    "name": "Kamikōjaku",
+    "temp": 32,
+    "humidity": 62
+  },
+  {
+    "name": "Kamiichi",
+    "temp": 33,
+    "humidity": 42
+  },
+  {
+    "name": "Kamigōri",
+    "temp": 30,
+    "humidity": 67
+  },
+  {
+    "name": "Kameyama",
+    "temp": 31,
+    "humidity": 65
+  },
+  {
+    "name": "Kameoka",
+    "temp": 32,
+    "humidity": 53
+  },
+  {
+    "name": "Kameda-honchō",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Kameari",
+    "temp": 31,
+    "humidity": 50
+  },
+  {
+    "name": "Kamakura",
+    "temp": 27,
+    "humidity": 76
+  },
+  {
+    "name": "Kakogawachō-honmachi",
+    "temp": 32,
+    "humidity": 63
+  },
+  {
+    "name": "Kakegawa",
+    "temp": 30,
+    "humidity": 61
+  },
+  {
+    "name": "Kakamigahara",
+    "temp": 31,
+    "humidity": 56
+  },
+  {
+    "name": "Kashima-shi",
+    "temp": 30,
+    "humidity": 67
+  },
+  {
+    "name": "Kajiki",
+    "temp": 31,
+    "humidity": 73
+  },
+  {
+    "name": "Kaizuka",
+    "temp": 29,
+    "humidity": 63
+  },
+  {
+    "name": "Kainan",
+    "temp": 31,
+    "humidity": 65
+  },
+  {
+    "name": "Kaigandōri",
+    "temp": 34,
+    "humidity": 63
+  },
+  {
+    "name": "Kagoshima-ken",
+    "temp": 28,
+    "humidity": 83
+  },
+  {
+    "name": "Kagoshima",
+    "temp": 31,
+    "humidity": 71
+  },
+  {
+    "name": "Kagawa-ken",
+    "temp": 33,
+    "humidity": 59
+  },
+  {
+    "name": "Kagasuno",
+    "temp": 31,
+    "humidity": 67
+  },
+  {
+    "name": "Kagamizu",
+    "temp": 30,
+    "humidity": 75
+  },
+  {
+    "name": "Kadoma",
+    "temp": 33,
+    "humidity": 46
+  },
+  {
+    "name": "Kadogawa",
+    "temp": 30,
+    "humidity": 75
+  },
+  {
+    "name": "Kado",
+    "temp": 32,
+    "humidity": 64
+  },
+  {
+    "name": "Kachikawa",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Jūrokuban",
+    "temp": 28,
+    "humidity": 85
+  },
+  {
+    "name": "Jizōdō",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Terauchi",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Jigozen",
+    "temp": 31,
+    "humidity": 64
+  },
+  {
+    "name": "Japan",
+    "temp": 31,
+    "humidity": 52
+  },
+  {
+    "name": "Izumo",
+    "temp": 35,
+    "humidity": 54
+  },
+  {
+    "name": "Izumiōtsu",
+    "temp": 31,
+    "humidity": 60
+  },
+  {
+    "name": "Izumi",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Izumi",
+    "temp": 31,
+    "humidity": 71
+  },
+  {
+    "name": "Izuhara",
+    "temp": 29,
+    "humidity": 77
+  },
+  {
+    "name": "Izena",
+    "temp": 29,
+    "humidity": 79
+  },
+  {
+    "name": "Iwatsuki",
+    "temp": 34,
+    "humidity": 36
+  },
+  {
+    "name": "Iwata",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Iwanogawa",
+    "temp": 30,
+    "humidity": 59
+  },
+  {
+    "name": "Mitsuchō-iwami",
+    "temp": 31,
+    "humidity": 69
+  },
+  {
+    "name": "Iwakura",
+    "temp": 31,
+    "humidity": 57
+  },
+  {
+    "name": "Iwakuni",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "Iwai",
+    "temp": 33,
+    "humidity": 39
+  },
+  {
+    "name": "Iwade",
+    "temp": 30,
+    "humidity": 61
+  },
+  {
+    "name": "Itsukaichi",
+    "temp": 33,
+    "humidity": 46
+  },
+  {
+    "name": "Itoman",
+    "temp": 30,
+    "humidity": 80
+  },
+  {
+    "name": "Itoigawa",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Itō",
+    "temp": 28,
+    "humidity": 63
+  },
+  {
+    "name": "Itazuke",
+    "temp": 33,
+    "humidity": 52
+  },
+  {
+    "name": "Ikedachō-itano",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Itami",
+    "temp": 33,
+    "humidity": 49
+  },
+  {
+    "name": "Itakura",
+    "temp": 34,
+    "humidity": 63
+  },
+  {
+    "name": "Isoshi",
+    "temp": 33,
+    "humidity": 50
+  },
+  {
+    "name": "Ishiki",
+    "temp": 29,
+    "humidity": 72
+  },
+  {
+    "name": "Ishikawa-ken",
+    "temp": 30,
+    "humidity": 54
+  },
+  {
+    "name": "Ishikawa",
+    "temp": 29,
+    "humidity": 79
+  },
+  {
+    "name": "Ishii",
+    "temp": 32,
+    "humidity": 61
+  },
+  {
+    "name": "Ishige",
+    "temp": 33,
+    "humidity": 41
+  },
+  {
+    "name": "Ishigaki",
+    "temp": 29,
+    "humidity": 79
+  },
+  {
+    "name": "Isesaki",
+    "temp": 34,
+    "humidity": 42
+  },
+  {
+    "name": "Isehara",
+    "temp": 30,
+    "humidity": 63
+  },
+  {
+    "name": "Ise",
+    "temp": 31,
+    "humidity": 66
+  },
+  {
+    "name": "Isawa",
+    "temp": 29,
+    "humidity": 54
+  },
+  {
+    "name": "Isahaya",
+    "temp": 32,
+    "humidity": 61
+  },
+  {
+    "name": "Inuyama",
+    "temp": 31,
+    "humidity": 57
+  },
+  {
+    "name": "Ino",
+    "temp": 29,
+    "humidity": 66
+  },
+  {
+    "name": "Innoshima",
+    "temp": 32,
+    "humidity": 67
+  },
+  {
+    "name": "Ishidachō-indōjiura",
+    "temp": 31,
+    "humidity": 70
+  },
+  {
+    "name": "Inazawa",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Ina",
+    "temp": 30,
+    "humidity": 47
+  },
+  {
+    "name": "Ina",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Imazu",
+    "temp": 33,
+    "humidity": 64
+  },
+  {
+    "name": "Imarichō-kō",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Imaichi",
+    "temp": 30,
+    "humidity": 53
+  },
+  {
+    "name": "Ikoma",
+    "temp": 31,
+    "humidity": 45
+  },
+  {
+    "name": "Ikeda",
+    "temp": 32,
+    "humidity": 37
+  },
+  {
+    "name": "Ikeda",
+    "temp": 33,
+    "humidity": 49
+  },
+  {
+    "name": "Ikeda",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Ikedachō",
+    "temp": 32,
+    "humidity": 59
+  },
+  {
+    "name": "Ikaruga",
+    "temp": 31,
+    "humidity": 67
+  },
+  {
+    "name": "Ijūin",
+    "temp": 30,
+    "humidity": 68
+  },
+  {
+    "name": "Iizuka",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Iiyama",
+    "temp": 32,
+    "humidity": 44
+  },
+  {
+    "name": "Iijima",
+    "temp": 26,
+    "humidity": 60
+  },
+  {
+    "name": "Iida",
+    "temp": 29,
+    "humidity": 53
+  },
+  {
+    "name": "Iga-shi",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Ifukugata",
+    "temp": 30,
+    "humidity": 75
+  },
+  {
+    "name": "Ichinomiya",
+    "temp": 32,
+    "humidity": 56
+  },
+  {
+    "name": "Ichinomiyachō",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "Ichikawa",
+    "temp": 30,
+    "humidity": 59
+  },
+  {
+    "name": "Ibusuki",
+    "temp": 31,
+    "humidity": 72
+  },
+  {
+    "name": "Ibaraki",
+    "temp": 33,
+    "humidity": 48
+  },
+  {
+    "name": "Ibara",
+    "temp": 34,
+    "humidity": 57
+  },
+  {
+    "name": "Hyōgo",
+    "temp": 28,
+    "humidity": 59
+  },
+  {
+    "name": "Hotaka",
+    "temp": 32,
+    "humidity": 36
+  },
+  {
+    "name": "Hōryūji",
+    "temp": 32,
+    "humidity": 46
+  },
+  {
+    "name": "Horinouchi",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Honjōchō",
+    "temp": 32,
+    "humidity": 58
+  },
+  {
+    "name": "Honjō",
+    "temp": 35,
+    "humidity": 38
+  },
+  {
+    "name": "Hondomachi-hondo",
+    "temp": 31,
+    "humidity": 73
+  },
+  {
+    "name": "Hōjō",
+    "temp": 28,
+    "humidity": 78
+  },
+  {
+    "name": "Hōjōchō-hōjō",
+    "temp": 31,
+    "humidity": 60
+  },
+  {
+    "name": "Hōfu",
+    "temp": 30,
+    "humidity": 76
+  },
+  {
+    "name": "Hitoyoshi",
+    "temp": 31,
+    "humidity": 74
+  },
+  {
+    "name": "Okuhida-onsengō-hitoegane",
+    "temp": 26,
+    "humidity": 51
+  },
+  {
+    "name": "Hita",
+    "temp": 31,
+    "humidity": 65
+  },
+  {
+    "name": "Hisai-motomachi",
+    "temp": 32,
+    "humidity": 63
+  },
+  {
+    "name": "Hiroshima-ken",
+    "temp": 29,
+    "humidity": 57
+  },
+  {
+    "name": "Hiroshima",
+    "temp": 32,
+    "humidity": 62
+  },
+  {
+    "name": "Hirokawa",
+    "temp": 29,
+    "humidity": 65
+  },
+  {
+    "name": "Hiratsuka",
+    "temp": 28,
+    "humidity": 72
+  },
+  {
+    "name": "Hiratachō",
+    "temp": 36,
+    "humidity": 54
+  },
+  {
+    "name": "Hirara",
+    "temp": 29,
+    "humidity": 81
+  },
+  {
+    "name": "Hirao",
+    "temp": 31,
+    "humidity": 68
+  },
+  {
+    "name": "Hirakata",
+    "temp": 34,
+    "humidity": 39
+  },
+  {
+    "name": "Hirakata",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Hiradogoyamachi",
+    "temp": 30,
+    "humidity": 67
+  },
+  {
+    "name": "Hirado",
+    "temp": 31,
+    "humidity": 74
+  },
+  {
+    "name": "Hioki",
+    "temp": 31,
+    "humidity": 68
+  },
+  {
+    "name": "Hinokage",
+    "temp": 29,
+    "humidity": 75
+  },
+  {
+    "name": "Hino",
+    "temp": 33,
+    "humidity": 46
+  },
+  {
+    "name": "Hino",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Himimachi",
+    "temp": 33,
+    "humidity": 41
+  },
+  {
+    "name": "Himeji",
+    "temp": 32,
+    "humidity": 65
+  },
+  {
+    "name": "Hikosan",
+    "temp": 29,
+    "humidity": 62
+  },
+  {
+    "name": "Hikone",
+    "temp": 32,
+    "humidity": 61
+  },
+  {
+    "name": "Hiji",
+    "temp": 30,
+    "humidity": 67
+  },
+  {
+    "name": "Suminoe-higashi",
+    "temp": 32,
+    "humidity": 62
+  },
+  {
+    "name": "Higashishinagawa",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "Higashi-ōsaka",
+    "temp": 33,
+    "humidity": 46
+  },
+  {
+    "name": "Higashimachi",
+    "temp": 32,
+    "humidity": 62
+  },
+  {
+    "name": "Higashiboridōri",
+    "temp": 30,
+    "humidity": 63
+  },
+  {
+    "name": "Higashiasahimachi",
+    "temp": 35,
+    "humidity": 60
+  },
+  {
+    "name": "Higashi",
+    "temp": 29,
+    "humidity": 81
+  },
+  {
+    "name": "Hekinan",
+    "temp": 31,
+    "humidity": 65
+  },
+  {
+    "name": "Heda",
+    "temp": 26,
+    "humidity": 79
+  },
+  {
+    "name": "Hayashima",
+    "temp": 34,
+    "humidity": 63
+  },
+  {
+    "name": "Hayashi",
+    "temp": 26,
+    "humidity": 89
+  },
+  {
+    "name": "Hayama",
+    "temp": 26,
+    "humidity": 84
+  },
+  {
+    "name": "Hayakawa",
+    "temp": 29,
+    "humidity": 62
+  },
+  {
+    "name": "Hatsukaichi",
+    "temp": 31,
+    "humidity": 64
+  },
+  {
+    "name": "Hatogaya-honchō",
+    "temp": 34,
+    "humidity": 40
+  },
+  {
+    "name": "Hatabuchō",
+    "temp": 31,
+    "humidity": 69
+  },
+  {
+    "name": "Hashio",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Hashimoto",
+    "temp": 31,
+    "humidity": 53
+  },
+  {
+    "name": "Harisakichō",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Harigaya",
+    "temp": 34,
+    "humidity": 38
+  },
+  {
+    "name": "Hara",
+    "temp": 26,
+    "humidity": 50
+  },
+  {
+    "name": "Hanyū",
+    "temp": 36,
+    "humidity": 33
+  },
+  {
+    "name": "Hannō",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Handa",
+    "temp": 31,
+    "humidity": 67
+  },
+  {
+    "name": "Hanazawa",
+    "temp": 28,
+    "humidity": 64
+  },
+  {
+    "name": "Hanawadamachi",
+    "temp": 34,
+    "humidity": 39
+  },
+  {
+    "name": "Hanabatachō",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Hamanose",
+    "temp": 31,
+    "humidity": 71
+  },
+  {
+    "name": "Hamanoichi",
+    "temp": 31,
+    "humidity": 74
+  },
+  {
+    "name": "Hamanaka",
+    "temp": 28,
+    "humidity": 66
+  },
+  {
+    "name": "Hamamatsu",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Hamakita",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Hamada",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Hakui",
+    "temp": 29,
+    "humidity": 58
+  },
+  {
+    "name": "Hakonegasaki",
+    "temp": 33,
+    "humidity": 46
+  },
+  {
+    "name": "Hakone",
+    "temp": 24,
+    "humidity": 61
+  },
+  {
+    "name": "Hainuzuka",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Haibara-akanedai",
+    "temp": 29,
+    "humidity": 52
+  },
+  {
+    "name": "Hagiwara",
+    "temp": 34,
+    "humidity": 42
+  },
+  {
+    "name": "Hagi",
+    "temp": 31,
+    "humidity": 65
+  },
+  {
+    "name": "Katsuren-haebaru",
+    "temp": 29,
+    "humidity": 79
+  },
+  {
+    "name": "Hadano",
+    "temp": 29,
+    "humidity": 65
+  },
+  {
+    "name": "Hachiōji",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Ōmihachiman",
+    "temp": 32,
+    "humidity": 59
+  },
+  {
+    "name": "Habu",
+    "temp": 32,
+    "humidity": 60
+  },
+  {
+    "name": "Gyōda",
+    "temp": 36,
+    "humidity": 34
+  },
+  {
+    "name": "Gushikawa",
+    "temp": 29,
+    "humidity": 79
+  },
+  {
+    "name": "Gunma-ken",
+    "temp": 32,
+    "humidity": 46
+  },
+  {
+    "name": "Goyuchō",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "Gōtsuchō",
+    "temp": 32,
+    "humidity": 58
+  },
+  {
+    "name": "Gotenba",
+    "temp": 28,
+    "humidity": 58
+  },
+  {
+    "name": "Gosen",
+    "temp": 34,
+    "humidity": 43
+  },
+  {
+    "name": "Gose",
+    "temp": 31,
+    "humidity": 48
+  },
+  {
+    "name": "Gojō",
+    "temp": 31,
+    "humidity": 51
+  },
+  {
+    "name": "Gōdo",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "Gobō",
+    "temp": 31,
+    "humidity": 71
+  },
+  {
+    "name": "Ginoza",
+    "temp": 29,
+    "humidity": 79
+  },
+  {
+    "name": "Ginowan",
+    "temp": 30,
+    "humidity": 76
+  },
+  {
+    "name": "Gifu",
+    "temp": 27,
+    "humidity": 64
+  },
+  {
+    "name": "Gifu-shi",
+    "temp": 32,
+    "humidity": 58
+  },
+  {
+    "name": "Ganeko",
+    "temp": 30,
+    "humidity": 76
+  },
+  {
+    "name": "Gamagōri",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "Futtsu",
+    "temp": 26,
+    "humidity": 84
+  },
+  {
+    "name": "Fushimi",
+    "temp": 33,
+    "humidity": 50
+  },
+  {
+    "name": "Kōfukuchō",
+    "temp": 33,
+    "humidity": 46
+  },
+  {
+    "name": "Furuichi",
+    "temp": 31,
+    "humidity": 61
+  },
+  {
+    "name": "Furuichi",
+    "temp": 29,
+    "humidity": 77
+  },
+  {
+    "name": "Furugen",
+    "temp": 29,
+    "humidity": 79
+  },
+  {
+    "name": "Funato",
+    "temp": 30,
+    "humidity": 61
+  },
+  {
+    "name": "Honchō",
+    "temp": 29,
+    "humidity": 63
+  },
+  {
+    "name": "Fukuyama",
+    "temp": 34,
+    "humidity": 58
+  },
+  {
+    "name": "Fukuroi",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Fukura",
+    "temp": 30,
+    "humidity": 67
+  },
+  {
+    "name": "Fukuoka Prefecture",
+    "temp": 32,
+    "humidity": 47
+  },
+  {
+    "name": "Fukuoka",
+    "temp": 33,
+    "humidity": 51
+  },
+  {
+    "name": "Fukumitsu",
+    "temp": 34,
+    "humidity": 35
+  },
+  {
+    "name": "Nishifukuma",
+    "temp": 31,
+    "humidity": 67
+  },
+  {
+    "name": "Fukui",
+    "temp": 29,
+    "humidity": 51
+  },
+  {
+    "name": "Fukui-shi",
+    "temp": 33,
+    "humidity": 50
+  },
+  {
+    "name": "Fukuechō",
+    "temp": 28,
+    "humidity": 85
+  },
+  {
+    "name": "Fukuchiyama",
+    "temp": 33,
+    "humidity": 51
+  },
+  {
+    "name": "Fukiage-fujimi",
+    "temp": 36,
+    "humidity": 35
+  },
+  {
+    "name": "Fukayachō",
+    "temp": 36,
+    "humidity": 36
+  },
+  {
+    "name": "Fujisawa",
+    "temp": 28,
+    "humidity": 70
+  },
+  {
+    "name": "Fujioka",
+    "temp": 35,
+    "humidity": 34
+  },
+  {
+    "name": "Fujioka",
+    "temp": 35,
+    "humidity": 40
+  },
+  {
+    "name": "Fujinomiya",
+    "temp": 29,
+    "humidity": 70
+  },
+  {
+    "name": "Fujieda",
+    "temp": 30,
+    "humidity": 63
+  },
+  {
+    "name": "Fuji",
+    "temp": 28,
+    "humidity": 73
+  },
+  {
+    "name": "Fuchu",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Fuchūchō",
+    "temp": 31,
+    "humidity": 56
+  },
+  {
+    "name": "Enzan",
+    "temp": 30,
+    "humidity": 54
+  },
+  {
+    "name": "Ehime",
+    "temp": 27,
+    "humidity": 64
+  },
+  {
+    "name": "Egota",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Egashira",
+    "temp": 32,
+    "humidity": 59
+  },
+  {
+    "name": "Edome-naka",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Echigawa",
+    "temp": 32,
+    "humidity": 60
+  },
+  {
+    "name": "Dōshi",
+    "temp": 31,
+    "humidity": 51
+  },
+  {
+    "name": "Den’enchōfu",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Daitōchō",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Daisen",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Daidō",
+    "temp": 30,
+    "humidity": 75
+  },
+  {
+    "name": "Chōfu",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Chizu",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "Chiyoda-ku",
+    "temp": 31,
+    "humidity": 52
+  },
+  {
+    "name": "Chiryū",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Chino",
+    "temp": 30,
+    "humidity": 44
+  },
+  {
+    "name": "Chikushino-shi",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Chigasaki",
+    "temp": 28,
+    "humidity": 72
+  },
+  {
+    "name": "Chichibu",
+    "temp": 33,
+    "humidity": 46
+  },
+  {
+    "name": "Chatan",
+    "temp": 30,
+    "humidity": 79
+  },
+  {
+    "name": "Chabana",
+    "temp": 29,
+    "humidity": 73
+  },
+  {
+    "name": "Buzen-shi",
+    "temp": 30,
+    "humidity": 71
+  },
+  {
+    "name": "Beppu",
+    "temp": 29,
+    "humidity": 66
+  },
+  {
+    "name": "Bentenchō",
+    "temp": 32,
+    "humidity": 59
+  },
+  {
+    "name": "Ichibanchō",
+    "temp": 31,
+    "humidity": 52
+  },
+  {
+    "name": "Bakurochō",
+    "temp": 30,
+    "humidity": 58
+  },
+  {
+    "name": "Ayabe",
+    "temp": 32,
+    "humidity": 49
+  },
+  {
+    "name": "Aya",
+    "temp": 30,
+    "humidity": 74
+  },
+  {
+    "name": "Awatabe",
+    "temp": 33,
+    "humidity": 48
+  },
+  {
+    "name": "Awara",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "Atami",
+    "temp": 28,
+    "humidity": 63
+  },
+  {
+    "name": "Ataka-shimmachi",
+    "temp": 29,
+    "humidity": 68
+  },
+  {
+    "name": "Ashiya",
+    "temp": 32,
+    "humidity": 53
+  },
+  {
+    "name": "Ashikaga",
+    "temp": 35,
+    "humidity": 38
+  },
+  {
+    "name": "Ashihara",
+    "temp": 33,
+    "humidity": 48
+  },
+  {
+    "name": "Asahi",
+    "temp": 28,
+    "humidity": 64
+  },
+  {
+    "name": "Asagaya-minami",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Arita",
+    "temp": 31,
+    "humidity": 54
+  },
+  {
+    "name": "Arimatsu",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Arai",
+    "temp": 32,
+    "humidity": 54
+  },
+  {
+    "name": "Aoki",
+    "temp": 31,
+    "humidity": 35
+  },
+  {
+    "name": "Aoichō",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Annaka",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "Anjō",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Anan",
+    "temp": 31,
+    "humidity": 69
+  },
+  {
+    "name": "Anamizu",
+    "temp": 31,
+    "humidity": 48
+  },
+  {
+    "name": "Amagi",
+    "temp": 33,
+    "humidity": 49
+  },
+  {
+    "name": "Amagasaki",
+    "temp": 33,
+    "humidity": 49
+  },
+  {
+    "name": "Akune",
+    "temp": 32,
+    "humidity": 67
+  },
+  {
+    "name": "Akuchi",
+    "temp": 30,
+    "humidity": 68
+  },
+  {
+    "name": "Kariya",
+    "temp": 32,
+    "humidity": 71
+  },
+  {
+    "name": "Aki",
+    "temp": 31,
+    "humidity": 67
+  },
+  {
+    "name": "Akashichō",
+    "temp": 30,
+    "humidity": 58
+  },
+  {
+    "name": "Aioi",
+    "temp": 31,
+    "humidity": 69
+  },
+  {
+    "name": "Aichi-ken",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Ageoshimo",
+    "temp": 35,
+    "humidity": 37
+  },
+  {
+    "name": "Agematsu",
+    "temp": 28,
+    "humidity": 53
+  },
+  {
+    "name": "Ageki",
+    "temp": 31,
+    "humidity": 61
+  },
+  {
+    "name": "Motobu",
+    "temp": 30,
+    "humidity": 77
+  },
+  {
+    "name": "Okinawa",
+    "temp": 29,
+    "humidity": 78
+  },
+  {
+    "name": "Urazoe",
+    "temp": 30,
+    "humidity": 76
+  },
+  {
+    "name": "Haebaru",
+    "temp": 29,
+    "humidity": 75
+  },
+  {
+    "name": "Kushima",
+    "temp": 31,
+    "humidity": 75
+  },
+  {
+    "name": "Hikari",
+    "temp": 31,
+    "humidity": 69
+  },
+  {
+    "name": "Kaita",
+    "temp": 32,
+    "humidity": 63
+  },
+  {
+    "name": "Seirō",
+    "temp": 28,
+    "humidity": 72
+  },
+  {
+    "name": "Mirukashi",
+    "temp": 31,
+    "humidity": 61
+  },
+  {
+    "name": "Yakataishi",
+    "temp": 32,
+    "humidity": 64
+  },
+  {
+    "name": "Nagato",
+    "temp": 31,
+    "humidity": 68
+  },
+  {
+    "name": "Nakai",
+    "temp": 30,
+    "humidity": 44
+  },
+  {
+    "name": "Hasuda",
+    "temp": 35,
+    "humidity": 36
+  },
+  {
+    "name": "Kamifukuoka",
+    "temp": 34,
+    "humidity": 42
+  },
+  {
+    "name": "Sayama",
+    "temp": 34,
+    "humidity": 43
+  },
+  {
+    "name": "Fussa",
+    "temp": 33,
+    "humidity": 46
+  },
+  {
+    "name": "Fujino",
+    "temp": 33,
+    "humidity": 49
+  },
+  {
+    "name": "Kunitachi",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Okura",
+    "temp": 32,
+    "humidity": 46
+  },
+  {
+    "name": "Minawa",
+    "temp": 31,
+    "humidity": 52
+  },
+  {
+    "name": "Kawara",
+    "temp": 30,
+    "humidity": 56
+  },
+  {
+    "name": "Miyanomae",
+    "temp": 30,
+    "humidity": 59
+  },
+  {
+    "name": "Takata",
+    "temp": 29,
+    "humidity": 69
+  },
+  {
+    "name": "Koyasu",
+    "temp": 25,
+    "humidity": 61
+  },
+  {
+    "name": "Asaka",
+    "temp": 33,
+    "humidity": 41
+  },
+  {
+    "name": "Wako",
+    "temp": 33,
+    "humidity": 41
+  },
+  {
+    "name": "Shimotoda",
+    "temp": 34,
+    "humidity": 39
+  },
+  {
+    "name": "Komae",
+    "temp": 32,
+    "humidity": 49
+  },
+  {
+    "name": "Kimitsu",
+    "temp": 28,
+    "humidity": 74
+  },
+  {
+    "name": "Miura",
+    "temp": 26,
+    "humidity": 89
+  },
+  {
+    "name": "Wakayama",
+    "temp": 30,
+    "humidity": 67
+  },
+  {
+    "name": "Iyo",
+    "temp": 28,
+    "humidity": 75
+  },
+  {
+    "name": "Yokogawara",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "Uwajima",
+    "temp": 31,
+    "humidity": 65
+  },
+  {
+    "name": "Tsutsui",
+    "temp": 27,
+    "humidity": 77
+  },
+  {
+    "name": "Tsuitachi",
+    "temp": 32,
+    "humidity": 67
+  },
+  {
+    "name": "Saijō",
+    "temp": 32,
+    "humidity": 67
+  },
+  {
+    "name": "Ōzu",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Matsuyama",
+    "temp": 30,
+    "humidity": 73
+  },
+  {
+    "name": "Masaki-chō",
+    "temp": 30,
+    "humidity": 73
+  },
+  {
+    "name": "Mannen",
+    "temp": 29,
+    "humidity": 68
+  },
+  {
+    "name": "Komatsu",
+    "temp": 31,
+    "humidity": 64
+  },
+  {
+    "name": "Kawanoechō",
+    "temp": 30,
+    "humidity": 68
+  },
+  {
+    "name": "Ikazaki",
+    "temp": 30,
+    "humidity": 58
+  },
+  {
+    "name": "Hōjō",
+    "temp": 30,
+    "humidity": 72
+  },
+  {
+    "name": "Setana",
+    "temp": 23,
+    "humidity": 95
+  },
+  {
+    "name": "Okushiri",
+    "temp": 22,
+    "humidity": 95
+  },
+  {
+    "name": "Fukaura",
+    "temp": 27,
+    "humidity": 75
+  },
+  {
+    "name": "Buhama",
+    "temp": 23,
+    "humidity": 95
+  },
+  {
+    "name": "Yuzawa",
+    "temp": 33,
+    "humidity": 53
+  },
+  {
+    "name": "Yotsukaidō",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Yonezawa",
+    "temp": 34,
+    "humidity": 42
+  },
+  {
+    "name": "Yokote",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Yōkaichiba",
+    "temp": 30,
+    "humidity": 66
+  },
+  {
+    "name": "Yanagawamachi-saiwaichō",
+    "temp": 35,
+    "humidity": 41
+  },
+  {
+    "name": "Yamoto",
+    "temp": 27,
+    "humidity": 75
+  },
+  {
+    "name": "Yamagata-ken",
+    "temp": 29,
+    "humidity": 71
+  },
+  {
+    "name": "Yamagata",
+    "temp": 36,
+    "humidity": 39
+  },
+  {
+    "name": "Yamada",
+    "temp": 29,
+    "humidity": 60
+  },
+  {
+    "name": "Yachimata",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Yabuki",
+    "temp": 31,
+    "humidity": 54
+  },
+  {
+    "name": "Yabasehonchō",
+    "temp": 29,
+    "humidity": 67
+  },
+  {
+    "name": "Watari",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "Wakuya",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Wada",
+    "temp": 33,
+    "humidity": 52
+  },
+  {
+    "name": "Uwamachi",
+    "temp": 34,
+    "humidity": 44
+  },
+  {
+    "name": "Ushiku",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "Uchimaru",
+    "temp": 33,
+    "humidity": 50
+  },
+  {
+    "name": "Uchigō-tsuzuramachi",
+    "temp": 29,
+    "humidity": 68
+  },
+  {
+    "name": "Tsukuba",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Tsukuba",
+    "temp": 32,
+    "humidity": 43
+  },
+  {
+    "name": "Toride",
+    "temp": 31,
+    "humidity": 49
+  },
+  {
+    "name": "Tōno",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Tomobe",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Tomiya",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Tōgane",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Tendō",
+    "temp": 36,
+    "humidity": 38
+  },
+  {
+    "name": "Tateno",
+    "temp": 32,
+    "humidity": 46
+  },
+  {
+    "name": "Tateishi",
+    "temp": 32,
+    "humidity": 54
+  },
+  {
+    "name": "Tanagura",
+    "temp": 31,
+    "humidity": 52
+  },
+  {
+    "name": "Tako",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Takahata",
+    "temp": 35,
+    "humidity": 39
+  },
+  {
+    "name": "Takahagi",
+    "temp": 27,
+    "humidity": 78
+  },
+  {
+    "name": "Takado",
+    "temp": 27,
+    "humidity": 78
+  },
+  {
+    "name": "Suwa",
+    "temp": 29,
+    "humidity": 65
+  },
+  {
+    "name": "Sukagawa",
+    "temp": 31,
+    "humidity": 52
+  },
+  {
+    "name": "Sugisaki",
+    "temp": 34,
+    "humidity": 41
+  },
+  {
+    "name": "Shizukuishi",
+    "temp": 33,
+    "humidity": 50
+  },
+  {
+    "name": "Shisui",
+    "temp": 31,
+    "humidity": 56
+  },
+  {
+    "name": "Shiroishi",
+    "temp": 35,
+    "humidity": 41
+  },
+  {
+    "name": "Shiroi",
+    "temp": 30,
+    "humidity": 56
+  },
+  {
+    "name": "Shiogasaki",
+    "temp": 32,
+    "humidity": 54
+  },
+  {
+    "name": "Shiogama",
+    "temp": 27,
+    "humidity": 74
+  },
+  {
+    "name": "Shinjō",
+    "temp": 34,
+    "humidity": 46
+  },
+  {
+    "name": "Shimizukōji",
+    "temp": 28,
+    "humidity": 68
+  },
+  {
+    "name": "Shibayama",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Sendai",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "Sembokuchō",
+    "temp": 33,
+    "humidity": 50
+  },
+  {
+    "name": "Sawara",
+    "temp": 32,
+    "humidity": 58
+  },
+  {
+    "name": "Sakura",
+    "temp": 31,
+    "humidity": 57
+  },
+  {
+    "name": "Sagae",
+    "temp": 35,
+    "humidity": 41
+  },
+  {
+    "name": "Ryūgasaki",
+    "temp": 31,
+    "humidity": 53
+  },
+  {
+    "name": "Rifu",
+    "temp": 28,
+    "humidity": 72
+  },
+  {
+    "name": "Ōtsukimachi",
+    "temp": 32,
+    "humidity": 51
+  },
+  {
+    "name": "Ōtsuchi",
+    "temp": 29,
+    "humidity": 59
+  },
+  {
+    "name": "Ōtawara",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Onagawa Chō",
+    "temp": 24,
+    "humidity": 85
+  },
+  {
+    "name": "Ōmiya",
+    "temp": 34,
+    "humidity": 42
+  },
+  {
+    "name": "Omigawa",
+    "temp": 30,
+    "humidity": 65
+  },
+  {
+    "name": "Ōmagari",
+    "temp": 32,
+    "humidity": 53
+  },
+  {
+    "name": "Okunoya",
+    "temp": 34,
+    "humidity": 44
+  },
+  {
+    "name": "Ōkawara",
+    "temp": 34,
+    "humidity": 43
+  },
+  {
+    "name": "Ōishida",
+    "temp": 35,
+    "humidity": 42
+  },
+  {
+    "name": "Ōhasama",
+    "temp": 31,
+    "humidity": 49
+  },
+  {
+    "name": "Ōhara",
+    "temp": 28,
+    "humidity": 80
+  },
+  {
+    "name": "Ōfunato",
+    "temp": 27,
+    "humidity": 69
+  },
+  {
+    "name": "Odaka",
+    "temp": 31,
+    "humidity": 56
+  },
+  {
+    "name": "Odaka",
+    "temp": 31,
+    "humidity": 52
+  },
+  {
+    "name": "Ōhira",
+    "temp": 30,
+    "humidity": 47
+  },
+  {
+    "name": "Obanazawa",
+    "temp": 35,
+    "humidity": 42
+  },
+  {
+    "name": "Ōarai",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Ōami",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Noguchi",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Nihommatsu",
+    "temp": 32,
+    "humidity": 46
+  },
+  {
+    "name": "Narutō",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Narita",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Narashino",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "Namie",
+    "temp": 30,
+    "humidity": 61
+  },
+  {
+    "name": "Namekawa",
+    "temp": 32,
+    "humidity": 56
+  },
+  {
+    "name": "Nakayama",
+    "temp": 35,
+    "humidity": 36
+  },
+  {
+    "name": "Naka",
+    "temp": 32,
+    "humidity": 47
+  },
+  {
+    "name": "Nagasu",
+    "temp": 32,
+    "humidity": 51
+  },
+  {
+    "name": "Nagai",
+    "temp": 35,
+    "humidity": 40
+  },
+  {
+    "name": "Motomiya",
+    "temp": 33,
+    "humidity": 48
+  },
+  {
+    "name": "Motegi",
+    "temp": 32,
+    "humidity": 46
+  },
+  {
+    "name": "Moriya",
+    "temp": 32,
+    "humidity": 45
+  },
+  {
+    "name": "Morioka",
+    "temp": 33,
+    "humidity": 50
+  },
+  {
+    "name": "Mooka",
+    "temp": 33,
+    "humidity": 41
+  },
+  {
+    "name": "Momiyama",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Mobara",
+    "temp": 31,
+    "humidity": 59
+  },
+  {
+    "name": "Mizusawa",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Mizuki",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "Miyako",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Miyagi-ken",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Mito",
+    "temp": 34,
+    "humidity": 41
+  },
+  {
+    "name": "Minami",
+    "temp": 27,
+    "humidity": 85
+  },
+  {
+    "name": "Miharu",
+    "temp": 32,
+    "humidity": 48
+  },
+  {
+    "name": "Matsushima",
+    "temp": 27,
+    "humidity": 72
+  },
+  {
+    "name": "Mashiko",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Marumori",
+    "temp": 34,
+    "humidity": 43
+  },
+  {
+    "name": "Makabe",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Maebara",
+    "temp": 30,
+    "humidity": 66
+  },
+  {
+    "name": "Kurosawajiri",
+    "temp": 32,
+    "humidity": 59
+  },
+  {
+    "name": "Kuroiso",
+    "temp": 31,
+    "humidity": 51
+  },
+  {
+    "name": "Kōriyama",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "Koori",
+    "temp": 35,
+    "humidity": 43
+  },
+  {
+    "name": "Koibuchi",
+    "temp": 34,
+    "humidity": 41
+  },
+  {
+    "name": "Kogota",
+    "temp": 30,
+    "humidity": 61
+  },
+  {
+    "name": "Kita-sannomaru",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Kitakubo",
+    "temp": 27,
+    "humidity": 78
+  },
+  {
+    "name": "Kitakami",
+    "temp": 32,
+    "humidity": 59
+  },
+  {
+    "name": "Kitaibaraki",
+    "temp": 28,
+    "humidity": 77
+  },
+  {
+    "name": "Kitagama",
+    "temp": 26,
+    "humidity": 77
+  },
+  {
+    "name": "Kamogawa",
+    "temp": 30,
+    "humidity": 66
+  },
+  {
+    "name": "Katsuura",
+    "temp": 28,
+    "humidity": 82
+  },
+  {
+    "name": "Katsuta",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Katori-shi",
+    "temp": 32,
+    "humidity": 58
+  },
+  {
+    "name": "Kasumichō",
+    "temp": 36,
+    "humidity": 37
+  },
+  {
+    "name": "Kasama",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Karasuyama",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Kanegasaki",
+    "temp": 32,
+    "humidity": 58
+  },
+  {
+    "name": "Kaminoyama",
+    "temp": 34,
+    "humidity": 36
+  },
+  {
+    "name": "Kamaishi",
+    "temp": 28,
+    "humidity": 61
+  },
+  {
+    "name": "Kakunodatemachi",
+    "temp": 33,
+    "humidity": 49
+  },
+  {
+    "name": "Kakuda",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "Kadonowakichō",
+    "temp": 27,
+    "humidity": 78
+  },
+  {
+    "name": "Jinmachi",
+    "temp": 36,
+    "humidity": 39
+  },
+  {
+    "name": "Iwate",
+    "temp": 30,
+    "humidity": 48
+  },
+  {
+    "name": "Iwase",
+    "temp": 33,
+    "humidity": 44
+  },
+  {
+    "name": "Iwanuma",
+    "temp": 29,
+    "humidity": 66
+  },
+  {
+    "name": "Iwaki",
+    "temp": 29,
+    "humidity": 71
+  },
+  {
+    "name": "Iwaizumi",
+    "temp": 31,
+    "humidity": 56
+  },
+  {
+    "name": "Iwawada",
+    "temp": 27,
+    "humidity": 82
+  },
+  {
+    "name": "Itako",
+    "temp": 31,
+    "humidity": 61
+  },
+  {
+    "name": "Isomura",
+    "temp": 29,
+    "humidity": 69
+  },
+  {
+    "name": "Ishiwaki",
+    "temp": 29,
+    "humidity": 67
+  },
+  {
+    "name": "Ishioka",
+    "temp": 33,
+    "humidity": 46
+  },
+  {
+    "name": "Ishinomaki",
+    "temp": 27,
+    "humidity": 78
+  },
+  {
+    "name": "Ishikawa",
+    "temp": 31,
+    "humidity": 52
+  },
+  {
+    "name": "Inawashiro",
+    "temp": 30,
+    "humidity": 46
+  },
+  {
+    "name": "Ichinoseki",
+    "temp": 32,
+    "humidity": 53
+  },
+  {
+    "name": "Ichihara",
+    "temp": 28,
+    "humidity": 70
+  },
+  {
+    "name": "Ibaraki",
+    "temp": 33,
+    "humidity": 43
+  },
+  {
+    "name": "Hokota",
+    "temp": 32,
+    "humidity": 56
+  },
+  {
+    "name": "Hobaramachi",
+    "temp": 35,
+    "humidity": 42
+  },
+  {
+    "name": "Hitachi",
+    "temp": 28,
+    "humidity": 71
+  },
+  {
+    "name": "Higashine",
+    "temp": 36,
+    "humidity": 40
+  },
+  {
+    "name": "Higashimiyanome",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Hasaki",
+    "temp": 27,
+    "humidity": 83
+  },
+  {
+    "name": "Hanawa",
+    "temp": 31,
+    "humidity": 52
+  },
+  {
+    "name": "Hanamaki",
+    "temp": 32,
+    "humidity": 57
+  },
+  {
+    "name": "Gojōnome",
+    "temp": 28,
+    "humidity": 71
+  },
+  {
+    "name": "Futto",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Fusa",
+    "temp": 31,
+    "humidity": 55
+  },
+  {
+    "name": "Furukawa",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Funehikimachi-funehiki",
+    "temp": 31,
+    "humidity": 48
+  },
+  {
+    "name": "Funaishikawa",
+    "temp": 32,
+    "humidity": 51
+  },
+  {
+    "name": "Funagata",
+    "temp": 34,
+    "humidity": 45
+  },
+  {
+    "name": "Fukushima-ken",
+    "temp": 31,
+    "humidity": 51
+  },
+  {
+    "name": "Fukushima",
+    "temp": 34,
+    "humidity": 44
+  },
+  {
+    "name": "Fujishiro",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "Edosaki",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Daigo",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "Chōnan",
+    "temp": 31,
+    "humidity": 57
+  },
+  {
+    "name": "Chiba-ken",
+    "temp": 30,
+    "humidity": 63
+  },
+  {
+    "name": "Chiba",
+    "temp": 30,
+    "humidity": 63
+  },
+  {
+    "name": "Asahi",
+    "temp": 29,
+    "humidity": 71
+  },
+  {
+    "name": "Ami",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "Akita",
+    "temp": 30,
+    "humidity": 49
+  },
+  {
+    "name": "Akita",
+    "temp": 29,
+    "humidity": 67
+  },
+  {
+    "name": "Akanuma",
+    "temp": 32,
+    "humidity": 50
+  },
+  {
+    "name": "Abiko",
+    "temp": 31,
+    "humidity": 48
+  },
+  {
+    "name": "Kahoku",
+    "temp": 28,
+    "humidity": 68
+  },
+  {
+    "name": "Akita Shi",
+    "temp": 29,
+    "humidity": 67
+  },
+  {
+    "name": "Nishikawa",
+    "temp": 32,
+    "humidity": 46
+  },
+  {
+    "name": "Mazawa",
+    "temp": 29,
+    "humidity": 67
+  },
+  {
+    "name": "Motodate",
+    "temp": 36,
+    "humidity": 39
+  },
+  {
+    "name": "Yamanobe",
+    "temp": 35,
+    "humidity": 38
+  },
+  {
+    "name": "Aone-onsen",
+    "temp": 30,
+    "humidity": 45
+  },
+  {
+    "name": "Motomachi",
+    "temp": 30,
+    "humidity": 67
+  },
+  {
+    "name": "Zenikamechō",
+    "temp": 24,
+    "humidity": 82
+  },
+  {
+    "name": "Yuni",
+    "temp": 24,
+    "humidity": 90
+  },
+  {
+    "name": "Yūbari",
+    "temp": 23,
+    "humidity": 95
+  },
+  {
+    "name": "Yokohama",
+    "temp": 27,
+    "humidity": 72
+  },
+  {
+    "name": "Yakumo",
+    "temp": 28,
+    "humidity": 70
+  },
+  {
+    "name": "Wassamu",
+    "temp": 23,
+    "humidity": 99
+  },
+  {
+    "name": "Wakkanai",
+    "temp": 19,
+    "humidity": 99
+  },
+  {
+    "name": "Utashinai",
+    "temp": 23,
+    "humidity": 97
+  },
+  {
+    "name": "Uryū",
+    "temp": 23,
+    "humidity": 98
+  },
+  {
+    "name": "Urakawa",
+    "temp": 26,
+    "humidity": 73
+  },
+  {
+    "name": "Honchō",
+    "temp": 25,
+    "humidity": 87
+  },
+  {
+    "name": "Tsukigata",
+    "temp": 23,
+    "humidity": 95
+  },
+  {
+    "name": "Honchō",
+    "temp": 28,
+    "humidity": 75
+  },
+  {
+    "name": "Toyokoro",
+    "temp": 27,
+    "humidity": 83
+  },
+  {
+    "name": "Toyohira-ku",
+    "temp": 27,
+    "humidity": 81
+  },
+  {
+    "name": "Tomioka",
+    "temp": 22,
+    "humidity": 98
+  },
+  {
+    "name": "Tomamae",
+    "temp": 22,
+    "humidity": 99
+  },
+  {
+    "name": "Tomakomai",
+    "temp": 24,
+    "humidity": 82
+  },
+  {
+    "name": "Tokorochō-higashihama",
+    "temp": 26,
+    "humidity": 78
+  },
+  {
+    "name": "Tōbetsu",
+    "temp": 24,
+    "humidity": 95
+  },
+  {
+    "name": "Teshio",
+    "temp": 21,
+    "humidity": 98
+  },
+  {
+    "name": "Teshikaga",
+    "temp": 25,
+    "humidity": 89
+  },
+  {
+    "name": "Mutsu",
+    "temp": 28,
+    "humidity": 68
+  },
+  {
+    "name": "Takko",
+    "temp": 29,
+    "humidity": 70
+  },
+  {
+    "name": "Takikawa",
+    "temp": 23,
+    "humidity": 98
+  },
+  {
+    "name": "Takanosu",
+    "temp": 33,
+    "humidity": 46
+  },
+  {
+    "name": "Taiki",
+    "temp": 29,
+    "humidity": 67
+  },
+  {
+    "name": "Suttsu",
+    "temp": 25,
+    "humidity": 90
+  },
+  {
+    "name": "Sunagawa",
+    "temp": 23,
+    "humidity": 97
+  },
+  {
+    "name": "Sōbetsu",
+    "temp": 25,
+    "humidity": 84
+  },
+  {
+    "name": "Shizunai-furukawachō",
+    "temp": 23,
+    "humidity": 85
+  },
+  {
+    "name": "Shiraoi",
+    "temp": 25,
+    "humidity": 81
+  },
+  {
+    "name": "Shintoku",
+    "temp": 23,
+    "humidity": 91
+  },
+  {
+    "name": "Shimukappu",
+    "temp": 22,
+    "humidity": 99
+  },
+  {
+    "name": "Masukawachō",
+    "temp": 24,
+    "humidity": 78
+  },
+  {
+    "name": "Shinshimokawa",
+    "temp": 24,
+    "humidity": 96
+  },
+  {
+    "name": "Shimo-ihira",
+    "temp": 26,
+    "humidity": 80
+  },
+  {
+    "name": "Shimo-furano",
+    "temp": 23,
+    "humidity": 98
+  },
+  {
+    "name": "Shimizu",
+    "temp": 25,
+    "humidity": 87
+  },
+  {
+    "name": "Shikabe",
+    "temp": 28,
+    "humidity": 68
+  },
+  {
+    "name": "Shihoro",
+    "temp": 23,
+    "humidity": 94
+  },
+  {
+    "name": "Shichinohe",
+    "temp": 31,
+    "humidity": 63
+  },
+  {
+    "name": "Shibetsu",
+    "temp": 23,
+    "humidity": 89
+  },
+  {
+    "name": "Shibecha",
+    "temp": 24,
+    "humidity": 93
+  },
+  {
+    "name": "Honmachi",
+    "temp": 22,
+    "humidity": 90
+  },
+  {
+    "name": "Sarufutsu",
+    "temp": 22,
+    "humidity": 93
+  },
+  {
+    "name": "Sapporo",
+    "temp": 27,
+    "humidity": 81
+  },
+  {
+    "name": "Sannohe",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "Sanbongi",
+    "temp": 31,
+    "humidity": 61
+  },
+  {
+    "name": "Honchō",
+    "temp": 24,
+    "humidity": 81
+  },
+  {
+    "name": "Rusutsu",
+    "temp": 24,
+    "humidity": 90
+  },
+  {
+    "name": "Rumoi",
+    "temp": 22,
+    "humidity": 98
+  },
+  {
+    "name": "Rikubetsu",
+    "temp": 22,
+    "humidity": 100
+  },
+  {
+    "name": "Retsureppu",
+    "temp": 26,
+    "humidity": 85
+  },
+  {
+    "name": "Rausu",
+    "temp": 21,
+    "humidity": 95
+  },
+  {
+    "name": "Bifuka",
+    "temp": 24,
+    "humidity": 97
+  },
+  {
+    "name": "Pippu",
+    "temp": 22,
+    "humidity": 98
+  },
+  {
+    "name": "Otofuke",
+    "temp": 25,
+    "humidity": 87
+  },
+  {
+    "name": "Otaru",
+    "temp": 23,
+    "humidity": 90
+  },
+  {
+    "name": "Ōmagari",
+    "temp": 26,
+    "humidity": 79
+  },
+  {
+    "name": "Oku-ikutahara",
+    "temp": 26,
+    "humidity": 79
+  },
+  {
+    "name": "Oketo",
+    "temp": 25,
+    "humidity": 84
+  },
+  {
+    "name": "Ōdate",
+    "temp": 34,
+    "humidity": 44
+  },
+  {
+    "name": "Obihiro",
+    "temp": 26,
+    "humidity": 84
+  },
+  {
+    "name": "Kōtoku",
+    "temp": 29,
+    "humidity": 68
+  },
+  {
+    "name": "Noshiro",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "Noboribetsu",
+    "temp": 25,
+    "humidity": 80
+  },
+  {
+    "name": "Nishikioka",
+    "temp": 24,
+    "humidity": 80
+  },
+  {
+    "name": "Nishi-kagura",
+    "temp": 22,
+    "humidity": 98
+  },
+  {
+    "name": "Nemuro",
+    "temp": 19,
+    "humidity": 97
+  },
+  {
+    "name": "Nayoro",
+    "temp": 23,
+    "humidity": 97
+  },
+  {
+    "name": "Honchō",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Namioka",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "Nakanosawa",
+    "temp": 26,
+    "humidity": 81
+  },
+  {
+    "name": "Mobetsu",
+    "temp": 25,
+    "humidity": 83
+  },
+  {
+    "name": "Nakagawa",
+    "temp": 23,
+    "humidity": 95
+  },
+  {
+    "name": "Naitōbokujō",
+    "temp": 22,
+    "humidity": 95
+  },
+  {
+    "name": "Naie",
+    "temp": 24,
+    "humidity": 96
+  },
+  {
+    "name": "Muroran",
+    "temp": 23,
+    "humidity": 87
+  },
+  {
+    "name": "Moseushi",
+    "temp": 23,
+    "humidity": 98
+  },
+  {
+    "name": "Mombetsu",
+    "temp": 24,
+    "humidity": 86
+  },
+  {
+    "name": "Moiwashita",
+    "temp": 27,
+    "humidity": 78
+  },
+  {
+    "name": "Misawa",
+    "temp": 24,
+    "humidity": 85
+  },
+  {
+    "name": "Misawa",
+    "temp": 29,
+    "humidity": 66
+  },
+  {
+    "name": "Yoichi",
+    "temp": 24,
+    "humidity": 88
+  },
+  {
+    "name": "Memuro-minami",
+    "temp": 27,
+    "humidity": 80
+  },
+  {
+    "name": "Matsumae",
+    "temp": 24,
+    "humidity": 83
+  },
+  {
+    "name": "Makubetsu",
+    "temp": 21,
+    "humidity": 97
+  },
+  {
+    "name": "Makkari",
+    "temp": 25,
+    "humidity": 89
+  },
+  {
+    "name": "Tokorochō-kyōritsu",
+    "temp": 27,
+    "humidity": 74
+  },
+  {
+    "name": "Kyōgoku",
+    "temp": 25,
+    "humidity": 93
+  },
+  {
+    "name": "Kutchan",
+    "temp": 26,
+    "humidity": 85
+  },
+  {
+    "name": "Kushiro",
+    "temp": 21,
+    "humidity": 95
+  },
+  {
+    "name": "Midori",
+    "temp": 19,
+    "humidity": 99
+  },
+  {
+    "name": "Kuromatsunai",
+    "temp": 25,
+    "humidity": 89
+  },
+  {
+    "name": "Kuroishi",
+    "temp": 29,
+    "humidity": 69
+  },
+  {
+    "name": "Motomachi",
+    "temp": 26,
+    "humidity": 80
+  },
+  {
+    "name": "Kuji",
+    "temp": 29,
+    "humidity": 62
+  },
+  {
+    "name": "Koshimizu",
+    "temp": 27,
+    "humidity": 73
+  },
+  {
+    "name": "Hiranai",
+    "temp": 26,
+    "humidity": 76
+  },
+  {
+    "name": "Koetoi",
+    "temp": 20,
+    "humidity": 98
+  },
+  {
+    "name": "Shimokizukuri",
+    "temp": 29,
+    "humidity": 65
+  },
+  {
+    "name": "Kitanuma",
+    "temp": 25,
+    "humidity": 75
+  },
+  {
+    "name": "Kitami",
+    "temp": 29,
+    "humidity": 69
+  },
+  {
+    "name": "Kikonai",
+    "temp": 29,
+    "humidity": 60
+  },
+  {
+    "name": "Karumai",
+    "temp": 31,
+    "humidity": 55
+  },
+  {
+    "name": "Kareizawa",
+    "temp": 29,
+    "humidity": 64
+  },
+  {
+    "name": "Kamoenai",
+    "temp": 24,
+    "humidity": 91
+  },
+  {
+    "name": "Kamikita Kōzan",
+    "temp": 27,
+    "humidity": 71
+  },
+  {
+    "name": "Kawakami",
+    "temp": 21,
+    "humidity": 97
+  },
+  {
+    "name": "Kamikawa",
+    "temp": 22,
+    "humidity": 98
+  },
+  {
+    "name": "Kamiiso",
+    "temp": 29,
+    "humidity": 65
+  },
+  {
+    "name": "Kaiyō",
+    "temp": 27,
+    "humidity": 82
+  },
+  {
+    "name": "Iwanai",
+    "temp": 26,
+    "humidity": 86
+  },
+  {
+    "name": "Iwamizawa",
+    "temp": 24,
+    "humidity": 92
+  },
+  {
+    "name": "Itayanagi",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Ishikari",
+    "temp": 23,
+    "humidity": 95
+  },
+  {
+    "name": "Ichinohe",
+    "temp": 31,
+    "humidity": 55
+  },
+  {
+    "name": "Horonobe",
+    "temp": 21,
+    "humidity": 97
+  },
+  {
+    "name": "Horokanai",
+    "temp": 22,
+    "humidity": 99
+  },
+  {
+    "name": "Hontomari",
+    "temp": 19,
+    "humidity": 99
+  },
+  {
+    "name": "Hongō",
+    "temp": 30,
+    "humidity": 66
+  },
+  {
+    "name": "Hokuryū",
+    "temp": 23,
+    "humidity": 98
+  },
+  {
+    "name": "Hokkaido",
+    "temp": 27,
+    "humidity": 81
+  },
+  {
+    "name": "Kitahiroshima",
+    "temp": 26,
+    "humidity": 84
+  },
+  {
+    "name": "Hirosaki",
+    "temp": 30,
+    "humidity": 62
+  },
+  {
+    "name": "Hiroo",
+    "temp": 27,
+    "humidity": 67
+  },
+  {
+    "name": "Hinode",
+    "temp": 23,
+    "humidity": 94
+  },
+  {
+    "name": "Higashikawa",
+    "temp": 22,
+    "humidity": 98
+  },
+  {
+    "name": "Hidaka",
+    "temp": 23,
+    "humidity": 100
+  },
+  {
+    "name": "Hashimoto",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Hanawa",
+    "temp": 32,
+    "humidity": 60
+  },
+  {
+    "name": "Hakodate",
+    "temp": 26,
+    "humidity": 76
+  },
+  {
+    "name": "Hachinohe",
+    "temp": 26,
+    "humidity": 72
+  },
+  {
+    "name": "Hachinohe",
+    "temp": 26,
+    "humidity": 72
+  },
+  {
+    "name": "Hachimanchō",
+    "temp": 23,
+    "humidity": 95
+  },
+  {
+    "name": "Funadomari",
+    "temp": 20,
+    "humidity": 99
+  },
+  {
+    "name": "Fukagawa",
+    "temp": 23,
+    "humidity": 98
+  },
+  {
+    "name": "Fujisaki",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "Mukaiengaru",
+    "temp": 27,
+    "humidity": 85
+  },
+  {
+    "name": "Kanaura",
+    "temp": 21,
+    "humidity": 99
+  },
+  {
+    "name": "Ebetsu",
+    "temp": 24,
+    "humidity": 91
+  },
+  {
+    "name": "Date",
+    "temp": 24,
+    "humidity": 85
+  },
+  {
+    "name": "Chitose",
+    "temp": 26,
+    "humidity": 79
+  },
+  {
+    "name": "Biratori",
+    "temp": 25,
+    "humidity": 82
+  },
+  {
+    "name": "Biei",
+    "temp": 22,
+    "humidity": 97
+  },
+  {
+    "name": "Bibai",
+    "temp": 24,
+    "humidity": 94
+  },
+  {
+    "name": "Minato",
+    "temp": 19,
+    "humidity": 99
+  },
+  {
+    "name": "Mashike",
+    "temp": 23,
+    "humidity": 97
+  },
+  {
+    "name": "Betsukai",
+    "temp": 25,
+    "humidity": 88
+  },
+  {
+    "name": "Bannaguro",
+    "temp": 24,
+    "humidity": 90
+  },
+  {
+    "name": "Ashoro",
+    "temp": 23,
+    "humidity": 97
+  },
+  {
+    "name": "Ashibetsu",
+    "temp": 23,
+    "humidity": 98
+  },
+  {
+    "name": "Asahikawa",
+    "temp": 23,
+    "humidity": 98
+  },
+  {
+    "name": "Aomori-ken",
+    "temp": 29,
+    "humidity": 65
+  },
+  {
+    "name": "Aomori",
+    "temp": 30,
+    "humidity": 60
+  },
+  {
+    "name": "Akkeshi",
+    "temp": 21,
+    "humidity": 94
+  },
+  {
+    "name": "Akaigawa",
+    "temp": 25,
+    "humidity": 89
+  },
+  {
+    "name": "Akabira",
+    "temp": 23,
+    "humidity": 98
+  },
+  {
+    "name": "Ajigasawa",
+    "temp": 28,
+    "humidity": 69
+  },
+  {
+    "name": "Aibetsu",
+    "temp": 22,
+    "humidity": 99
+  },
+  {
+    "name": "Abira",
+    "temp": 24,
+    "humidity": 91
+  },
+  {
+    "name": "Abashiri",
+    "temp": 26,
+    "humidity": 78
+  },
+  {
+    "name": "Goshogawara",
+    "temp": 29,
+    "humidity": 63
+  },
+  {
+    "name": "Hamatonbetsu",
+    "temp": 22,
+    "humidity": 94
+  },
+  {
+    "name": "Kawasakichō",
+    "temp": 30,
+    "humidity": 64
+  },
+  {
+    "name": "Asahi",
+    "temp": 31,
+    "humidity": 65
+  },
+  {
+    "name": "Kōya",
+    "temp": 26,
+    "humidity": 54
+  },
+  {
+    "name": "Tsumuura",
+    "temp": 29,
+    "humidity": 72
+  },
+  {
+    "name": "Shōwajima",
+    "temp": 29,
+    "humidity": 68
+  },
+  {
+    "name": "Chuo",
+    "temp": 30,
+    "humidity": 63
+  },
+  {
+    "name": "Mihama",
+    "temp": 29,
+    "humidity": 67
+  },
+  {
+    "name": "Inage",
+    "temp": 29,
+    "humidity": 67
+  },
+  {
+    "name": "Kubota",
+    "temp": 28,
+    "humidity": 74
+  },
+  {
+    "name": "Kitasode",
+    "temp": 28,
+    "humidity": 74
+  },
+  {
+    "name": "Kihoku-chō",
+    "temp": 30,
+    "humidity": 61
+  },
+  {
+    "name": "Nanto-shi",
+    "temp": 34,
+    "humidity": 35
+  },
+  {
+    "name": "Kawage",
+    "temp": 31,
+    "humidity": 70
+  },
+  {
+    "name": "Asahi",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Neyagawa",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Owariasahi",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Hitachi-Naka",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Tsuchiura",
+    "temp": 32,
+    "humidity": 49
+  },
+  {
+    "name": "Inashiki",
+    "temp": 32,
+    "humidity": 55
+  },
+  {
+    "name": "Higashi-Hiroshima",
+    "temp": 30,
+    "humidity": 63
+  },
+  {
+    "name": "Akikawa",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Ōnojō",
+    "temp": 33,
+    "humidity": 48
+  },
+  {
+    "name": "Kasuga",
+    "temp": 33,
+    "humidity": 48
+  },
+  {
+    "name": "Kamagaya-shi",
+    "temp": 30,
+    "humidity": 56
+  },
+  {
+    "name": "Kita-Akita",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "Nisshin",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Aisai",
+    "temp": 31,
+    "humidity": 62
+  },
+  {
+    "name": "Minokamo",
+    "temp": 31,
+    "humidity": 58
+  },
+  {
+    "name": "Gujō",
+    "temp": 29,
+    "humidity": 65
+  },
+  {
+    "name": "Jōetsu",
+    "temp": 28,
+    "humidity": 69
+  },
+  {
+    "name": "Saitama",
+    "temp": 34,
+    "humidity": 37
+  },
+  {
+    "name": "Babagasu",
+    "temp": 32,
+    "humidity": 58
+  },
+  {
+    "name": "Niseko Town",
+    "temp": 25,
+    "humidity": 89
+  },
+  {
+    "name": "Higashimurayama",
+    "temp": 33,
+    "humidity": 45
+  },
+  {
+    "name": "Kunisaki-shi",
+    "temp": 29,
+    "humidity": 79
+  },
+  {
+    "name": "Fujikawaguchiko",
+    "temp": 25,
+    "humidity": 54
+  },
+  {
+    "name": "御影",
+    "temp": 31,
+    "humidity": 54
+  },
+  {
+    "name": "芦屋",
+    "temp": 29,
+    "humidity": 52
+  },
+  {
+    "name": "松山市",
+    "temp": 30,
+    "humidity": 73
+  },
+  {
+    "name": "kagoshima",
+    "temp": 31,
+    "humidity": 71
+  },
+  {
+    "name": "Rishiri Town",
+    "temp": 18,
+    "humidity": 99
+  },
+  {
+    "name": "tsuruhashi",
+    "temp": 33,
+    "humidity": 47
+  },
+  {
+    "name": "shimochi",
+    "temp": 29,
+    "humidity": 75
+  },
+  {
+    "name": "Kamigyō-ku",
+    "temp": 33,
+    "humidity": 52
+  },
+  {
+    "name": "Buzen",
+    "temp": 31,
+    "humidity": 72
+  },
+  {
+    "name": "Yoshitomi",
+    "temp": 31,
+    "humidity": 71
+  }
+]

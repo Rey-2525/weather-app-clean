@@ -1,0 +1,9818 @@
+{
+  "cities": [
+    {
+      "name": "Shingū",
+      "name_en": "Shingū",
+      "pref": "不明",
+      "lat": 33.73333,
+      "lon": 135.983337
+    },
+    {
+      "name": "Atsugi",
+      "name_en": "Atsugi",
+      "pref": "不明",
+      "lat": 35.438889,
+      "lon": 139.359726
+    },
+    {
+      "name": "Akashi",
+      "name_en": "Akashi",
+      "pref": "不明",
+      "lat": 34.633331,
+      "lon": 134.983337
+    },
+    {
+      "name": "Zushi",
+      "name_en": "Zushi",
+      "pref": "不明",
+      "lat": 35.291672,
+      "lon": 139.585556
+    },
+    {
+      "name": "Awazuchō",
+      "name_en": "Awazuchō",
+      "pref": "不明",
+      "lat": 34.98333,
+      "lon": 135.899994
+    },
+    {
+      "name": "Zaōmachi",
+      "name_en": "Zaōmachi",
+      "pref": "不明",
+      "lat": 37.450001,
+      "lon": 138.850006
+    },
+    {
+      "name": "Zamami",
+      "name_en": "Zamami",
+      "pref": "不明",
+      "lat": 26.224171,
+      "lon": 127.301109
+    },
+    {
+      "name": "Zama",
+      "name_en": "Zama",
+      "pref": "不明",
+      "lat": 35.488892,
+      "lon": 139.388611
+    },
+    {
+      "name": "Yuzawa",
+      "name_en": "Yuzawa",
+      "pref": "不明",
+      "lat": 36.933331,
+      "lon": 138.816666
+    },
+    {
+      "name": "Yuza",
+      "name_en": "Yuza",
+      "pref": "不明",
+      "lat": 39.0,
+      "lon": 139.916672
+    },
+    {
+      "name": "Yusuhara",
+      "name_en": "Yusuhara",
+      "pref": "不明",
+      "lat": 33.383331,
+      "lon": 132.916672
+    },
+    {
+      "name": "Yūrakuchō",
+      "name_en": "Yūrakuchō",
+      "pref": "不明",
+      "lat": 35.666672,
+      "lon": 139.766663
+    },
+    {
+      "name": "Yura",
+      "name_en": "Yura",
+      "pref": "不明",
+      "lat": 35.48333,
+      "lon": 133.75
+    },
+    {
+      "name": "Yukuhashi",
+      "name_en": "Yukuhashi",
+      "pref": "不明",
+      "lat": 33.728729,
+      "lon": 130.983002
+    },
+    {
+      "name": "Yūki",
+      "name_en": "Yūki",
+      "pref": "不明",
+      "lat": 36.299999,
+      "lon": 139.883331
+    },
+    {
+      "name": "Yugawara",
+      "name_en": "Yugawara",
+      "pref": "不明",
+      "lat": 35.150002,
+      "lon": 139.066666
+    },
+    {
+      "name": "Yugawa",
+      "name_en": "Yugawa",
+      "pref": "不明",
+      "lat": 36.033329,
+      "lon": 138.233337
+    },
+    {
+      "name": "Yuasa",
+      "name_en": "Yuasa",
+      "pref": "不明",
+      "lat": 34.033329,
+      "lon": 135.183334
+    },
+    {
+      "name": "Yoshino-chō",
+      "name_en": "Yoshino-chō",
+      "pref": "不明",
+      "lat": 34.396111,
+      "lon": 135.857681
+    },
+    {
+      "name": "Yoshikawa",
+      "name_en": "Yoshikawa",
+      "pref": "不明",
+      "lat": 35.885281,
+      "lon": 139.839447
+    },
+    {
+      "name": "Yoshii",
+      "name_en": "Yoshii",
+      "pref": "不明",
+      "lat": 38.049999,
+      "lon": 138.399994
+    },
+    {
+      "name": "Yoshii",
+      "name_en": "Yoshii",
+      "pref": "不明",
+      "lat": 36.25,
+      "lon": 138.983337
+    },
+    {
+      "name": "Yoshie",
+      "name_en": "Yoshie",
+      "pref": "不明",
+      "lat": 35.987041,
+      "lon": 136.172287
+    },
+    {
+      "name": "Yoshida-kasugachō",
+      "name_en": "Yoshida-kasugachō",
+      "pref": "不明",
+      "lat": 37.683331,
+      "lon": 138.883331
+    },
+    {
+      "name": "Yoshida",
+      "name_en": "Yoshida",
+      "pref": "不明",
+      "lat": 36.666672,
+      "lon": 138.216675
+    },
+    {
+      "name": "Miimachi-yoromi",
+      "name_en": "Miimachi-yoromi",
+      "pref": "不明",
+      "lat": 37.316669,
+      "lon": 136.966675
+    },
+    {
+      "name": "Yorii",
+      "name_en": "Yorii",
+      "pref": "不明",
+      "lat": 36.116669,
+      "lon": 139.199997
+    },
+    {
+      "name": "Yono",
+      "name_en": "Yono",
+      "pref": "不明",
+      "lat": 35.883331,
+      "lon": 139.633331
+    },
+    {
+      "name": "Yonakuni",
+      "name_en": "Yonakuni",
+      "pref": "不明",
+      "lat": 24.466669,
+      "lon": 123.0
+    },
+    {
+      "name": "Yonago",
+      "name_en": "Yonago",
+      "pref": "不明",
+      "lat": 35.433331,
+      "lon": 133.333328
+    },
+    {
+      "name": "Yonabaru",
+      "name_en": "Yonabaru",
+      "pref": "不明",
+      "lat": 26.201389,
+      "lon": 127.753891
+    },
+    {
+      "name": "Yokota",
+      "name_en": "Yokota",
+      "pref": "不明",
+      "lat": 35.75,
+      "lon": 139.383331
+    },
+    {
+      "name": "Yokosuka",
+      "name_en": "Yokosuka",
+      "pref": "不明",
+      "lat": 35.283611,
+      "lon": 139.667221
+    },
+    {
+      "name": "Yokohama",
+      "name_en": "Yokohama",
+      "pref": "不明",
+      "lat": 35.447781,
+      "lon": 139.642502
+    },
+    {
+      "name": "Yokodaidō",
+      "name_en": "Yokodaidō",
+      "pref": "不明",
+      "lat": 34.400002,
+      "lon": 132.899994
+    },
+    {
+      "name": "Yokkaichi",
+      "name_en": "Yokkaichi",
+      "pref": "不明",
+      "lat": 34.966671,
+      "lon": 136.616669
+    },
+    {
+      "name": "Youkaichi",
+      "name_en": "Youkaichi",
+      "pref": "不明",
+      "lat": 35.116261,
+      "lon": 136.197678
+    },
+    {
+      "name": "Yobimatsu",
+      "name_en": "Yobimatsu",
+      "pref": "不明",
+      "lat": 34.5,
+      "lon": 133.766663
+    },
+    {
+      "name": "Yawata",
+      "name_en": "Yawata",
+      "pref": "不明",
+      "lat": 34.87009,
+      "lon": 135.702698
+    },
+    {
+      "name": "Yatsuzawa",
+      "name_en": "Yatsuzawa",
+      "pref": "不明",
+      "lat": 35.616669,
+      "lon": 139.116669
+    },
+    {
+      "name": "Honmachi",
+      "name_en": "Honmachi",
+      "pref": "不明",
+      "lat": 32.5,
+      "lon": 130.600006
+    },
+    {
+      "name": "Yatsuomachi-higashikumisaka",
+      "name_en": "Yatsuomachi-higashikumisaka",
+      "pref": "不明",
+      "lat": 36.566669,
+      "lon": 137.133331
+    },
+    {
+      "name": "Yasugichō",
+      "name_en": "Yasugichō",
+      "pref": "不明",
+      "lat": 35.433331,
+      "lon": 133.25
+    },
+    {
+      "name": "Yasu-shi",
+      "name_en": "Yasu-shi",
+      "pref": "不明",
+      "lat": 35.068008,
+      "lon": 136.02327
+    },
+    {
+      "name": "Yashiro",
+      "name_en": "Yashiro",
+      "pref": "不明",
+      "lat": 34.916672,
+      "lon": 134.966675
+    },
+    {
+      "name": "Yashio",
+      "name_en": "Yashio",
+      "pref": "不明",
+      "lat": 35.822552,
+      "lon": 139.83905
+    },
+    {
+      "name": "Yaotsu",
+      "name_en": "Yaotsu",
+      "pref": "不明",
+      "lat": 35.466671,
+      "lon": 137.149994
+    },
+    {
+      "name": "Yao",
+      "name_en": "Yao",
+      "pref": "不明",
+      "lat": 34.616669,
+      "lon": 135.600006
+    },
+    {
+      "name": "Yanohama",
+      "name_en": "Yanohama",
+      "pref": "不明",
+      "lat": 34.066669,
+      "lon": 136.199997
+    },
+    {
+      "name": "Yanai",
+      "name_en": "Yanai",
+      "pref": "不明",
+      "lat": 33.966671,
+      "lon": 132.116669
+    },
+    {
+      "name": "Yanagawa",
+      "name_en": "Yanagawa",
+      "pref": "不明",
+      "lat": 33.166672,
+      "lon": 130.399994
+    },
+    {
+      "name": "Yanadachō",
+      "name_en": "Yanadachō",
+      "pref": "不明",
+      "lat": 36.299999,
+      "lon": 139.483337
+    },
+    {
+      "name": "Yamato-Takada",
+      "name_en": "Yamato-Takada",
+      "pref": "不明",
+      "lat": 34.51667,
+      "lon": 135.75
+    },
+    {
+      "name": "Yamatominami",
+      "name_en": "Yamatominami",
+      "pref": "不明",
+      "lat": 35.46722,
+      "lon": 139.456116
+    },
+    {
+      "name": "Yamata",
+      "name_en": "Yamata",
+      "pref": "不明",
+      "lat": 36.150002,
+      "lon": 139.816666
+    },
+    {
+      "name": "Yamazakichō-nakabirose",
+      "name_en": "Yamazakichō-nakabirose",
+      "pref": "不明",
+      "lat": 35.0,
+      "lon": 134.550003
+    },
+    {
+      "name": "Yamanashi",
+      "name_en": "Yamanashi",
+      "pref": "不明",
+      "lat": 35.61602,
+      "lon": 138.608002
+    },
+    {
+      "name": "Yamakita",
+      "name_en": "Yamakita",
+      "pref": "不明",
+      "lat": 35.35667,
+      "lon": 139.073334
+    },
+    {
+      "name": "Yamaguchi",
+      "name_en": "Yamaguchi",
+      "pref": "不明",
+      "lat": 34.206081,
+      "lon": 131.570465
+    },
+    {
+      "name": "Yamaguchi",
+      "name_en": "Yamaguchi",
+      "pref": "不明",
+      "lat": 34.185829,
+      "lon": 131.47139
+    },
+    {
+      "name": "Yamaga",
+      "name_en": "Yamaga",
+      "pref": "不明",
+      "lat": 33.01667,
+      "lon": 130.683334
+    },
+    {
+      "name": "Yamae",
+      "name_en": "Yamae",
+      "pref": "不明",
+      "lat": 33.466671,
+      "lon": 130.566666
+    },
+    {
+      "name": "Yakuin-Horibata",
+      "name_en": "Yakuin-Horibata",
+      "pref": "不明",
+      "lat": 33.583328,
+      "lon": 130.399994
+    },
+    {
+      "name": "Yakage",
+      "name_en": "Yakage",
+      "pref": "不明",
+      "lat": 34.616669,
+      "lon": 133.583328
+    },
+    {
+      "name": "Yaizu",
+      "name_en": "Yaizu",
+      "pref": "不明",
+      "lat": 34.866669,
+      "lon": 138.333328
+    },
+    {
+      "name": "Yaita",
+      "name_en": "Yaita",
+      "pref": "不明",
+      "lat": 36.799999,
+      "lon": 139.933334
+    },
+    {
+      "name": "Yabutani",
+      "name_en": "Yabutani",
+      "pref": "不明",
+      "lat": 34.799999,
+      "lon": 134.466675
+    },
+    {
+      "name": "Yabuhana",
+      "name_en": "Yabuhana",
+      "pref": "不明",
+      "lat": 35.408329,
+      "lon": 139.467224
+    },
+    {
+      "name": "Yabu",
+      "name_en": "Yabu",
+      "pref": "不明",
+      "lat": 35.383331,
+      "lon": 134.816666
+    },
+    {
+      "name": "Warabo",
+      "name_en": "Warabo",
+      "pref": "不明",
+      "lat": 34.916672,
+      "lon": 139.0
+    },
+    {
+      "name": "Warabi",
+      "name_en": "Warabi",
+      "pref": "不明",
+      "lat": 35.826389,
+      "lon": 139.704437
+    },
+    {
+      "name": "Wano",
+      "name_en": "Wano",
+      "pref": "不明",
+      "lat": 28.41667,
+      "lon": 129.699997
+    },
+    {
+      "name": "Wakinohamachō",
+      "name_en": "Wakinohamachō",
+      "pref": "不明",
+      "lat": 34.700001,
+      "lon": 135.216675
+    },
+    {
+      "name": "Wakimachi",
+      "name_en": "Wakimachi",
+      "pref": "不明",
+      "lat": 34.066669,
+      "lon": 134.149994
+    },
+    {
+      "name": "Wake",
+      "name_en": "Wake",
+      "pref": "不明",
+      "lat": 34.799999,
+      "lon": 134.133331
+    },
+    {
+      "name": "Wakayama",
+      "name_en": "Wakayama",
+      "pref": "不明",
+      "lat": 33.914581,
+      "lon": 135.511124
+    },
+    {
+      "name": "Wakasa",
+      "name_en": "Wakasa",
+      "pref": "不明",
+      "lat": 35.333328,
+      "lon": 134.399994
+    },
+    {
+      "name": "Wajima",
+      "name_en": "Wajima",
+      "pref": "不明",
+      "lat": 37.400002,
+      "lon": 136.899994
+    },
+    {
+      "name": "Wadomari",
+      "name_en": "Wadomari",
+      "pref": "不明",
+      "lat": 27.383329,
+      "lon": 128.649994
+    },
+    {
+      "name": "Wadayama",
+      "name_en": "Wadayama",
+      "pref": "不明",
+      "lat": 35.316669,
+      "lon": 134.866669
+    },
+    {
+      "name": "Utsunomiya",
+      "name_en": "Utsunomiya",
+      "pref": "不明",
+      "lat": 36.56583,
+      "lon": 139.883606
+    },
+    {
+      "name": "Uto",
+      "name_en": "Uto",
+      "pref": "不明",
+      "lat": 32.683331,
+      "lon": 130.666672
+    },
+    {
+      "name": "Utazu",
+      "name_en": "Utazu",
+      "pref": "不明",
+      "lat": 34.299999,
+      "lon": 133.816666
+    },
+    {
+      "name": "Usuki",
+      "name_en": "Usuki",
+      "pref": "不明",
+      "lat": 33.108059,
+      "lon": 131.787781
+    },
+    {
+      "name": "Ushibukamachi",
+      "name_en": "Ushibukamachi",
+      "pref": "不明",
+      "lat": 32.190559,
+      "lon": 130.022781
+    },
+    {
+      "name": "Usa",
+      "name_en": "Usa",
+      "pref": "不明",
+      "lat": 33.450001,
+      "lon": 133.449997
+    },
+    {
+      "name": "Ureshinomachi-shimojuku",
+      "name_en": "Ureshinomachi-shimojuku",
+      "pref": "不明",
+      "lat": 33.099998,
+      "lon": 129.983337
+    },
+    {
+      "name": "Urayasu",
+      "name_en": "Urayasu",
+      "pref": "不明",
+      "lat": 35.670559,
+      "lon": 139.888611
+    },
+    {
+      "name": "Uozu",
+      "name_en": "Uozu",
+      "pref": "不明",
+      "lat": 36.799999,
+      "lon": 137.399994
+    },
+    {
+      "name": "Uno",
+      "name_en": "Uno",
+      "pref": "不明",
+      "lat": 34.48333,
+      "lon": 133.949997
+    },
+    {
+      "name": "Umi",
+      "name_en": "Umi",
+      "pref": "不明",
+      "lat": 33.566669,
+      "lon": 130.5
+    },
+    {
+      "name": "Uki",
+      "name_en": "Uki",
+      "pref": "不明",
+      "lat": 32.799999,
+      "lon": 130.083328
+    },
+    {
+      "name": "Uken",
+      "name_en": "Uken",
+      "pref": "不明",
+      "lat": 28.299999,
+      "lon": 129.233337
+    },
+    {
+      "name": "Ujiie",
+      "name_en": "Ujiie",
+      "pref": "不明",
+      "lat": 36.683331,
+      "lon": 139.966675
+    },
+    {
+      "name": "Uji",
+      "name_en": "Uji",
+      "pref": "不明",
+      "lat": 34.883331,
+      "lon": 135.800003
+    },
+    {
+      "name": "Uenohara",
+      "name_en": "Uenohara",
+      "pref": "不明",
+      "lat": 35.616669,
+      "lon": 139.116669
+    },
+    {
+      "name": "Ueno",
+      "name_en": "Ueno",
+      "pref": "不明",
+      "lat": 37.183331,
+      "lon": 138.75
+    },
+    {
+      "name": "Ueno-ebisumachi",
+      "name_en": "Ueno-ebisumachi",
+      "pref": "不明",
+      "lat": 34.75,
+      "lon": 136.133331
+    },
+    {
+      "name": "Ueki",
+      "name_en": "Ueki",
+      "pref": "不明",
+      "lat": 35.349998,
+      "lon": 139.516663
+    },
+    {
+      "name": "Uekimachi-mōno",
+      "name_en": "Uekimachi-mōno",
+      "pref": "不明",
+      "lat": 32.900002,
+      "lon": 130.683334
+    },
+    {
+      "name": "Ueda",
+      "name_en": "Ueda",
+      "pref": "不明",
+      "lat": 36.400002,
+      "lon": 138.266663
+    },
+    {
+      "name": "Ube",
+      "name_en": "Ube",
+      "pref": "不明",
+      "lat": 33.943062,
+      "lon": 131.251114
+    },
+    {
+      "name": "Tsuyama",
+      "name_en": "Tsuyama",
+      "pref": "不明",
+      "lat": 35.049999,
+      "lon": 134.0
+    },
+    {
+      "name": "Tsushima",
+      "name_en": "Tsushima",
+      "pref": "不明",
+      "lat": 35.166672,
+      "lon": 136.716675
+    },
+    {
+      "name": "Tsurusaki",
+      "name_en": "Tsurusaki",
+      "pref": "不明",
+      "lat": 33.240002,
+      "lon": 131.684433
+    },
+    {
+      "name": "Tsuruoka",
+      "name_en": "Tsuruoka",
+      "pref": "不明",
+      "lat": 38.721668,
+      "lon": 139.821671
+    },
+    {
+      "name": "Tsurugi-asahimachi",
+      "name_en": "Tsurugi-asahimachi",
+      "pref": "不明",
+      "lat": 36.450001,
+      "lon": 136.633331
+    },
+    {
+      "name": "Tsurugasaki",
+      "name_en": "Tsurugasaki",
+      "pref": "不明",
+      "lat": 34.883331,
+      "lon": 136.983337
+    },
+    {
+      "name": "Tsuruga",
+      "name_en": "Tsuruga",
+      "pref": "不明",
+      "lat": 35.64547,
+      "lon": 136.055801
+    },
+    {
+      "name": "Tsunō",
+      "name_en": "Tsunō",
+      "pref": "不明",
+      "lat": 32.25,
+      "lon": 131.566666
+    },
+    {
+      "name": "Tsunagi",
+      "name_en": "Tsunagi",
+      "pref": "不明",
+      "lat": 32.23333,
+      "lon": 130.449997
+    },
+    {
+      "name": "Tsuma",
+      "name_en": "Tsuma",
+      "pref": "不明",
+      "lat": 32.099998,
+      "lon": 131.399994
+    },
+    {
+      "name": "Tsukumiura",
+      "name_en": "Tsukumiura",
+      "pref": "不明",
+      "lat": 33.07056,
+      "lon": 131.857224
+    },
+    {
+      "name": "Tsukawaki",
+      "name_en": "Tsukawaki",
+      "pref": "不明",
+      "lat": 33.26667,
+      "lon": 131.149994
+    },
+    {
+      "name": "Tsukasamachi",
+      "name_en": "Tsukasamachi",
+      "pref": "不明",
+      "lat": 35.416672,
+      "lon": 136.766663
+    },
+    {
+      "name": "Tsukaguchichō",
+      "name_en": "Tsukaguchichō",
+      "pref": "不明",
+      "lat": 34.75,
+      "lon": 135.416672
+    },
+    {
+      "name": "Tsuiki",
+      "name_en": "Tsuiki",
+      "pref": "不明",
+      "lat": 33.67239,
+      "lon": 131.037415
+    },
+    {
+      "name": "Tsubota",
+      "name_en": "Tsubota",
+      "pref": "不明",
+      "lat": 34.049999,
+      "lon": 139.533325
+    },
+    {
+      "name": "Tsubata",
+      "name_en": "Tsubata",
+      "pref": "不明",
+      "lat": 36.666672,
+      "lon": 136.733337
+    },
+    {
+      "name": "Tsubame",
+      "name_en": "Tsubame",
+      "pref": "不明",
+      "lat": 37.650002,
+      "lon": 138.933334
+    },
+    {
+      "name": "Tsu",
+      "name_en": "Tsu",
+      "pref": "不明",
+      "lat": 34.730282,
+      "lon": 136.508606
+    },
+    {
+      "name": "Tozawa",
+      "name_en": "Tozawa",
+      "pref": "不明",
+      "lat": 38.633331,
+      "lon": 139.683334
+    },
+    {
+      "name": "Toyota-shi",
+      "name_en": "Toyota-shi",
+      "pref": "不明",
+      "lat": 35.141178,
+      "lon": 137.301498
+    },
+    {
+      "name": "Toyota",
+      "name_en": "Toyota",
+      "pref": "不明",
+      "lat": 35.083328,
+      "lon": 137.149994
+    },
+    {
+      "name": "Toyoshina",
+      "name_en": "Toyoshina",
+      "pref": "不明",
+      "lat": 36.299911,
+      "lon": 137.901077
+    },
+    {
+      "name": "Toyooka",
+      "name_en": "Toyooka",
+      "pref": "不明",
+      "lat": 35.533329,
+      "lon": 134.833328
+    },
+    {
+      "name": "Toyonaka",
+      "name_en": "Toyonaka",
+      "pref": "不明",
+      "lat": 34.78244,
+      "lon": 135.469315
+    },
+    {
+      "name": "Toyokawa",
+      "name_en": "Toyokawa",
+      "pref": "不明",
+      "lat": 34.816669,
+      "lon": 137.399994
+    },
+    {
+      "name": "Toyohashi",
+      "name_en": "Toyohashi",
+      "pref": "不明",
+      "lat": 34.76667,
+      "lon": 137.383331
+    },
+    {
+      "name": "Toyohama",
+      "name_en": "Toyohama",
+      "pref": "不明",
+      "lat": 34.700001,
+      "lon": 136.933334
+    },
+    {
+      "name": "Toyama-ken",
+      "name_en": "Toyama-ken",
+      "pref": "不明",
+      "lat": 36.639259,
+      "lon": 137.265137
+    },
+    {
+      "name": "Toyama",
+      "name_en": "Toyama",
+      "pref": "不明",
+      "lat": 36.695278,
+      "lon": 137.211395
+    },
+    {
+      "name": "Tottori",
+      "name_en": "Tottori",
+      "pref": "不明",
+      "lat": 35.367859,
+      "lon": 133.850815
+    },
+    {
+      "name": "Tottori",
+      "name_en": "Tottori",
+      "pref": "不明",
+      "lat": 35.5,
+      "lon": 134.233337
+    },
+    {
+      "name": "Totsuka chō",
+      "name_en": "Totsuka chō",
+      "pref": "不明",
+      "lat": 35.400002,
+      "lon": 139.533325
+    },
+    {
+      "name": "Tosu",
+      "name_en": "Tosu",
+      "pref": "不明",
+      "lat": 33.366669,
+      "lon": 130.516663
+    },
+    {
+      "name": "Toriimatsu",
+      "name_en": "Toriimatsu",
+      "pref": "不明",
+      "lat": 35.23333,
+      "lon": 136.966675
+    },
+    {
+      "name": "Tonoshō",
+      "name_en": "Tonoshō",
+      "pref": "不明",
+      "lat": 34.48333,
+      "lon": 134.183334
+    },
+    {
+      "name": "Tondabayashichō",
+      "name_en": "Tondabayashichō",
+      "pref": "不明",
+      "lat": 34.5,
+      "lon": 135.600006
+    },
+    {
+      "name": "Tonami",
+      "name_en": "Tonami",
+      "pref": "不明",
+      "lat": 37.001282,
+      "lon": 137.727203
+    },
+    {
+      "name": "Tomioka",
+      "name_en": "Tomioka",
+      "pref": "不明",
+      "lat": 36.25,
+      "lon": 138.899994
+    },
+    {
+      "name": "Tomigusuku",
+      "name_en": "Tomigusuku",
+      "pref": "不明",
+      "lat": 26.184999,
+      "lon": 127.675003
+    },
+    {
+      "name": "Tokyo Prefecture",
+      "name_en": "Tokyo Prefecture",
+      "pref": "不明",
+      "lat": 35.689499,
+      "lon": 139.691711
+    },
+    {
+      "name": "Tokyo",
+      "name_en": "Tokyo",
+      "pref": "不明",
+      "lat": 35.689499,
+      "lon": 139.691711
+    },
+    {
+      "name": "Tokuyama",
+      "name_en": "Tokuyama",
+      "pref": "不明",
+      "lat": 34.049999,
+      "lon": 131.816666
+    },
+    {
+      "name": "Tokushima-ken",
+      "name_en": "Tokushima-ken",
+      "pref": "不明",
+      "lat": 33.921761,
+      "lon": 134.236816
+    },
+    {
+      "name": "Tokushima",
+      "name_en": "Tokushima",
+      "pref": "不明",
+      "lat": 34.06583,
+      "lon": 134.559433
+    },
+    {
+      "name": "Tokuda",
+      "name_en": "Tokuda",
+      "pref": "不明",
+      "lat": 35.23333,
+      "lon": 136.583328
+    },
+    {
+      "name": "Tokorozawa",
+      "name_en": "Tokorozawa",
+      "pref": "不明",
+      "lat": 35.79916,
+      "lon": 139.469025
+    },
+    {
+      "name": "Tokoname",
+      "name_en": "Tokoname",
+      "pref": "不明",
+      "lat": 34.883331,
+      "lon": 136.850006
+    },
+    {
+      "name": "Toki",
+      "name_en": "Toki",
+      "pref": "不明",
+      "lat": 35.349998,
+      "lon": 137.183334
+    },
+    {
+      "name": "Tokashiki",
+      "name_en": "Tokashiki",
+      "pref": "不明",
+      "lat": 26.192499,
+      "lon": 127.358612
+    },
+    {
+      "name": "Tōkamachi",
+      "name_en": "Tōkamachi",
+      "pref": "不明",
+      "lat": 37.133331,
+      "lon": 138.766663
+    },
+    {
+      "name": "Tōkaichi",
+      "name_en": "Tōkaichi",
+      "pref": "不明",
+      "lat": 34.799999,
+      "lon": 132.850006
+    },
+    {
+      "name": "Tōji",
+      "name_en": "Tōji",
+      "pref": "不明",
+      "lat": 32.400002,
+      "lon": 130.833328
+    },
+    {
+      "name": "Togitsu",
+      "name_en": "Togitsu",
+      "pref": "不明",
+      "lat": 32.833328,
+      "lon": 129.850006
+    },
+    {
+      "name": "Todaka",
+      "name_en": "Todaka",
+      "pref": "不明",
+      "lat": 31.6,
+      "lon": 131.366669
+    },
+    {
+      "name": "Tochio-honchō",
+      "name_en": "Tochio-honchō",
+      "pref": "不明",
+      "lat": 37.466671,
+      "lon": 139.0
+    },
+    {
+      "name": "Tochigi",
+      "name_en": "Tochigi",
+      "pref": "不明",
+      "lat": 36.692589,
+      "lon": 139.816132
+    },
+    {
+      "name": "Tochigi",
+      "name_en": "Tochigi",
+      "pref": "不明",
+      "lat": 36.383331,
+      "lon": 139.733337
+    },
+    {
+      "name": "Tōbō",
+      "name_en": "Tōbō",
+      "pref": "不明",
+      "lat": 33.48333,
+      "lon": 129.933334
+    },
+    {
+      "name": "Toba",
+      "name_en": "Toba",
+      "pref": "不明",
+      "lat": 34.48333,
+      "lon": 136.850006
+    },
+    {
+      "name": "Tenri",
+      "name_en": "Tenri",
+      "pref": "不明",
+      "lat": 34.583328,
+      "lon": 135.833328
+    },
+    {
+      "name": "Tennō",
+      "name_en": "Tennō",
+      "pref": "不明",
+      "lat": 39.900002,
+      "lon": 139.966675
+    },
+    {
+      "name": "Tenjin",
+      "name_en": "Tenjin",
+      "pref": "不明",
+      "lat": 33.583328,
+      "lon": 130.399994
+    },
+    {
+      "name": "Tenjimmae",
+      "name_en": "Tenjimmae",
+      "pref": "不明",
+      "lat": 34.333328,
+      "lon": 134.050003
+    },
+    {
+      "name": "Tawaramoto",
+      "name_en": "Tawaramoto",
+      "pref": "不明",
+      "lat": 34.549999,
+      "lon": 135.800003
+    },
+    {
+      "name": "Tatsuno",
+      "name_en": "Tatsuno",
+      "pref": "不明",
+      "lat": 35.984261,
+      "lon": 137.997208
+    },
+    {
+      "name": "Tatsunochō-tominaga",
+      "name_en": "Tatsunochō-tominaga",
+      "pref": "不明",
+      "lat": 34.866669,
+      "lon": 134.550003
+    },
+    {
+      "name": "Tateyama",
+      "name_en": "Tateyama",
+      "pref": "不明",
+      "lat": 34.98333,
+      "lon": 139.866669
+    },
+    {
+      "name": "Tatebayashi",
+      "name_en": "Tatebayashi",
+      "pref": "不明",
+      "lat": 36.25,
+      "lon": 139.533325
+    },
+    {
+      "name": "Tarumizu",
+      "name_en": "Tarumizu",
+      "pref": "不明",
+      "lat": 31.48333,
+      "lon": 130.699997
+    },
+    {
+      "name": "Tarui",
+      "name_en": "Tarui",
+      "pref": "不明",
+      "lat": 35.366669,
+      "lon": 136.533325
+    },
+    {
+      "name": "Taragi",
+      "name_en": "Taragi",
+      "pref": "不明",
+      "lat": 32.26667,
+      "lon": 130.933334
+    },
+    {
+      "name": "Tanushimarumachi-toyoki",
+      "name_en": "Tanushimarumachi-toyoki",
+      "pref": "不明",
+      "lat": 33.349998,
+      "lon": 130.683334
+    },
+    {
+      "name": "Tanuma",
+      "name_en": "Tanuma",
+      "pref": "不明",
+      "lat": 36.366669,
+      "lon": 139.583328
+    },
+    {
+      "name": "Nishi-Tokyo-shi",
+      "name_en": "Nishi-Tokyo-shi",
+      "pref": "不明",
+      "lat": 35.725262,
+      "lon": 139.5383
+    },
+    {
+      "name": "Tanashichō",
+      "name_en": "Tanashichō",
+      "pref": "不明",
+      "lat": 35.723888,
+      "lon": 139.522217
+    },
+    {
+      "name": "Tanabe",
+      "name_en": "Tanabe",
+      "pref": "不明",
+      "lat": 34.816669,
+      "lon": 135.766663
+    },
+    {
+      "name": "Tanabe",
+      "name_en": "Tanabe",
+      "pref": "不明",
+      "lat": 33.73333,
+      "lon": 135.366669
+    },
+    {
+      "name": "Tamba",
+      "name_en": "Tamba",
+      "pref": "不明",
+      "lat": 35.633331,
+      "lon": 135.066666
+    },
+    {
+      "name": "Tamarai",
+      "name_en": "Tamarai",
+      "pref": "不明",
+      "lat": 32.950001,
+      "lon": 131.383331
+    },
+    {
+      "name": "Tamano",
+      "name_en": "Tamano",
+      "pref": "不明",
+      "lat": 34.48333,
+      "lon": 133.949997
+    },
+    {
+      "name": "Tamana",
+      "name_en": "Tamana",
+      "pref": "不明",
+      "lat": 32.916672,
+      "lon": 130.566666
+    },
+    {
+      "name": "Tamamura",
+      "name_en": "Tamamura",
+      "pref": "不明",
+      "lat": 36.299999,
+      "lon": 139.116669
+    },
+    {
+      "name": "Tamagawa",
+      "name_en": "Tamagawa",
+      "pref": "不明",
+      "lat": 38.033329,
+      "lon": 139.666672
+    },
+    {
+      "name": "Taketoyo",
+      "name_en": "Taketoyo",
+      "pref": "不明",
+      "lat": 34.849998,
+      "lon": 136.916672
+    },
+    {
+      "name": "Taketomi",
+      "name_en": "Taketomi",
+      "pref": "不明",
+      "lat": 24.330669,
+      "lon": 124.08506
+    },
+    {
+      "name": "Takeochō-takeo",
+      "name_en": "Takeochō-takeo",
+      "pref": "不明",
+      "lat": 33.200001,
+      "lon": 130.016663
+    },
+    {
+      "name": "Takenouchi",
+      "name_en": "Takenouchi",
+      "pref": "不明",
+      "lat": 36.700001,
+      "lon": 137.300003
+    },
+    {
+      "name": "Takehara",
+      "name_en": "Takehara",
+      "pref": "不明",
+      "lat": 34.338329,
+      "lon": 132.916672
+    },
+    {
+      "name": "Takefu",
+      "name_en": "Takefu",
+      "pref": "不明",
+      "lat": 35.903931,
+      "lon": 136.16687
+    },
+    {
+      "name": "Takedamachi",
+      "name_en": "Takedamachi",
+      "pref": "不明",
+      "lat": 32.966671,
+      "lon": 131.399994
+    },
+    {
+      "name": "Takayama",
+      "name_en": "Takayama",
+      "pref": "不明",
+      "lat": 36.133331,
+      "lon": 137.25
+    },
+    {
+      "name": "Takatsuki",
+      "name_en": "Takatsuki",
+      "pref": "不明",
+      "lat": 34.848331,
+      "lon": 135.616776
+    },
+    {
+      "name": "Takatsu",
+      "name_en": "Takatsu",
+      "pref": "不明",
+      "lat": 34.683331,
+      "lon": 131.783325
+    },
+    {
+      "name": "Takatorichō",
+      "name_en": "Takatorichō",
+      "pref": "不明",
+      "lat": 34.650002,
+      "lon": 135.133331
+    },
+    {
+      "name": "Takatachō",
+      "name_en": "Takatachō",
+      "pref": "不明",
+      "lat": 35.133331,
+      "lon": 136.933334
+    },
+    {
+      "name": "Takata",
+      "name_en": "Takata",
+      "pref": "不明",
+      "lat": 35.433331,
+      "lon": 136.233337
+    },
+    {
+      "name": "Takasaki",
+      "name_en": "Takasaki",
+      "pref": "不明",
+      "lat": 36.333328,
+      "lon": 139.016663
+    },
+    {
+      "name": "Takasagochō-takasemachi",
+      "name_en": "Takasagochō-takasemachi",
+      "pref": "不明",
+      "lat": 34.75,
+      "lon": 134.800003
+    },
+    {
+      "name": "Takarazuka",
+      "name_en": "Takarazuka",
+      "pref": "不明",
+      "lat": 34.799358,
+      "lon": 135.356964
+    },
+    {
+      "name": "Takaoka",
+      "name_en": "Takaoka",
+      "pref": "不明",
+      "lat": 36.75,
+      "lon": 137.016663
+    },
+    {
+      "name": "Takanabe",
+      "name_en": "Takanabe",
+      "pref": "不明",
+      "lat": 32.133331,
+      "lon": 131.5
+    },
+    {
+      "name": "Takamori",
+      "name_en": "Takamori",
+      "pref": "不明",
+      "lat": 32.816669,
+      "lon": 131.116669
+    },
+    {
+      "name": "Takamatsu",
+      "name_en": "Takamatsu",
+      "pref": "不明",
+      "lat": 36.76667,
+      "lon": 136.716675
+    },
+    {
+      "name": "Takamatsu",
+      "name_en": "Takamatsu",
+      "pref": "不明",
+      "lat": 34.340279,
+      "lon": 134.043335
+    },
+    {
+      "name": "Takajōmachi",
+      "name_en": "Takajōmachi",
+      "pref": "不明",
+      "lat": 34.966671,
+      "lon": 138.383331
+    },
+    {
+      "name": "Takaishi",
+      "name_en": "Takaishi",
+      "pref": "不明",
+      "lat": 34.51667,
+      "lon": 135.433334
+    },
+    {
+      "name": "Takahashi",
+      "name_en": "Takahashi",
+      "pref": "不明",
+      "lat": 34.783329,
+      "lon": 133.616669
+    },
+    {
+      "name": "Takaharu",
+      "name_en": "Takaharu",
+      "pref": "不明",
+      "lat": 31.91667,
+      "lon": 131.016663
+    },
+    {
+      "name": "Takahama",
+      "name_en": "Takahama",
+      "pref": "不明",
+      "lat": 34.916672,
+      "lon": 136.983337
+    },
+    {
+      "name": "Bungo-Takada-shi",
+      "name_en": "Bungo-Takada-shi",
+      "pref": "不明",
+      "lat": 33.556702,
+      "lon": 131.445053
+    },
+    {
+      "name": "Tajimi",
+      "name_en": "Tajimi",
+      "pref": "不明",
+      "lat": 35.316669,
+      "lon": 137.133331
+    },
+    {
+      "name": "Tahara",
+      "name_en": "Tahara",
+      "pref": "不明",
+      "lat": 34.666672,
+      "lon": 137.266663
+    },
+    {
+      "name": "Tagawa",
+      "name_en": "Tagawa",
+      "pref": "不明",
+      "lat": 33.633331,
+      "lon": 130.800003
+    },
+    {
+      "name": "Taga",
+      "name_en": "Taga",
+      "pref": "不明",
+      "lat": 35.226341,
+      "lon": 136.286255
+    },
+    {
+      "name": "Tadotsu",
+      "name_en": "Tadotsu",
+      "pref": "不明",
+      "lat": 34.275002,
+      "lon": 133.75
+    },
+    {
+      "name": "Tadami",
+      "name_en": "Tadami",
+      "pref": "不明",
+      "lat": 37.349998,
+      "lon": 139.316666
+    },
+    {
+      "name": "Tachikawa",
+      "name_en": "Tachikawa",
+      "pref": "不明",
+      "lat": 35.69278,
+      "lon": 139.41806
+    },
+    {
+      "name": "Tachiarai",
+      "name_en": "Tachiarai",
+      "pref": "不明",
+      "lat": 33.400002,
+      "lon": 130.616669
+    },
+    {
+      "name": "Tabuse",
+      "name_en": "Tabuse",
+      "pref": "不明",
+      "lat": 33.950001,
+      "lon": 132.066666
+    },
+    {
+      "name": "Suzuka",
+      "name_en": "Suzuka",
+      "pref": "不明",
+      "lat": 34.883331,
+      "lon": 136.583328
+    },
+    {
+      "name": "Suzaka",
+      "name_en": "Suzaka",
+      "pref": "不明",
+      "lat": 36.650002,
+      "lon": 138.316666
+    },
+    {
+      "name": "Suwa",
+      "name_en": "Suwa",
+      "pref": "不明",
+      "lat": 36.037991,
+      "lon": 138.113083
+    },
+    {
+      "name": "Susami",
+      "name_en": "Susami",
+      "pref": "不明",
+      "lat": 33.549999,
+      "lon": 135.5
+    },
+    {
+      "name": "Susaki",
+      "name_en": "Susaki",
+      "pref": "不明",
+      "lat": 33.366669,
+      "lon": 133.283325
+    },
+    {
+      "name": "Sumoto",
+      "name_en": "Sumoto",
+      "pref": "不明",
+      "lat": 34.349998,
+      "lon": 134.899994
+    },
+    {
+      "name": "Sukumo",
+      "name_en": "Sukumo",
+      "pref": "不明",
+      "lat": 32.933331,
+      "lon": 132.733337
+    },
+    {
+      "name": "Suita",
+      "name_en": "Suita",
+      "pref": "不明",
+      "lat": 34.761429,
+      "lon": 135.515671
+    },
+    {
+      "name": "Suibara",
+      "name_en": "Suibara",
+      "pref": "不明",
+      "lat": 37.833328,
+      "lon": 139.233337
+    },
+    {
+      "name": "Suguri",
+      "name_en": "Suguri",
+      "pref": "不明",
+      "lat": 36.26667,
+      "lon": 138.149994
+    },
+    {
+      "name": "Sugito",
+      "name_en": "Sugito",
+      "pref": "不明",
+      "lat": 36.033329,
+      "lon": 139.733337
+    },
+    {
+      "name": "Sueyoshichō-ninokata",
+      "name_en": "Sueyoshichō-ninokata",
+      "pref": "不明",
+      "lat": 31.65,
+      "lon": 131.016663
+    },
+    {
+      "name": "Shimosomeda",
+      "name_en": "Shimosomeda",
+      "pref": "不明",
+      "lat": 32.283329,
+      "lon": 130.983337
+    },
+    {
+      "name": "Sōka",
+      "name_en": "Sōka",
+      "pref": "不明",
+      "lat": 35.820278,
+      "lon": 139.804443
+    },
+    {
+      "name": "Sōja",
+      "name_en": "Sōja",
+      "pref": "不明",
+      "lat": 34.666672,
+      "lon": 133.75
+    },
+    {
+      "name": "Soeda",
+      "name_en": "Soeda",
+      "pref": "不明",
+      "lat": 33.566669,
+      "lon": 130.866669
+    },
+    {
+      "name": "Sobue",
+      "name_en": "Sobue",
+      "pref": "不明",
+      "lat": 35.25,
+      "lon": 136.716675
+    },
+    {
+      "name": "Shuzenji",
+      "name_en": "Shuzenji",
+      "pref": "不明",
+      "lat": 34.966671,
+      "lon": 138.933334
+    },
+    {
+      "name": "Shōbu",
+      "name_en": "Shōbu",
+      "pref": "不明",
+      "lat": 36.066669,
+      "lon": 139.600006
+    },
+    {
+      "name": "Shōbara",
+      "name_en": "Shōbara",
+      "pref": "不明",
+      "lat": 34.849998,
+      "lon": 133.016663
+    },
+    {
+      "name": "Shizuoka",
+      "name_en": "Shizuoka",
+      "pref": "不明",
+      "lat": 35.025219,
+      "lon": 138.325424
+    },
+    {
+      "name": "Shizuoka",
+      "name_en": "Shizuoka",
+      "pref": "不明",
+      "lat": 34.97694,
+      "lon": 138.383057
+    },
+    {
+      "name": "Shitara",
+      "name_en": "Shitara",
+      "pref": "不明",
+      "lat": 35.099998,
+      "lon": 137.566666
+    },
+    {
+      "name": "Shirone",
+      "name_en": "Shirone",
+      "pref": "不明",
+      "lat": 37.76667,
+      "lon": 139.016663
+    },
+    {
+      "name": "Shirayamamachi",
+      "name_en": "Shirayamamachi",
+      "pref": "不明",
+      "lat": 36.433331,
+      "lon": 136.633331
+    },
+    {
+      "name": "Shiraoka",
+      "name_en": "Shiraoka",
+      "pref": "不明",
+      "lat": 36.01667,
+      "lon": 139.666672
+    },
+    {
+      "name": "Shirako",
+      "name_en": "Shirako",
+      "pref": "不明",
+      "lat": 35.76667,
+      "lon": 139.633331
+    },
+    {
+      "name": "Shirahamachō-usazakiminami",
+      "name_en": "Shirahamachō-usazakiminami",
+      "pref": "不明",
+      "lat": 34.783329,
+      "lon": 134.716675
+    },
+    {
+      "name": "Shirahama",
+      "name_en": "Shirahama",
+      "pref": "不明",
+      "lat": 33.01667,
+      "lon": 129.733337
+    },
+    {
+      "name": "Shiozawa",
+      "name_en": "Shiozawa",
+      "pref": "不明",
+      "lat": 37.066669,
+      "lon": 139.933334
+    },
+    {
+      "name": "Shiozawa",
+      "name_en": "Shiozawa",
+      "pref": "不明",
+      "lat": 37.033329,
+      "lon": 138.850006
+    },
+    {
+      "name": "Shiomidai",
+      "name_en": "Shiomidai",
+      "pref": "不明",
+      "lat": 35.583328,
+      "lon": 139.533325
+    },
+    {
+      "name": "Shiojiri",
+      "name_en": "Shiojiri",
+      "pref": "不明",
+      "lat": 36.099998,
+      "lon": 137.966675
+    },
+    {
+      "name": "Shiobaru",
+      "name_en": "Shiobaru",
+      "pref": "不明",
+      "lat": 33.566669,
+      "lon": 130.433334
+    },
+    {
+      "name": "Shintō",
+      "name_en": "Shintō",
+      "pref": "不明",
+      "lat": 25.85195,
+      "lon": 131.259277
+    },
+    {
+      "name": "Shinshiro",
+      "name_en": "Shinshiro",
+      "pref": "不明",
+      "lat": 34.900002,
+      "lon": 137.5
+    },
+    {
+      "name": "Shinjichō-shinji",
+      "name_en": "Shinjichō-shinji",
+      "pref": "不明",
+      "lat": 35.400002,
+      "lon": 132.899994
+    },
+    {
+      "name": "Shin’ichi",
+      "name_en": "Shin’ichi",
+      "pref": "不明",
+      "lat": 34.549999,
+      "lon": 133.266663
+    },
+    {
+      "name": "Shingū",
+      "name_en": "Shingū",
+      "pref": "不明",
+      "lat": 33.716671,
+      "lon": 130.433334
+    },
+    {
+      "name": "Shinagawa-ku",
+      "name_en": "Shinagawa-ku",
+      "pref": "不明",
+      "lat": 35.60902,
+      "lon": 139.730164
+    },
+    {
+      "name": "Shimoshirouzu",
+      "name_en": "Shimoshirouzu",
+      "pref": "不明",
+      "lat": 33.51667,
+      "lon": 130.433334
+    },
+    {
+      "name": "Shimo-satsume",
+      "name_en": "Shimo-satsume",
+      "pref": "不明",
+      "lat": 35.216671,
+      "lon": 132.649994
+    },
+    {
+      "name": "Shimonoseki",
+      "name_en": "Shimonoseki",
+      "pref": "不明",
+      "lat": 33.950001,
+      "lon": 130.949997
+    },
+    {
+      "name": "Shimonita",
+      "name_en": "Shimonita",
+      "pref": "不明",
+      "lat": 36.216671,
+      "lon": 138.783325
+    },
+    {
+      "name": "Shimoku",
+      "name_en": "Shimoku",
+      "pref": "不明",
+      "lat": 35.099998,
+      "lon": 135.600006
+    },
+    {
+      "name": "Shimokodanaka",
+      "name_en": "Shimokodanaka",
+      "pref": "不明",
+      "lat": 35.566669,
+      "lon": 139.633331
+    },
+    {
+      "name": "Shimodate",
+      "name_en": "Shimodate",
+      "pref": "不明",
+      "lat": 36.299999,
+      "lon": 139.983337
+    },
+    {
+      "name": "Shimoda",
+      "name_en": "Shimoda",
+      "pref": "不明",
+      "lat": 34.666672,
+      "lon": 138.949997
+    },
+    {
+      "name": "Minato",
+      "name_en": "Minato",
+      "pref": "不明",
+      "lat": 34.183331,
+      "lon": 135.199997
+    },
+    {
+      "name": "Nishishinminato",
+      "name_en": "Nishishinminato",
+      "pref": "不明",
+      "lat": 36.783329,
+      "lon": 137.066666
+    },
+    {
+      "name": "Shinbashichō",
+      "name_en": "Shinbashichō",
+      "pref": "不明",
+      "lat": 35.433331,
+      "lon": 139.516663
+    },
+    {
+      "name": "Shimane-ken",
+      "name_en": "Shimane-ken",
+      "pref": "不明",
+      "lat": 35.076931,
+      "lon": 132.561111
+    },
+    {
+      "name": "Shimada",
+      "name_en": "Shimada",
+      "pref": "不明",
+      "lat": 34.816669,
+      "lon": 138.183334
+    },
+    {
+      "name": "Shimabara",
+      "name_en": "Shimabara",
+      "pref": "不明",
+      "lat": 32.783329,
+      "lon": 130.366669
+    },
+    {
+      "name": "Shiki",
+      "name_en": "Shiki",
+      "pref": "不明",
+      "lat": 35.833328,
+      "lon": 139.583328
+    },
+    {
+      "name": "Shijōdōri",
+      "name_en": "Shijōdōri",
+      "pref": "不明",
+      "lat": 35.00378,
+      "lon": 135.763031
+    },
+    {
+      "name": "Shiida",
+      "name_en": "Shiida",
+      "pref": "不明",
+      "lat": 33.653412,
+      "lon": 131.057968
+    },
+    {
+      "name": "Shiga",
+      "name_en": "Shiga",
+      "pref": "不明",
+      "lat": 35.219391,
+      "lon": 136.13652
+    },
+    {
+      "name": "Shido",
+      "name_en": "Shido",
+      "pref": "不明",
+      "lat": 34.32333,
+      "lon": 134.173325
+    },
+    {
+      "name": "Nanabari",
+      "name_en": "Nanabari",
+      "pref": "不明",
+      "lat": 24.783461,
+      "lon": 125.308693
+    },
+    {
+      "name": "Shibushi",
+      "name_en": "Shibushi",
+      "pref": "不明",
+      "lat": 31.466669,
+      "lon": 131.104996
+    },
+    {
+      "name": "Shibukawa",
+      "name_en": "Shibukawa",
+      "pref": "不明",
+      "lat": 36.48333,
+      "lon": 139.0
+    },
+    {
+      "name": "Shibata",
+      "name_en": "Shibata",
+      "pref": "不明",
+      "lat": 37.950001,
+      "lon": 139.333328
+    },
+    {
+      "name": "Seto",
+      "name_en": "Seto",
+      "pref": "不明",
+      "lat": 35.23333,
+      "lon": 137.100006
+    },
+    {
+      "name": "Setakamachi-takayanagi",
+      "name_en": "Setakamachi-takayanagi",
+      "pref": "不明",
+      "lat": 33.150002,
+      "lon": 130.466675
+    },
+    {
+      "name": "Umegaoka",
+      "name_en": "Umegaoka",
+      "pref": "不明",
+      "lat": 35.633331,
+      "lon": 139.649994
+    },
+    {
+      "name": "Seta",
+      "name_en": "Seta",
+      "pref": "不明",
+      "lat": 34.966671,
+      "lon": 135.916672
+    },
+    {
+      "name": "Kiire-sesekushichō",
+      "name_en": "Kiire-sesekushichō",
+      "pref": "不明",
+      "lat": 31.41667,
+      "lon": 130.516663
+    },
+    {
+      "name": "Senzaki",
+      "name_en": "Senzaki",
+      "pref": "不明",
+      "lat": 34.383331,
+      "lon": 131.199997
+    },
+    {
+      "name": "Satsumasendai",
+      "name_en": "Satsumasendai",
+      "pref": "不明",
+      "lat": 31.816669,
+      "lon": 130.300003
+    },
+    {
+      "name": "Sembonyama",
+      "name_en": "Sembonyama",
+      "pref": "不明",
+      "lat": 32.700001,
+      "lon": 129.850006
+    },
+    {
+      "name": "Sekimachi",
+      "name_en": "Sekimachi",
+      "pref": "不明",
+      "lat": 35.48333,
+      "lon": 136.916672
+    },
+    {
+      "name": "Sekigahara",
+      "name_en": "Sekigahara",
+      "pref": "不明",
+      "lat": 35.366669,
+      "lon": 136.466675
+    },
+    {
+      "name": "Sekichō-furumaya",
+      "name_en": "Sekichō-furumaya",
+      "pref": "不明",
+      "lat": 34.849998,
+      "lon": 136.399994
+    },
+    {
+      "name": "Sayō",
+      "name_en": "Sayō",
+      "pref": "不明",
+      "lat": 35.0,
+      "lon": 134.366669
+    },
+    {
+      "name": "Satte",
+      "name_en": "Satte",
+      "pref": "不明",
+      "lat": 36.066669,
+      "lon": 139.716675
+    },
+    {
+      "name": "Sasebo",
+      "name_en": "Sasebo",
+      "pref": "不明",
+      "lat": 33.159168,
+      "lon": 129.722778
+    },
+    {
+      "name": "Sasayama",
+      "name_en": "Sasayama",
+      "pref": "不明",
+      "lat": 35.066669,
+      "lon": 135.216675
+    },
+    {
+      "name": "Sasaguri",
+      "name_en": "Sasaguri",
+      "pref": "不明",
+      "lat": 33.616669,
+      "lon": 130.533325
+    },
+    {
+      "name": "Sano",
+      "name_en": "Sano",
+      "pref": "不明",
+      "lat": 36.316669,
+      "lon": 139.583328
+    },
+    {
+      "name": "Sanjō",
+      "name_en": "Sanjō",
+      "pref": "不明",
+      "lat": 37.616669,
+      "lon": 138.949997
+    },
+    {
+      "name": "Sandachō",
+      "name_en": "Sandachō",
+      "pref": "不明",
+      "lat": 34.883331,
+      "lon": 135.233337
+    },
+    {
+      "name": "Sanmyō",
+      "name_en": "Sanmyō",
+      "pref": "不明",
+      "lat": 32.0,
+      "lon": 131.350006
+    },
+    {
+      "name": "Sanbashidōri",
+      "name_en": "Sanbashidōri",
+      "pref": "不明",
+      "lat": 33.549999,
+      "lon": 133.550003
+    },
+    {
+      "name": "Sakurakabu",
+      "name_en": "Sakurakabu",
+      "pref": "不明",
+      "lat": 35.450001,
+      "lon": 139.466675
+    },
+    {
+      "name": "Sakurai",
+      "name_en": "Sakurai",
+      "pref": "不明",
+      "lat": 34.5,
+      "lon": 135.850006
+    },
+    {
+      "name": "Sakurachō",
+      "name_en": "Sakurachō",
+      "pref": "不明",
+      "lat": 36.150002,
+      "lon": 139.466675
+    },
+    {
+      "name": "Sakurabashidōri",
+      "name_en": "Sakurabashidōri",
+      "pref": "不明",
+      "lat": 36.700001,
+      "lon": 137.216675
+    },
+    {
+      "name": "Saku",
+      "name_en": "Saku",
+      "pref": "不明",
+      "lat": 36.216671,
+      "lon": 138.483337
+    },
+    {
+      "name": "Sakata",
+      "name_en": "Sakata",
+      "pref": "不明",
+      "lat": 38.916672,
+      "lon": 139.854996
+    },
+    {
+      "name": "Ichinomiyamachi-sakanashi",
+      "name_en": "Ichinomiyamachi-sakanashi",
+      "pref": "不明",
+      "lat": 32.933331,
+      "lon": 131.133331
+    },
+    {
+      "name": "Sakaki",
+      "name_en": "Sakaki",
+      "pref": "不明",
+      "lat": 36.466671,
+      "lon": 138.183334
+    },
+    {
+      "name": "Sakaiminato",
+      "name_en": "Sakaiminato",
+      "pref": "不明",
+      "lat": 35.549999,
+      "lon": 133.233337
+    },
+    {
+      "name": "Sakaidechō",
+      "name_en": "Sakaidechō",
+      "pref": "不明",
+      "lat": 34.316669,
+      "lon": 133.850006
+    },
+    {
+      "name": "Sakaidechō",
+      "name_en": "Sakaidechō",
+      "pref": "不明",
+      "lat": 34.316669,
+      "lon": 133.850006
+    },
+    {
+      "name": "Sakai-nakajima",
+      "name_en": "Sakai-nakajima",
+      "pref": "不明",
+      "lat": 36.26667,
+      "lon": 139.25
+    },
+    {
+      "name": "Sakai",
+      "name_en": "Sakai",
+      "pref": "不明",
+      "lat": 36.099998,
+      "lon": 139.800003
+    },
+    {
+      "name": "Sakai",
+      "name_en": "Sakai",
+      "pref": "不明",
+      "lat": 34.583328,
+      "lon": 135.466675
+    },
+    {
+      "name": "Sakaguchi",
+      "name_en": "Sakaguchi",
+      "pref": "不明",
+      "lat": 35.950001,
+      "lon": 139.033325
+    },
+    {
+      "name": "Sakado",
+      "name_en": "Sakado",
+      "pref": "不明",
+      "lat": 35.95694,
+      "lon": 139.388885
+    },
+    {
+      "name": "Saitama-ken",
+      "name_en": "Saitama-ken",
+      "pref": "不明",
+      "lat": 35.857208,
+      "lon": 139.649033
+    },
+    {
+      "name": "Saiki",
+      "name_en": "Saiki",
+      "pref": "不明",
+      "lat": 32.950001,
+      "lon": 131.899994
+    },
+    {
+      "name": "Sagara",
+      "name_en": "Sagara",
+      "pref": "不明",
+      "lat": 34.683331,
+      "lon": 138.199997
+    },
+    {
+      "name": "Sagamihara",
+      "name_en": "Sagamihara",
+      "pref": "不明",
+      "lat": 35.553059,
+      "lon": 139.354446
+    },
+    {
+      "name": "Saga-ken",
+      "name_en": "Saga-ken",
+      "pref": "不明",
+      "lat": 33.28904,
+      "lon": 130.114914
+    },
+    {
+      "name": "Saga",
+      "name_en": "Saga",
+      "pref": "不明",
+      "lat": 33.249321,
+      "lon": 130.298798
+    },
+    {
+      "name": "Sabae",
+      "name_en": "Sabae",
+      "pref": "不明",
+      "lat": 35.946468,
+      "lon": 136.184982
+    },
+    {
+      "name": "Ryūō",
+      "name_en": "Ryūō",
+      "pref": "不明",
+      "lat": 35.650002,
+      "lon": 138.5
+    },
+    {
+      "name": "Ryōtsu-minato",
+      "name_en": "Ryōtsu-minato",
+      "pref": "不明",
+      "lat": 38.083328,
+      "lon": 138.433334
+    },
+    {
+      "name": "Ronji",
+      "name_en": "Ronji",
+      "pref": "不明",
+      "lat": 31.783331,
+      "lon": 130.716675
+    },
+    {
+      "name": "Rokujizō",
+      "name_en": "Rokujizō",
+      "pref": "不明",
+      "lat": 34.933331,
+      "lon": 135.800003
+    },
+    {
+      "name": "Renjakuchō",
+      "name_en": "Renjakuchō",
+      "pref": "不明",
+      "lat": 36.383331,
+      "lon": 139.066666
+    },
+    {
+      "name": "Ōzu",
+      "name_en": "Ōzu",
+      "pref": "不明",
+      "lat": 32.866669,
+      "lon": 130.866669
+    },
+    {
+      "name": "Oyama",
+      "name_en": "Oyama",
+      "pref": "不明",
+      "lat": 36.299999,
+      "lon": 139.800003
+    },
+    {
+      "name": "Ōyama",
+      "name_en": "Ōyama",
+      "pref": "不明",
+      "lat": 34.599998,
+      "lon": 138.216675
+    },
+    {
+      "name": "Owase",
+      "name_en": "Owase",
+      "pref": "不明",
+      "lat": 34.066669,
+      "lon": 136.199997
+    },
+    {
+      "name": "Ōtsuki",
+      "name_en": "Ōtsuki",
+      "pref": "不明",
+      "lat": 35.599998,
+      "lon": 138.933334
+    },
+    {
+      "name": "Ōtsu",
+      "name_en": "Ōtsu",
+      "pref": "不明",
+      "lat": 35.00444,
+      "lon": 135.868332
+    },
+    {
+      "name": "Ohtemachi",
+      "name_en": "Ohtemachi",
+      "pref": "不明",
+      "lat": 36.067348,
+      "lon": 136.220169
+    },
+    {
+      "name": "Ōtake",
+      "name_en": "Ōtake",
+      "pref": "不明",
+      "lat": 34.200001,
+      "lon": 132.216675
+    },
+    {
+      "name": "Ōta",
+      "name_en": "Ōta",
+      "pref": "不明",
+      "lat": 36.299999,
+      "lon": 139.366669
+    },
+    {
+      "name": "Oshi",
+      "name_en": "Oshi",
+      "pref": "不明",
+      "lat": 36.133331,
+      "lon": 139.449997
+    },
+    {
+      "name": "Ōsaka-fu",
+      "name_en": "Ōsaka-fu",
+      "pref": "不明",
+      "lat": 34.68631,
+      "lon": 135.519684
+    },
+    {
+      "name": "Osaka",
+      "name_en": "Osaka",
+      "pref": "不明",
+      "lat": 35.950001,
+      "lon": 137.266663
+    },
+    {
+      "name": "Osaka",
+      "name_en": "Osaka",
+      "pref": "不明",
+      "lat": 34.693741,
+      "lon": 135.502182
+    },
+    {
+      "name": "Onomichi",
+      "name_en": "Onomichi",
+      "pref": "不明",
+      "lat": 34.416672,
+      "lon": 133.199997
+    },
+    {
+      "name": "Onoda",
+      "name_en": "Onoda",
+      "pref": "不明",
+      "lat": 34.001389,
+      "lon": 131.183609
+    },
+    {
+      "name": "Ono",
+      "name_en": "Ono",
+      "pref": "不明",
+      "lat": 35.98106,
+      "lon": 136.487274
+    },
+    {
+      "name": "Ono",
+      "name_en": "Ono",
+      "pref": "不明",
+      "lat": 34.849998,
+      "lon": 134.933334
+    },
+    {
+      "name": "Ōno-hara",
+      "name_en": "Ōno-hara",
+      "pref": "不明",
+      "lat": 34.283329,
+      "lon": 132.266663
+    },
+    {
+      "name": "Ono",
+      "name_en": "Ono",
+      "pref": "不明",
+      "lat": 33.98333,
+      "lon": 134.366669
+    },
+    {
+      "name": "Onna",
+      "name_en": "Onna",
+      "pref": "不明",
+      "lat": 26.492781,
+      "lon": 127.85083
+    },
+    {
+      "name": "Ōmuta",
+      "name_en": "Ōmuta",
+      "pref": "不明",
+      "lat": 33.033329,
+      "lon": 130.449997
+    },
+    {
+      "name": "Ōmura",
+      "name_en": "Ōmura",
+      "pref": "不明",
+      "lat": 32.921391,
+      "lon": 129.953888
+    },
+    {
+      "name": "Ōmiyachō",
+      "name_en": "Ōmiyachō",
+      "pref": "不明",
+      "lat": 35.216671,
+      "lon": 138.616669
+    },
+    {
+      "name": "Omi",
+      "name_en": "Omi",
+      "pref": "不明",
+      "lat": 36.566669,
+      "lon": 137.383331
+    },
+    {
+      "name": "Ōme",
+      "name_en": "Ōme",
+      "pref": "不明",
+      "lat": 35.78389,
+      "lon": 139.243057
+    },
+    {
+      "name": "Ōmamachō-ōmama",
+      "name_en": "Ōmamachō-ōmama",
+      "pref": "不明",
+      "lat": 36.433331,
+      "lon": 139.283325
+    },
+    {
+      "name": "Ōmachi",
+      "name_en": "Ōmachi",
+      "pref": "不明",
+      "lat": 36.5,
+      "lon": 137.866669
+    },
+    {
+      "name": "Ōkuchi-shinohara",
+      "name_en": "Ōkuchi-shinohara",
+      "pref": "不明",
+      "lat": 32.066669,
+      "lon": 130.616669
+    },
+    {
+      "name": "Ōkubo-naka",
+      "name_en": "Ōkubo-naka",
+      "pref": "不明",
+      "lat": 34.400002,
+      "lon": 135.350006
+    },
+    {
+      "name": "Okinawa",
+      "name_en": "Okinawa",
+      "pref": "不明",
+      "lat": 25.772249,
+      "lon": 126.668709
+    },
+    {
+      "name": "Okegawa",
+      "name_en": "Okegawa",
+      "pref": "不明",
+      "lat": 36.0,
+      "lon": 139.55722
+    },
+    {
+      "name": "Ōkagō",
+      "name_en": "Ōkagō",
+      "pref": "不明",
+      "lat": 33.099998,
+      "lon": 139.783325
+    },
+    {
+      "name": "Okazaki",
+      "name_en": "Okazaki",
+      "pref": "不明",
+      "lat": 34.950001,
+      "lon": 137.166672
+    },
+    {
+      "name": "Okayama-ken",
+      "name_en": "Okayama-ken",
+      "pref": "不明",
+      "lat": 34.902039,
+      "lon": 133.810181
+    },
+    {
+      "name": "Okayama",
+      "name_en": "Okayama",
+      "pref": "不明",
+      "lat": 34.661671,
+      "lon": 133.934998
+    },
+    {
+      "name": "Okaya",
+      "name_en": "Okaya",
+      "pref": "不明",
+      "lat": 36.056591,
+      "lon": 138.045105
+    },
+    {
+      "name": "Ōkawa",
+      "name_en": "Ōkawa",
+      "pref": "不明",
+      "lat": 33.200001,
+      "lon": 130.350006
+    },
+    {
+      "name": "Okata",
+      "name_en": "Okata",
+      "pref": "不明",
+      "lat": 34.783329,
+      "lon": 139.383331
+    },
+    {
+      "name": "Ojiya",
+      "name_en": "Ojiya",
+      "pref": "不明",
+      "lat": 37.299999,
+      "lon": 138.800003
+    },
+    {
+      "name": "Shinochō-ōji",
+      "name_en": "Shinochō-ōji",
+      "pref": "不明",
+      "lat": 34.98333,
+      "lon": 135.616669
+    },
+    {
+      "name": "Oita Prefecture",
+      "name_en": "Oita Prefecture",
+      "pref": "不明",
+      "lat": 33.19899,
+      "lon": 131.433533
+    },
+    {
+      "name": "Ōita",
+      "name_en": "Ōita",
+      "pref": "不明",
+      "lat": 33.23806,
+      "lon": 131.612503
+    },
+    {
+      "name": "Ōiso",
+      "name_en": "Ōiso",
+      "pref": "不明",
+      "lat": 35.303059,
+      "lon": 139.30278
+    },
+    {
+      "name": "Ōi",
+      "name_en": "Ōi",
+      "pref": "不明",
+      "lat": 35.851109,
+      "lon": 139.516663
+    },
+    {
+      "name": "Ohama",
+      "name_en": "Ohama",
+      "pref": "不明",
+      "lat": 34.5,
+      "lon": 136.833328
+    },
+    {
+      "name": "Hama",
+      "name_en": "Hama",
+      "pref": "不明",
+      "lat": 32.650002,
+      "lon": 128.816666
+    },
+    {
+      "name": "Ōhama",
+      "name_en": "Ōhama",
+      "pref": "不明",
+      "lat": 24.344481,
+      "lon": 124.19706
+    },
+    {
+      "name": "Ogunimachi",
+      "name_en": "Ogunimachi",
+      "pref": "不明",
+      "lat": 38.066669,
+      "lon": 139.75
+    },
+    {
+      "name": "Ogose",
+      "name_en": "Ogose",
+      "pref": "不明",
+      "lat": 35.958889,
+      "lon": 139.289993
+    },
+    {
+      "name": "Ogōri-shimogō",
+      "name_en": "Ogōri-shimogō",
+      "pref": "不明",
+      "lat": 34.099998,
+      "lon": 131.399994
+    },
+    {
+      "name": "Ōgimachiya",
+      "name_en": "Ōgimachiya",
+      "pref": "不明",
+      "lat": 35.833328,
+      "lon": 139.399994
+    },
+    {
+      "name": "Ogimachi",
+      "name_en": "Ogimachi",
+      "pref": "不明",
+      "lat": 33.287781,
+      "lon": 130.201111
+    },
+    {
+      "name": "Ogawa",
+      "name_en": "Ogawa",
+      "pref": "不明",
+      "lat": 36.049999,
+      "lon": 139.266663
+    },
+    {
+      "name": "Ogano",
+      "name_en": "Ogano",
+      "pref": "不明",
+      "lat": 36.01667,
+      "lon": 139.0
+    },
+    {
+      "name": "Ōgaki",
+      "name_en": "Ōgaki",
+      "pref": "不明",
+      "lat": 35.349998,
+      "lon": 136.616669
+    },
+    {
+      "name": "Mitsushimachō-ōfunakoshi",
+      "name_en": "Mitsushimachō-ōfunakoshi",
+      "pref": "不明",
+      "lat": 34.273331,
+      "lon": 129.354721
+    },
+    {
+      "name": "Ōtera",
+      "name_en": "Ōtera",
+      "pref": "不明",
+      "lat": 37.549999,
+      "lon": 139.983337
+    },
+    {
+      "name": "Odawara",
+      "name_en": "Odawara",
+      "pref": "不明",
+      "lat": 35.255562,
+      "lon": 139.159714
+    },
+    {
+      "name": "Ōdaka",
+      "name_en": "Ōdaka",
+      "pref": "不明",
+      "lat": 35.066669,
+      "lon": 136.933334
+    },
+    {
+      "name": "Ōdachō-ōda",
+      "name_en": "Ōdachō-ōda",
+      "pref": "不明",
+      "lat": 35.183331,
+      "lon": 132.5
+    },
+    {
+      "name": "Ochiai",
+      "name_en": "Ochiai",
+      "pref": "不明",
+      "lat": 35.799999,
+      "lon": 138.833328
+    },
+    {
+      "name": "Obuse",
+      "name_en": "Obuse",
+      "pref": "不明",
+      "lat": 36.700001,
+      "lon": 138.316666
+    },
+    {
+      "name": "Ōbu",
+      "name_en": "Ōbu",
+      "pref": "不明",
+      "lat": 35.0,
+      "lon": 136.966675
+    },
+    {
+      "name": "Obita",
+      "name_en": "Obita",
+      "pref": "不明",
+      "lat": 32.816669,
+      "lon": 129.883331
+    },
+    {
+      "name": "Obama",
+      "name_en": "Obama",
+      "pref": "不明",
+      "lat": 35.495762,
+      "lon": 135.746033
+    },
+    {
+      "name": "Nyūzen",
+      "name_en": "Nyūzen",
+      "pref": "不明",
+      "lat": 36.933331,
+      "lon": 137.5
+    },
+    {
+      "name": "Numazu",
+      "name_en": "Numazu",
+      "pref": "不明",
+      "lat": 35.099998,
+      "lon": 138.866669
+    },
+    {
+      "name": "Numata",
+      "name_en": "Numata",
+      "pref": "不明",
+      "lat": 36.633331,
+      "lon": 139.050003
+    },
+    {
+      "name": "Nosato",
+      "name_en": "Nosato",
+      "pref": "不明",
+      "lat": 26.35,
+      "lon": 127.76667
+    },
+    {
+      "name": "Nonoichi",
+      "name_en": "Nonoichi",
+      "pref": "不明",
+      "lat": 36.533329,
+      "lon": 136.616669
+    },
+    {
+      "name": "Nōgata",
+      "name_en": "Nōgata",
+      "pref": "不明",
+      "lat": 33.73333,
+      "lon": 130.733337
+    },
+    {
+      "name": "Noda",
+      "name_en": "Noda",
+      "pref": "不明",
+      "lat": 35.941109,
+      "lon": 139.858063
+    },
+    {
+      "name": "Nobeoka",
+      "name_en": "Nobeoka",
+      "pref": "不明",
+      "lat": 32.583328,
+      "lon": 131.666672
+    },
+    {
+      "name": "Nishizu",
+      "name_en": "Nishizu",
+      "pref": "不明",
+      "lat": 35.516472,
+      "lon": 135.752304
+    },
+    {
+      "name": "Nishiwaki",
+      "name_en": "Nishiwaki",
+      "pref": "不明",
+      "lat": 34.98333,
+      "lon": 134.966675
+    },
+    {
+      "name": "Nishio",
+      "name_en": "Nishio",
+      "pref": "不明",
+      "lat": 34.866669,
+      "lon": 137.050003
+    },
+    {
+      "name": "Nishinoomote",
+      "name_en": "Nishinoomote",
+      "pref": "不明",
+      "lat": 30.73333,
+      "lon": 131.0
+    },
+    {
+      "name": "Nishinomiya-hama",
+      "name_en": "Nishinomiya-hama",
+      "pref": "不明",
+      "lat": 34.716671,
+      "lon": 135.333328
+    },
+    {
+      "name": "Nishikichō",
+      "name_en": "Nishikichō",
+      "pref": "不明",
+      "lat": 35.650002,
+      "lon": 138.566666
+    },
+    {
+      "name": "Nishi-hanawa",
+      "name_en": "Nishi-hanawa",
+      "pref": "不明",
+      "lat": 35.583328,
+      "lon": 138.533325
+    },
+    {
+      "name": "Nishigochō",
+      "name_en": "Nishigochō",
+      "pref": "不明",
+      "lat": 36.650002,
+      "lon": 138.183334
+    },
+    {
+      "name": "Nishihara",
+      "name_en": "Nishihara",
+      "pref": "不明",
+      "lat": 26.18417,
+      "lon": 127.755829
+    },
+    {
+      "name": "Nishi",
+      "name_en": "Nishi",
+      "pref": "不明",
+      "lat": 26.58333,
+      "lon": 127.23333
+    },
+    {
+      "name": "Nirasaki",
+      "name_en": "Nirasaki",
+      "pref": "不明",
+      "lat": 35.700001,
+      "lon": 138.449997
+    },
+    {
+      "name": "Ninomiya",
+      "name_en": "Ninomiya",
+      "pref": "不明",
+      "lat": 35.303329,
+      "lon": 139.253326
+    },
+    {
+      "name": "Nikkō",
+      "name_en": "Nikkō",
+      "pref": "不明",
+      "lat": 36.75,
+      "lon": 139.616669
+    },
+    {
+      "name": "Niitsu-honchō",
+      "name_en": "Niitsu-honchō",
+      "pref": "不明",
+      "lat": 37.799999,
+      "lon": 139.116669
+    },
+    {
+      "name": "Niimi",
+      "name_en": "Niimi",
+      "pref": "不明",
+      "lat": 34.98333,
+      "lon": 133.466675
+    },
+    {
+      "name": "Niihama",
+      "name_en": "Niihama",
+      "pref": "不明",
+      "lat": 33.959332,
+      "lon": 133.316727
+    },
+    {
+      "name": "Niigata-ken",
+      "name_en": "Niigata-ken",
+      "pref": "不明",
+      "lat": 37.52343,
+      "lon": 138.91748
+    },
+    {
+      "name": "Niigata",
+      "name_en": "Niigata",
+      "pref": "不明",
+      "lat": 37.902222,
+      "lon": 139.023605
+    },
+    {
+      "name": "Nihon’ōdōri",
+      "name_en": "Nihon’ōdōri",
+      "pref": "不明",
+      "lat": 35.450001,
+      "lon": 139.649994
+    },
+    {
+      "name": "Nichinan",
+      "name_en": "Nichinan",
+      "pref": "不明",
+      "lat": 31.6,
+      "lon": 131.366669
+    },
+    {
+      "name": "Nerima",
+      "name_en": "Nerima",
+      "pref": "不明",
+      "lat": 35.73333,
+      "lon": 139.649994
+    },
+    {
+      "name": "Nemoto",
+      "name_en": "Nemoto",
+      "pref": "不明",
+      "lat": 34.900002,
+      "lon": 139.833328
+    },
+    {
+      "name": "Naze",
+      "name_en": "Naze",
+      "pref": "不明",
+      "lat": 28.366671,
+      "lon": 129.483337
+    },
+    {
+      "name": "Nasuzukuri",
+      "name_en": "Nasuzukuri",
+      "pref": "不明",
+      "lat": 34.783329,
+      "lon": 135.666672
+    },
+    {
+      "name": "Narutochō-mitsuishi",
+      "name_en": "Narutochō-mitsuishi",
+      "pref": "不明",
+      "lat": 34.183331,
+      "lon": 134.616669
+    },
+    {
+      "name": "Narusawa",
+      "name_en": "Narusawa",
+      "pref": "不明",
+      "lat": 35.75,
+      "lon": 138.733337
+    },
+    {
+      "name": "Nara-ken",
+      "name_en": "Nara-ken",
+      "pref": "不明",
+      "lat": 34.685249,
+      "lon": 135.832886
+    },
+    {
+      "name": "Nara-shi",
+      "name_en": "Nara-shi",
+      "pref": "不明",
+      "lat": 34.685051,
+      "lon": 135.804855
+    },
+    {
+      "name": "Nanukaichi",
+      "name_en": "Nanukaichi",
+      "pref": "不明",
+      "lat": 34.599998,
+      "lon": 133.466675
+    },
+    {
+      "name": "Nanao",
+      "name_en": "Nanao",
+      "pref": "不明",
+      "lat": 37.049999,
+      "lon": 136.966675
+    },
+    {
+      "name": "Namerikawa",
+      "name_en": "Namerikawa",
+      "pref": "不明",
+      "lat": 36.76667,
+      "lon": 137.333328
+    },
+    {
+      "name": "Nakijin",
+      "name_en": "Nakijin",
+      "pref": "不明",
+      "lat": 26.675831,
+      "lon": 127.971672
+    },
+    {
+      "name": "Nakayama",
+      "name_en": "Nakayama",
+      "pref": "不明",
+      "lat": 35.716671,
+      "lon": 139.949997
+    },
+    {
+      "name": "Nakatsugawa",
+      "name_en": "Nakatsugawa",
+      "pref": "不明",
+      "lat": 35.48333,
+      "lon": 137.5
+    },
+    {
+      "name": "Nakatsu",
+      "name_en": "Nakatsu",
+      "pref": "不明",
+      "lat": 34.799999,
+      "lon": 137.716675
+    },
+    {
+      "name": "Nakatsu",
+      "name_en": "Nakatsu",
+      "pref": "不明",
+      "lat": 33.59811,
+      "lon": 131.188293
+    },
+    {
+      "name": "Nakano",
+      "name_en": "Nakano",
+      "pref": "不明",
+      "lat": 25.94562,
+      "lon": 131.310883
+    },
+    {
+      "name": "Nakanojōmachi",
+      "name_en": "Nakanojōmachi",
+      "pref": "不明",
+      "lat": 36.583328,
+      "lon": 138.850006
+    },
+    {
+      "name": "Nakano",
+      "name_en": "Nakano",
+      "pref": "不明",
+      "lat": 36.75,
+      "lon": 138.366669
+    },
+    {
+      "name": "Nakamura",
+      "name_en": "Nakamura",
+      "pref": "不明",
+      "lat": 36.150002,
+      "lon": 137.916672
+    },
+    {
+      "name": "Nakamura",
+      "name_en": "Nakamura",
+      "pref": "不明",
+      "lat": 32.98333,
+      "lon": 132.933334
+    },
+    {
+      "name": "Nakama",
+      "name_en": "Nakama",
+      "pref": "不明",
+      "lat": 33.816669,
+      "lon": 130.699997
+    },
+    {
+      "name": "Nakajima",
+      "name_en": "Nakajima",
+      "pref": "不明",
+      "lat": 36.716671,
+      "lon": 137.216675
+    },
+    {
+      "name": "Nakaizumi",
+      "name_en": "Nakaizumi",
+      "pref": "不明",
+      "lat": 34.700001,
+      "lon": 137.850006
+    },
+    {
+      "name": "Nakaichi",
+      "name_en": "Nakaichi",
+      "pref": "不明",
+      "lat": 34.166672,
+      "lon": 131.483337
+    },
+    {
+      "name": "Yamazakichō-nakai",
+      "name_en": "Yamazakichō-nakai",
+      "pref": "不明",
+      "lat": 34.98333,
+      "lon": 134.533325
+    },
+    {
+      "name": "Naka-gōchi",
+      "name_en": "Naka-gōchi",
+      "pref": "不明",
+      "lat": 34.01667,
+      "lon": 131.333328
+    },
+    {
+      "name": "Nakagawa",
+      "name_en": "Nakagawa",
+      "pref": "不明",
+      "lat": 35.066669,
+      "lon": 137.033325
+    },
+    {
+      "name": "Nahari",
+      "name_en": "Nahari",
+      "pref": "不明",
+      "lat": 33.416672,
+      "lon": 134.016663
+    },
+    {
+      "name": "Naha",
+      "name_en": "Naha",
+      "pref": "不明",
+      "lat": 26.2125,
+      "lon": 127.681107
+    },
+    {
+      "name": "Nagoya",
+      "name_en": "Nagoya",
+      "pref": "不明",
+      "lat": 35.181469,
+      "lon": 136.906403
+    },
+    {
+      "name": "Nago",
+      "name_en": "Nago",
+      "pref": "不明",
+      "lat": 26.58806,
+      "lon": 127.976112
+    },
+    {
+      "name": "Nagasaki Prefecture",
+      "name_en": "Nagasaki Prefecture",
+      "pref": "不明",
+      "lat": 33.23344,
+      "lon": 129.611084
+    },
+    {
+      "name": "Nagasaki",
+      "name_en": "Nagasaki",
+      "pref": "不明",
+      "lat": 32.74472,
+      "lon": 129.873611
+    },
+    {
+      "name": "Nagareyama",
+      "name_en": "Nagareyama",
+      "pref": "不明",
+      "lat": 35.8563,
+      "lon": 139.902664
+    },
+    {
+      "name": "Nagaoka",
+      "name_en": "Nagaoka",
+      "pref": "不明",
+      "lat": 37.450001,
+      "lon": 138.850006
+    },
+    {
+      "name": "Nagao",
+      "name_en": "Nagao",
+      "pref": "不明",
+      "lat": 34.26667,
+      "lon": 134.166672
+    },
+    {
+      "name": "Nagano-ken",
+      "name_en": "Nagano-ken",
+      "pref": "不明",
+      "lat": 36.13464,
+      "lon": 138.040771
+    },
+    {
+      "name": "Naganohara",
+      "name_en": "Naganohara",
+      "pref": "不明",
+      "lat": 36.549999,
+      "lon": 138.633331
+    },
+    {
+      "name": "Nagano",
+      "name_en": "Nagano",
+      "pref": "不明",
+      "lat": 36.65139,
+      "lon": 138.181107
+    },
+    {
+      "name": "Nagahamamachi",
+      "name_en": "Nagahamamachi",
+      "pref": "不明",
+      "lat": 33.23333,
+      "lon": 131.616669
+    },
+    {
+      "name": "Nagahama",
+      "name_en": "Nagahama",
+      "pref": "不明",
+      "lat": 35.383331,
+      "lon": 136.266663
+    },
+    {
+      "name": "Nabari",
+      "name_en": "Nabari",
+      "pref": "不明",
+      "lat": 34.616669,
+      "lon": 136.083328
+    },
+    {
+      "name": "Myōrakujichō",
+      "name_en": "Myōrakujichō",
+      "pref": "不明",
+      "lat": 34.966671,
+      "lon": 134.916672
+    },
+    {
+      "name": "Musashino",
+      "name_en": "Musashino",
+      "pref": "不明",
+      "lat": 35.706108,
+      "lon": 139.559433
+    },
+    {
+      "name": "Murotsu",
+      "name_en": "Murotsu",
+      "pref": "不明",
+      "lat": 33.283329,
+      "lon": 134.149994
+    },
+    {
+      "name": "Muroto-misakicho",
+      "name_en": "Muroto-misakicho",
+      "pref": "不明",
+      "lat": 33.283329,
+      "lon": 134.149994
+    },
+    {
+      "name": "Muramatsu",
+      "name_en": "Muramatsu",
+      "pref": "不明",
+      "lat": 37.683331,
+      "lon": 139.183334
+    },
+    {
+      "name": "Murakami",
+      "name_en": "Murakami",
+      "pref": "不明",
+      "lat": 38.23333,
+      "lon": 139.483337
+    },
+    {
+      "name": "Muraimachi-minami",
+      "name_en": "Muraimachi-minami",
+      "pref": "不明",
+      "lat": 36.166672,
+      "lon": 137.966675
+    },
+    {
+      "name": "Mukō",
+      "name_en": "Mukō",
+      "pref": "不明",
+      "lat": 34.96545,
+      "lon": 135.704147
+    },
+    {
+      "name": "Mukai-awagasaki",
+      "name_en": "Mukai-awagasaki",
+      "pref": "不明",
+      "lat": 36.633331,
+      "lon": 136.633331
+    },
+    {
+      "name": "Muikamachi",
+      "name_en": "Muikamachi",
+      "pref": "不明",
+      "lat": 37.066669,
+      "lon": 138.883331
+    },
+    {
+      "name": "Mugiura",
+      "name_en": "Mugiura",
+      "pref": "不明",
+      "lat": 33.666672,
+      "lon": 134.416672
+    },
+    {
+      "name": "Motomachi",
+      "name_en": "Motomachi",
+      "pref": "不明",
+      "lat": 33.73333,
+      "lon": 135.366669
+    },
+    {
+      "name": "Motoichiba",
+      "name_en": "Motoichiba",
+      "pref": "不明",
+      "lat": 35.150002,
+      "lon": 138.649994
+    },
+    {
+      "name": "Motogoe",
+      "name_en": "Motogoe",
+      "pref": "不明",
+      "lat": 32.966671,
+      "lon": 129.800003
+    },
+    {
+      "name": "Morohongō",
+      "name_en": "Morohongō",
+      "pref": "不明",
+      "lat": 35.935558,
+      "lon": 139.304443
+    },
+    {
+      "name": "Yamakunimachi-morizane",
+      "name_en": "Yamakunimachi-morizane",
+      "pref": "不明",
+      "lat": 33.400002,
+      "lon": 131.033325
+    },
+    {
+      "name": "Moriyama",
+      "name_en": "Moriyama",
+      "pref": "不明",
+      "lat": 35.066669,
+      "lon": 135.983337
+    },
+    {
+      "name": "Moriguchi",
+      "name_en": "Moriguchi",
+      "pref": "不明",
+      "lat": 34.73333,
+      "lon": 135.566666
+    },
+    {
+      "name": "Mori",
+      "name_en": "Mori",
+      "pref": "不明",
+      "lat": 34.833328,
+      "lon": 137.933334
+    },
+    {
+      "name": "Mizunami",
+      "name_en": "Mizunami",
+      "pref": "不明",
+      "lat": 35.366669,
+      "lon": 137.25
+    },
+    {
+      "name": "Mizoguchi",
+      "name_en": "Mizoguchi",
+      "pref": "不明",
+      "lat": 35.349998,
+      "lon": 133.433334
+    },
+    {
+      "name": "Miyoshi-shi",
+      "name_en": "Miyoshi-shi",
+      "pref": "不明",
+      "lat": 35.083328,
+      "lon": 137.066666
+    },
+    {
+      "name": "Miyoshi",
+      "name_en": "Miyoshi",
+      "pref": "不明",
+      "lat": 34.799999,
+      "lon": 132.850006
+    },
+    {
+      "name": "Miyazu",
+      "name_en": "Miyazu",
+      "pref": "不明",
+      "lat": 35.533329,
+      "lon": 135.183334
+    },
+    {
+      "name": "Miyazaki",
+      "name_en": "Miyazaki",
+      "pref": "不明",
+      "lat": 32.198071,
+      "lon": 131.297623
+    },
+    {
+      "name": "Miyazaki",
+      "name_en": "Miyazaki",
+      "pref": "不明",
+      "lat": 31.91111,
+      "lon": 131.423889
+    },
+    {
+      "name": "Miyamaechō",
+      "name_en": "Miyamaechō",
+      "pref": "不明",
+      "lat": 36.316669,
+      "lon": 139.199997
+    },
+    {
+      "name": "Miyakonojō",
+      "name_en": "Miyakonojō",
+      "pref": "不明",
+      "lat": 31.73333,
+      "lon": 131.066666
+    },
+    {
+      "name": "Miyake-naka",
+      "name_en": "Miyake-naka",
+      "pref": "不明",
+      "lat": 34.583328,
+      "lon": 135.550003
+    },
+    {
+      "name": "Miyajima",
+      "name_en": "Miyajima",
+      "pref": "不明",
+      "lat": 34.30183,
+      "lon": 132.326126
+    },
+    {
+      "name": "Miyaji",
+      "name_en": "Miyaji",
+      "pref": "不明",
+      "lat": 34.200001,
+      "lon": 133.983337
+    },
+    {
+      "name": "Miyada",
+      "name_en": "Miyada",
+      "pref": "不明",
+      "lat": 35.76667,
+      "lon": 137.949997
+    },
+    {
+      "name": "Miyata",
+      "name_en": "Miyata",
+      "pref": "不明",
+      "lat": 33.716671,
+      "lon": 130.666672
+    },
+    {
+      "name": "Miwa",
+      "name_en": "Miwa",
+      "pref": "不明",
+      "lat": 36.666672,
+      "lon": 138.199997
+    },
+    {
+      "name": "Mitsuke",
+      "name_en": "Mitsuke",
+      "pref": "不明",
+      "lat": 37.533329,
+      "lon": 138.933334
+    },
+    {
+      "name": "Mitsukaidō",
+      "name_en": "Mitsukaidō",
+      "pref": "不明",
+      "lat": 36.01667,
+      "lon": 139.983337
+    },
+    {
+      "name": "Mitsugarasu",
+      "name_en": "Mitsugarasu",
+      "pref": "不明",
+      "lat": 34.666672,
+      "lon": 135.833328
+    },
+    {
+      "name": "Mitake",
+      "name_en": "Mitake",
+      "pref": "不明",
+      "lat": 35.416672,
+      "lon": 137.133331
+    },
+    {
+      "name": "Mitaka-shi",
+      "name_en": "Mitaka-shi",
+      "pref": "不明",
+      "lat": 35.68351,
+      "lon": 139.559631
+    },
+    {
+      "name": "Mita",
+      "name_en": "Mita",
+      "pref": "不明",
+      "lat": 35.650002,
+      "lon": 139.733337
+    },
+    {
+      "name": "Mishima",
+      "name_en": "Mishima",
+      "pref": "不明",
+      "lat": 35.116669,
+      "lon": 138.916672
+    },
+    {
+      "name": "Minowa",
+      "name_en": "Minowa",
+      "pref": "不明",
+      "lat": 36.383331,
+      "lon": 138.949997
+    },
+    {
+      "name": "Mino",
+      "name_en": "Mino",
+      "pref": "不明",
+      "lat": 34.826908,
+      "lon": 135.470566
+    },
+    {
+      "name": "Minobu",
+      "name_en": "Minobu",
+      "pref": "不明",
+      "lat": 35.366669,
+      "lon": 138.433334
+    },
+    {
+      "name": "Mino",
+      "name_en": "Mino",
+      "pref": "不明",
+      "lat": 35.533329,
+      "lon": 136.916672
+    },
+    {
+      "name": "Minatomachi",
+      "name_en": "Minatomachi",
+      "pref": "不明",
+      "lat": 33.033329,
+      "lon": 130.449997
+    },
+    {
+      "name": "Minato",
+      "name_en": "Minato",
+      "pref": "不明",
+      "lat": 35.21806,
+      "lon": 139.887497
+    },
+    {
+      "name": "Minano",
+      "name_en": "Minano",
+      "pref": "不明",
+      "lat": 36.066669,
+      "lon": 139.100006
+    },
+    {
+      "name": "Minamisenju",
+      "name_en": "Minamisenju",
+      "pref": "不明",
+      "lat": 35.73333,
+      "lon": 139.816666
+    },
+    {
+      "name": "Minamirinkan",
+      "name_en": "Minamirinkan",
+      "pref": "不明",
+      "lat": 35.48333,
+      "lon": 139.449997
+    },
+    {
+      "name": "Minamikasagi",
+      "name_en": "Minamikasagi",
+      "pref": "不明",
+      "lat": 34.75,
+      "lon": 135.933334
+    },
+    {
+      "name": "Minamata",
+      "name_en": "Minamata",
+      "pref": "不明",
+      "lat": 32.216671,
+      "lon": 130.399994
+    },
+    {
+      "name": "Minakuchichō-matoba",
+      "name_en": "Minakuchichō-matoba",
+      "pref": "不明",
+      "lat": 34.966671,
+      "lon": 136.166672
+    },
+    {
+      "name": "Minagi",
+      "name_en": "Minagi",
+      "pref": "不明",
+      "lat": 34.716671,
+      "lon": 133.649994
+    },
+    {
+      "name": "Mikuni",
+      "name_en": "Mikuni",
+      "pref": "不明",
+      "lat": 36.21706,
+      "lon": 136.151855
+    },
+    {
+      "name": "Miki",
+      "name_en": "Miki",
+      "pref": "不明",
+      "lat": 34.799999,
+      "lon": 134.983337
+    },
+    {
+      "name": "Mihara",
+      "name_en": "Mihara",
+      "pref": "不明",
+      "lat": 34.400002,
+      "lon": 133.083328
+    },
+    {
+      "name": "Mifune",
+      "name_en": "Mifune",
+      "pref": "不明",
+      "lat": 32.716671,
+      "lon": 130.800003
+    },
+    {
+      "name": "Mie-ken",
+      "name_en": "Mie-ken",
+      "pref": "不明",
+      "lat": 34.521229,
+      "lon": 136.382965
+    },
+    {
+      "name": "Mie",
+      "name_en": "Mie",
+      "pref": "不明",
+      "lat": 32.966671,
+      "lon": 131.583328
+    },
+    {
+      "name": "Mibu",
+      "name_en": "Mibu",
+      "pref": "不明",
+      "lat": 36.416672,
+      "lon": 139.800003
+    },
+    {
+      "name": "Menuma",
+      "name_en": "Menuma",
+      "pref": "不明",
+      "lat": 36.216671,
+      "lon": 139.383331
+    },
+    {
+      "name": "Mayanoheta",
+      "name_en": "Mayanoheta",
+      "pref": "不明",
+      "lat": 34.549999,
+      "lon": 136.516663
+    },
+    {
+      "name": "Matsuzaki",
+      "name_en": "Matsuzaki",
+      "pref": "不明",
+      "lat": 34.75,
+      "lon": 138.783325
+    },
+    {
+      "name": "Matsutō",
+      "name_en": "Matsutō",
+      "pref": "不明",
+      "lat": 36.51667,
+      "lon": 136.566666
+    },
+    {
+      "name": "Matsuzaka-shi",
+      "name_en": "Matsuzaka-shi",
+      "pref": "不明",
+      "lat": 34.566669,
+      "lon": 136.533325
+    },
+    {
+      "name": "Matsumoto",
+      "name_en": "Matsumoto",
+      "pref": "不明",
+      "lat": 36.23333,
+      "lon": 137.966675
+    },
+    {
+      "name": "Matsugasakihama",
+      "name_en": "Matsugasakihama",
+      "pref": "不明",
+      "lat": 37.957779,
+      "lon": 139.133331
+    },
+    {
+      "name": "Matsue",
+      "name_en": "Matsue",
+      "pref": "不明",
+      "lat": 35.472221,
+      "lon": 133.050568
+    },
+    {
+      "name": "Matsudo",
+      "name_en": "Matsudo",
+      "pref": "不明",
+      "lat": 35.783329,
+      "lon": 139.899994
+    },
+    {
+      "name": "Matsubase",
+      "name_en": "Matsubase",
+      "pref": "不明",
+      "lat": 32.650002,
+      "lon": 130.666672
+    },
+    {
+      "name": "Matsubara",
+      "name_en": "Matsubara",
+      "pref": "不明",
+      "lat": 34.566669,
+      "lon": 135.550003
+    },
+    {
+      "name": "Matoba",
+      "name_en": "Matoba",
+      "pref": "不明",
+      "lat": 34.25,
+      "lon": 133.949997
+    },
+    {
+      "name": "Masuda",
+      "name_en": "Masuda",
+      "pref": "不明",
+      "lat": 34.666672,
+      "lon": 131.850006
+    },
+    {
+      "name": "Maruoka",
+      "name_en": "Maruoka",
+      "pref": "不明",
+      "lat": 36.1534,
+      "lon": 136.270294
+    },
+    {
+      "name": "Marunouchi",
+      "name_en": "Marunouchi",
+      "pref": "不明",
+      "lat": 35.683331,
+      "lon": 139.766663
+    },
+    {
+      "name": "Kamimaruko",
+      "name_en": "Kamimaruko",
+      "pref": "不明",
+      "lat": 36.316669,
+      "lon": 138.266663
+    },
+    {
+      "name": "Marugame",
+      "name_en": "Marugame",
+      "pref": "不明",
+      "lat": 34.283329,
+      "lon": 133.783325
+    },
+    {
+      "name": "Manzawa",
+      "name_en": "Manzawa",
+      "pref": "不明",
+      "lat": 35.216671,
+      "lon": 138.516663
+    },
+    {
+      "name": "Bandaichō",
+      "name_en": "Bandaichō",
+      "pref": "不明",
+      "lat": 34.066669,
+      "lon": 134.566666
+    },
+    {
+      "name": "Manazuru",
+      "name_en": "Manazuru",
+      "pref": "不明",
+      "lat": 35.153889,
+      "lon": 139.135559
+    },
+    {
+      "name": "Mameda-honmachi",
+      "name_en": "Mameda-honmachi",
+      "pref": "不明",
+      "lat": 36.566669,
+      "lon": 136.633331
+    },
+    {
+      "name": "Makurazaki",
+      "name_en": "Makurazaki",
+      "pref": "不明",
+      "lat": 31.26667,
+      "lon": 130.316666
+    },
+    {
+      "name": "Makinohara",
+      "name_en": "Makinohara",
+      "pref": "不明",
+      "lat": 34.816669,
+      "lon": 138.116669
+    },
+    {
+      "name": "Maki",
+      "name_en": "Maki",
+      "pref": "不明",
+      "lat": 37.75,
+      "lon": 138.883331
+    },
+    {
+      "name": "Maizuru",
+      "name_en": "Maizuru",
+      "pref": "不明",
+      "lat": 35.450001,
+      "lon": 135.333328
+    },
+    {
+      "name": "Maibara",
+      "name_en": "Maibara",
+      "pref": "不明",
+      "lat": 35.316669,
+      "lon": 136.283325
+    },
+    {
+      "name": "Maehama",
+      "name_en": "Maehama",
+      "pref": "不明",
+      "lat": 33.533329,
+      "lon": 133.666672
+    },
+    {
+      "name": "Maeda",
+      "name_en": "Maeda",
+      "pref": "不明",
+      "lat": 33.966671,
+      "lon": 130.966675
+    },
+    {
+      "name": "Maebashi",
+      "name_en": "Maebashi",
+      "pref": "不明",
+      "lat": 36.391109,
+      "lon": 139.060837
+    },
+    {
+      "name": "Maebaru-chūō",
+      "name_en": "Maebaru-chūō",
+      "pref": "不明",
+      "lat": 33.549999,
+      "lon": 130.199997
+    },
+    {
+      "name": "Machida",
+      "name_en": "Machida",
+      "pref": "不明",
+      "lat": 35.540279,
+      "lon": 139.450836
+    },
+    {
+      "name": "Kyōto-shi",
+      "name_en": "Kyōto-shi",
+      "pref": "不明",
+      "lat": 35.107368,
+      "lon": 135.724014
+    },
+    {
+      "name": "Kyoto Prefecture",
+      "name_en": "Kyoto Prefecture",
+      "pref": "不明",
+      "lat": 35.254318,
+      "lon": 135.441177
+    },
+    {
+      "name": "Kyoto",
+      "name_en": "Kyoto",
+      "pref": "不明",
+      "lat": 35.021069,
+      "lon": 135.753845
+    },
+    {
+      "name": "Kyōguchi",
+      "name_en": "Kyōguchi",
+      "pref": "不明",
+      "lat": 35.450001,
+      "lon": 135.333328
+    },
+    {
+      "name": "Kuwana",
+      "name_en": "Kuwana",
+      "pref": "不明",
+      "lat": 35.066669,
+      "lon": 136.699997
+    },
+    {
+      "name": "Kushiro",
+      "name_en": "Kushiro",
+      "pref": "不明",
+      "lat": 34.799999,
+      "lon": 135.416672
+    },
+    {
+      "name": "Kushimoto",
+      "name_en": "Kushimoto",
+      "pref": "不明",
+      "lat": 33.466671,
+      "lon": 135.783325
+    },
+    {
+      "name": "Kushikino",
+      "name_en": "Kushikino",
+      "pref": "不明",
+      "lat": 31.716669,
+      "lon": 130.266663
+    },
+    {
+      "name": "Kusatsu",
+      "name_en": "Kusatsu",
+      "pref": "不明",
+      "lat": 35.01667,
+      "lon": 135.966675
+    },
+    {
+      "name": "Kurume",
+      "name_en": "Kurume",
+      "pref": "不明",
+      "lat": 33.316669,
+      "lon": 130.516663
+    },
+    {
+      "name": "Kuroda",
+      "name_en": "Kuroda",
+      "pref": "不明",
+      "lat": 35.349998,
+      "lon": 136.783325
+    },
+    {
+      "name": "Kurihashi",
+      "name_en": "Kurihashi",
+      "pref": "不明",
+      "lat": 36.133331,
+      "lon": 139.699997
+    },
+    {
+      "name": "Kure",
+      "name_en": "Kure",
+      "pref": "不明",
+      "lat": 34.23333,
+      "lon": 132.566666
+    },
+    {
+      "name": "Kurayoshi",
+      "name_en": "Kurayoshi",
+      "pref": "不明",
+      "lat": 35.433331,
+      "lon": 133.816666
+    },
+    {
+      "name": "Kurashiki",
+      "name_en": "Kurashiki",
+      "pref": "不明",
+      "lat": 34.583328,
+      "lon": 133.766663
+    },
+    {
+      "name": "Kuradani",
+      "name_en": "Kuradani",
+      "pref": "不明",
+      "lat": 35.450001,
+      "lon": 135.333328
+    },
+    {
+      "name": "Kunigami",
+      "name_en": "Kunigami",
+      "pref": "不明",
+      "lat": 27.41667,
+      "lon": 128.683334
+    },
+    {
+      "name": "Kumamoto",
+      "name_en": "Kumamoto",
+      "pref": "不明",
+      "lat": 32.620491,
+      "lon": 130.754303
+    },
+    {
+      "name": "Kumamoto",
+      "name_en": "Kumamoto",
+      "pref": "不明",
+      "lat": 32.789719,
+      "lon": 130.741669
+    },
+    {
+      "name": "Kumagaya",
+      "name_en": "Kumagaya",
+      "pref": "不明",
+      "lat": 36.133331,
+      "lon": 139.383331
+    },
+    {
+      "name": "Kukichūō",
+      "name_en": "Kukichūō",
+      "pref": "不明",
+      "lat": 36.066669,
+      "lon": 139.666672
+    },
+    {
+      "name": "Kugayama",
+      "name_en": "Kugayama",
+      "pref": "不明",
+      "lat": 35.683331,
+      "lon": 139.600006
+    },
+    {
+      "name": "Kugamachi",
+      "name_en": "Kugamachi",
+      "pref": "不明",
+      "lat": 34.083328,
+      "lon": 132.083328
+    },
+    {
+      "name": "Kudoyama",
+      "name_en": "Kudoyama",
+      "pref": "不明",
+      "lat": 34.283329,
+      "lon": 135.566666
+    },
+    {
+      "name": "Kudamatsu",
+      "name_en": "Kudamatsu",
+      "pref": "不明",
+      "lat": 34.0,
+      "lon": 131.866669
+    },
+    {
+      "name": "Kozakai-chō",
+      "name_en": "Kozakai-chō",
+      "pref": "不明",
+      "lat": 34.799999,
+      "lon": 137.358887
+    },
+    {
+      "name": "Kotohira",
+      "name_en": "Kotohira",
+      "pref": "不明",
+      "lat": 34.183331,
+      "lon": 133.816666
+    },
+    {
+      "name": "Kōtari",
+      "name_en": "Kōtari",
+      "pref": "不明",
+      "lat": 34.916672,
+      "lon": 135.699997
+    },
+    {
+      "name": "Kuragaki-kosugi",
+      "name_en": "Kuragaki-kosugi",
+      "pref": "不明",
+      "lat": 36.716671,
+      "lon": 137.100006
+    },
+    {
+      "name": "Ko-shinozu",
+      "name_en": "Ko-shinozu",
+      "pref": "不明",
+      "lat": 35.5,
+      "lon": 133.25
+    },
+    {
+      "name": "Koshigaya",
+      "name_en": "Koshigaya",
+      "pref": "不明",
+      "lat": 35.883331,
+      "lon": 139.783325
+    },
+    {
+      "name": "Kosai-shi",
+      "name_en": "Kosai-shi",
+      "pref": "不明",
+      "lat": 34.718399,
+      "lon": 137.531754
+    },
+    {
+      "name": "Kōnosu",
+      "name_en": "Kōnosu",
+      "pref": "不明",
+      "lat": 36.049999,
+      "lon": 139.516663
+    },
+    {
+      "name": "Kōnan",
+      "name_en": "Kōnan",
+      "pref": "不明",
+      "lat": 35.33165,
+      "lon": 136.870422
+    },
+    {
+      "name": "Komoro",
+      "name_en": "Komoro",
+      "pref": "不明",
+      "lat": 36.316669,
+      "lon": 138.433334
+    },
+    {
+      "name": "Komono",
+      "name_en": "Komono",
+      "pref": "不明",
+      "lat": 35.0,
+      "lon": 136.516663
+    },
+    {
+      "name": "Komatsushimachō",
+      "name_en": "Komatsushimachō",
+      "pref": "不明",
+      "lat": 34.0,
+      "lon": 134.583328
+    },
+    {
+      "name": "Komatsu",
+      "name_en": "Komatsu",
+      "pref": "不明",
+      "lat": 36.40263,
+      "lon": 136.450882
+    },
+    {
+      "name": "Komaki",
+      "name_en": "Komaki",
+      "pref": "不明",
+      "lat": 35.283329,
+      "lon": 136.916672
+    },
+    {
+      "name": "Komagatamachi",
+      "name_en": "Komagatamachi",
+      "pref": "不明",
+      "lat": 36.349998,
+      "lon": 139.133331
+    },
+    {
+      "name": "Kokubunji",
+      "name_en": "Kokubunji",
+      "pref": "不明",
+      "lat": 35.702221,
+      "lon": 139.475555
+    },
+    {
+      "name": "Kokubu-matsuki",
+      "name_en": "Kokubu-matsuki",
+      "pref": "不明",
+      "lat": 31.73333,
+      "lon": 130.766663
+    },
+    {
+      "name": "Koganei",
+      "name_en": "Koganei",
+      "pref": "不明",
+      "lat": 35.691391,
+      "lon": 139.501114
+    },
+    {
+      "name": "Koga",
+      "name_en": "Koga",
+      "pref": "不明",
+      "lat": 36.183331,
+      "lon": 139.716675
+    },
+    {
+      "name": "Koga",
+      "name_en": "Koga",
+      "pref": "不明",
+      "lat": 33.73333,
+      "lon": 130.466675
+    },
+    {
+      "name": "Kōfu",
+      "name_en": "Kōfu",
+      "pref": "不明",
+      "lat": 35.663891,
+      "lon": 138.568329
+    },
+    {
+      "name": "Kodamachō-kodamaminami",
+      "name_en": "Kodamachō-kodamaminami",
+      "pref": "不明",
+      "lat": 36.183331,
+      "lon": 139.133331
+    },
+    {
+      "name": "Kodaira",
+      "name_en": "Kodaira",
+      "pref": "不明",
+      "lat": 35.726391,
+      "lon": 139.483887
+    },
+    {
+      "name": "Kochino",
+      "name_en": "Kochino",
+      "pref": "不明",
+      "lat": 35.333328,
+      "lon": 136.866669
+    },
+    {
+      "name": "Kochi Prefecture",
+      "name_en": "Kochi Prefecture",
+      "pref": "不明",
+      "lat": 33.428009,
+      "lon": 133.364014
+    },
+    {
+      "name": "Kōchi",
+      "name_en": "Kōchi",
+      "pref": "不明",
+      "lat": 34.700001,
+      "lon": 138.933334
+    },
+    {
+      "name": "Kochi",
+      "name_en": "Kochi",
+      "pref": "不明",
+      "lat": 33.559719,
+      "lon": 133.531113
+    },
+    {
+      "name": "Kobe",
+      "name_en": "Kobe",
+      "pref": "不明",
+      "lat": 34.691299,
+      "lon": 135.182999
+    },
+    {
+      "name": "Kobayashi",
+      "name_en": "Kobayashi",
+      "pref": "不明",
+      "lat": 31.98333,
+      "lon": 130.983337
+    },
+    {
+      "name": "Kobaruyama",
+      "name_en": "Kobaruyama",
+      "pref": "不明",
+      "lat": 32.01667,
+      "lon": 131.283325
+    },
+    {
+      "name": "Kiyama",
+      "name_en": "Kiyama",
+      "pref": "不明",
+      "lat": 32.783329,
+      "lon": 130.816666
+    },
+    {
+      "name": "Kitsuki",
+      "name_en": "Kitsuki",
+      "pref": "不明",
+      "lat": 33.416672,
+      "lon": 131.616669
+    },
+    {
+      "name": "Kita-toyama",
+      "name_en": "Kita-toyama",
+      "pref": "不明",
+      "lat": 35.26667,
+      "lon": 136.916672
+    },
+    {
+      "name": "Kitakyushu",
+      "name_en": "Kitakyushu",
+      "pref": "不明",
+      "lat": 33.833328,
+      "lon": 130.833328
+    },
+    {
+      "name": "Kitakata",
+      "name_en": "Kitakata",
+      "pref": "不明",
+      "lat": 37.650002,
+      "lon": 139.866669
+    },
+    {
+      "name": "Kitahama",
+      "name_en": "Kitahama",
+      "pref": "不明",
+      "lat": 35.166672,
+      "lon": 135.916672
+    },
+    {
+      "name": "Kitadaishin",
+      "name_en": "Kitadaishin",
+      "pref": "不明",
+      "lat": 36.716671,
+      "lon": 137.166672
+    },
+    {
+      "name": "Kishiwada",
+      "name_en": "Kishiwada",
+      "pref": "不明",
+      "lat": 34.466671,
+      "lon": 135.366669
+    },
+    {
+      "name": "Kisarazu",
+      "name_en": "Kisarazu",
+      "pref": "不明",
+      "lat": 35.374722,
+      "lon": 139.922501
+    },
+    {
+      "name": "Kisai",
+      "name_en": "Kisai",
+      "pref": "不明",
+      "lat": 36.099998,
+      "lon": 139.583328
+    },
+    {
+      "name": "Kiryū",
+      "name_en": "Kiryū",
+      "pref": "不明",
+      "lat": 36.400002,
+      "lon": 139.333328
+    },
+    {
+      "name": "Kiragawachō",
+      "name_en": "Kiragawachō",
+      "pref": "不明",
+      "lat": 33.333328,
+      "lon": 134.100006
+    },
+    {
+      "name": "Kin",
+      "name_en": "Kin",
+      "pref": "不明",
+      "lat": 26.452221,
+      "lon": 127.917778
+    },
+    {
+      "name": "Kimiidera",
+      "name_en": "Kimiidera",
+      "pref": "不明",
+      "lat": 34.183331,
+      "lon": 135.199997
+    },
+    {
+      "name": "Kikuna",
+      "name_en": "Kikuna",
+      "pref": "不明",
+      "lat": 35.5,
+      "lon": 139.633331
+    },
+    {
+      "name": "Kikuchi",
+      "name_en": "Kikuchi",
+      "pref": "不明",
+      "lat": 32.98333,
+      "lon": 130.816666
+    },
+    {
+      "name": "Kazo",
+      "name_en": "Kazo",
+      "pref": "不明",
+      "lat": 36.116669,
+      "lon": 139.600006
+    },
+    {
+      "name": "Kawatana",
+      "name_en": "Kawatana",
+      "pref": "不明",
+      "lat": 33.066669,
+      "lon": 129.866669
+    },
+    {
+      "name": "Kawasaki",
+      "name_en": "Kawasaki",
+      "pref": "不明",
+      "lat": 35.520561,
+      "lon": 139.717224
+    },
+    {
+      "name": "Kawasaki",
+      "name_en": "Kawasaki",
+      "pref": "不明",
+      "lat": 33.583328,
+      "lon": 130.833328
+    },
+    {
+      "name": "Kawanishi",
+      "name_en": "Kawanishi",
+      "pref": "不明",
+      "lat": 34.816669,
+      "lon": 135.416672
+    },
+    {
+      "name": "Kawamoto",
+      "name_en": "Kawamoto",
+      "pref": "不明",
+      "lat": 34.98333,
+      "lon": 132.5
+    },
+    {
+      "name": "Kawai",
+      "name_en": "Kawai",
+      "pref": "不明",
+      "lat": 34.23333,
+      "lon": 135.850006
+    },
+    {
+      "name": "Kawaguchi",
+      "name_en": "Kawaguchi",
+      "pref": "不明",
+      "lat": 35.805,
+      "lon": 139.720566
+    },
+    {
+      "name": "Kawagoe",
+      "name_en": "Kawagoe",
+      "pref": "不明",
+      "lat": 35.908611,
+      "lon": 139.485275
+    },
+    {
+      "name": "Katsuyama",
+      "name_en": "Katsuyama",
+      "pref": "不明",
+      "lat": 36.061729,
+      "lon": 136.501007
+    },
+    {
+      "name": "Katase",
+      "name_en": "Katase",
+      "pref": "不明",
+      "lat": 35.31694,
+      "lon": 139.474442
+    },
+    {
+      "name": "Kasukabe",
+      "name_en": "Kasukabe",
+      "pref": "不明",
+      "lat": 35.976391,
+      "lon": 139.753616
+    },
+    {
+      "name": "Kasugai",
+      "name_en": "Kasugai",
+      "pref": "不明",
+      "lat": 35.24762,
+      "lon": 136.97229
+    },
+    {
+      "name": "Kasugabaru",
+      "name_en": "Kasugabaru",
+      "pref": "不明",
+      "lat": 33.533329,
+      "lon": 130.466675
+    },
+    {
+      "name": "Kasuga",
+      "name_en": "Kasuga",
+      "pref": "不明",
+      "lat": 33.033329,
+      "lon": 130.050003
+    },
+    {
+      "name": "Kashiwazaki",
+      "name_en": "Kashiwazaki",
+      "pref": "不明",
+      "lat": 37.366669,
+      "lon": 138.550003
+    },
+    {
+      "name": "Kashiwara",
+      "name_en": "Kashiwara",
+      "pref": "不明",
+      "lat": 34.450001,
+      "lon": 135.766663
+    },
+    {
+      "name": "Kashiwano",
+      "name_en": "Kashiwano",
+      "pref": "不明",
+      "lat": 34.316669,
+      "lon": 136.399994
+    },
+    {
+      "name": "Kashiwa",
+      "name_en": "Kashiwa",
+      "pref": "不明",
+      "lat": 35.854439,
+      "lon": 139.968887
+    },
+    {
+      "name": "Kashima",
+      "name_en": "Kashima",
+      "pref": "不明",
+      "lat": 33.10611,
+      "lon": 130.090561
+    },
+    {
+      "name": "Kashihara-shi",
+      "name_en": "Kashihara-shi",
+      "pref": "不明",
+      "lat": 34.508961,
+      "lon": 135.792892
+    },
+    {
+      "name": "Kashihara",
+      "name_en": "Kashihara",
+      "pref": "不明",
+      "lat": 34.583328,
+      "lon": 135.616669
+    },
+    {
+      "name": "Kaseda-shirakame",
+      "name_en": "Kaseda-shirakame",
+      "pref": "不明",
+      "lat": 31.41667,
+      "lon": 130.316666
+    },
+    {
+      "name": "Kasaoka",
+      "name_en": "Kasaoka",
+      "pref": "不明",
+      "lat": 34.5,
+      "lon": 133.5
+    },
+    {
+      "name": "Kasamatsuchō",
+      "name_en": "Kasamatsuchō",
+      "pref": "不明",
+      "lat": 35.366669,
+      "lon": 136.766663
+    },
+    {
+      "name": "Karochō",
+      "name_en": "Karochō",
+      "pref": "不明",
+      "lat": 35.533329,
+      "lon": 134.183334
+    },
+    {
+      "name": "Kariya",
+      "name_en": "Kariya",
+      "pref": "不明",
+      "lat": 34.98333,
+      "lon": 136.983337
+    },
+    {
+      "name": "Kariwa",
+      "name_en": "Kariwa",
+      "pref": "不明",
+      "lat": 37.429749,
+      "lon": 138.61879
+    },
+    {
+      "name": "Karatsu",
+      "name_en": "Karatsu",
+      "pref": "不明",
+      "lat": 33.442501,
+      "lon": 129.969727
+    },
+    {
+      "name": "Kanzakimachi-kanzaki",
+      "name_en": "Kanzakimachi-kanzaki",
+      "pref": "不明",
+      "lat": 33.299999,
+      "lon": 130.366669
+    },
+    {
+      "name": "Kanuma",
+      "name_en": "Kanuma",
+      "pref": "不明",
+      "lat": 36.549999,
+      "lon": 139.733337
+    },
+    {
+      "name": "Kanoya",
+      "name_en": "Kanoya",
+      "pref": "不明",
+      "lat": 31.383329,
+      "lon": 130.850006
+    },
+    {
+      "name": "Kan’onjichō",
+      "name_en": "Kan’onjichō",
+      "pref": "不明",
+      "lat": 34.116669,
+      "lon": 133.649994
+    },
+    {
+      "name": "Kannabechō-yahiro",
+      "name_en": "Kannabechō-yahiro",
+      "pref": "不明",
+      "lat": 34.533329,
+      "lon": 133.383331
+    },
+    {
+      "name": "Kanie",
+      "name_en": "Kanie",
+      "pref": "不明",
+      "lat": 35.133331,
+      "lon": 136.800003
+    },
+    {
+      "name": "Kanekomachi",
+      "name_en": "Kanekomachi",
+      "pref": "不明",
+      "lat": 36.400002,
+      "lon": 139.0
+    },
+    {
+      "name": "Kanda",
+      "name_en": "Kanda",
+      "pref": "不明",
+      "lat": 33.783329,
+      "lon": 130.983337
+    },
+    {
+      "name": "Kanazu",
+      "name_en": "Kanazu",
+      "pref": "不明",
+      "lat": 36.213261,
+      "lon": 136.230804
+    },
+    {
+      "name": "Kanazawa",
+      "name_en": "Kanazawa",
+      "pref": "不明",
+      "lat": 36.59444,
+      "lon": 136.625565
+    },
+    {
+      "name": "Kanazawachō",
+      "name_en": "Kanazawachō",
+      "pref": "不明",
+      "lat": 35.349998,
+      "lon": 139.633331
+    },
+    {
+      "name": "Kanayama",
+      "name_en": "Kanayama",
+      "pref": "不明",
+      "lat": 33.683331,
+      "lon": 135.350006
+    },
+    {
+      "name": "Kanaya",
+      "name_en": "Kanaya",
+      "pref": "不明",
+      "lat": 34.816669,
+      "lon": 138.133331
+    },
+    {
+      "name": "Kanagawa",
+      "name_en": "Kanagawa",
+      "pref": "不明",
+      "lat": 35.417461,
+      "lon": 139.338852
+    },
+    {
+      "name": "Mitsu-kanagawa",
+      "name_en": "Mitsu-kanagawa",
+      "pref": "不明",
+      "lat": 34.799999,
+      "lon": 133.933334
+    },
+    {
+      "name": "Kamonomiya",
+      "name_en": "Kamonomiya",
+      "pref": "不明",
+      "lat": 35.283329,
+      "lon": 139.183334
+    },
+    {
+      "name": "Kamojimachō-jōgejima",
+      "name_en": "Kamojimachō-jōgejima",
+      "pref": "不明",
+      "lat": 34.066669,
+      "lon": 134.350006
+    },
+    {
+      "name": "Kamogatachō-kamogata",
+      "name_en": "Kamogatachō-kamogata",
+      "pref": "不明",
+      "lat": 34.533329,
+      "lon": 133.583328
+    },
+    {
+      "name": "Kamo",
+      "name_en": "Kamo",
+      "pref": "不明",
+      "lat": 37.650002,
+      "lon": 139.050003
+    },
+    {
+      "name": "Hirosechō-kamiyamasa",
+      "name_en": "Hirosechō-kamiyamasa",
+      "pref": "不明",
+      "lat": 35.316669,
+      "lon": 133.116669
+    },
+    {
+      "name": "Kamirenjaku",
+      "name_en": "Kamirenjaku",
+      "pref": "不明",
+      "lat": 35.683331,
+      "lon": 139.550003
+    },
+    {
+      "name": "Kaminokawa",
+      "name_en": "Kaminokawa",
+      "pref": "不明",
+      "lat": 36.433331,
+      "lon": 139.916672
+    },
+    {
+      "name": "Kami-nagarekawachō",
+      "name_en": "Kami-nagarekawachō",
+      "pref": "不明",
+      "lat": 34.400002,
+      "lon": 132.449997
+    },
+    {
+      "name": "Kamikōjaku",
+      "name_en": "Kamikōjaku",
+      "pref": "不明",
+      "lat": 33.828579,
+      "lon": 130.760193
+    },
+    {
+      "name": "Kamiichi",
+      "name_en": "Kamiichi",
+      "pref": "不明",
+      "lat": 36.700001,
+      "lon": 137.366669
+    },
+    {
+      "name": "Kamigōri",
+      "name_en": "Kamigōri",
+      "pref": "不明",
+      "lat": 34.866669,
+      "lon": 134.366669
+    },
+    {
+      "name": "Kameyama",
+      "name_en": "Kameyama",
+      "pref": "不明",
+      "lat": 34.849998,
+      "lon": 136.449997
+    },
+    {
+      "name": "Kameoka",
+      "name_en": "Kameoka",
+      "pref": "不明",
+      "lat": 35.0,
+      "lon": 135.583328
+    },
+    {
+      "name": "Kameda-honchō",
+      "name_en": "Kameda-honchō",
+      "pref": "不明",
+      "lat": 37.866669,
+      "lon": 139.116669
+    },
+    {
+      "name": "Kameari",
+      "name_en": "Kameari",
+      "pref": "不明",
+      "lat": 35.75,
+      "lon": 139.850006
+    },
+    {
+      "name": "Kamakura",
+      "name_en": "Kamakura",
+      "pref": "不明",
+      "lat": 35.308891,
+      "lon": 139.550278
+    },
+    {
+      "name": "Kakogawachō-honmachi",
+      "name_en": "Kakogawachō-honmachi",
+      "pref": "不明",
+      "lat": 34.76667,
+      "lon": 134.850006
+    },
+    {
+      "name": "Kakegawa",
+      "name_en": "Kakegawa",
+      "pref": "不明",
+      "lat": 34.76667,
+      "lon": 138.016663
+    },
+    {
+      "name": "Kakamigahara",
+      "name_en": "Kakamigahara",
+      "pref": "不明",
+      "lat": 35.416672,
+      "lon": 136.866669
+    },
+    {
+      "name": "Kashima-shi",
+      "name_en": "Kashima-shi",
+      "pref": "不明",
+      "lat": 35.965359,
+      "lon": 140.644745
+    },
+    {
+      "name": "Kajiki",
+      "name_en": "Kajiki",
+      "pref": "不明",
+      "lat": 31.73333,
+      "lon": 130.666672
+    },
+    {
+      "name": "Kaizuka",
+      "name_en": "Kaizuka",
+      "pref": "不明",
+      "lat": 34.450001,
+      "lon": 135.350006
+    },
+    {
+      "name": "Kainan",
+      "name_en": "Kainan",
+      "pref": "不明",
+      "lat": 34.150002,
+      "lon": 135.199997
+    },
+    {
+      "name": "Kaigandōri",
+      "name_en": "Kaigandōri",
+      "pref": "不明",
+      "lat": 34.666672,
+      "lon": 133.916672
+    },
+    {
+      "name": "Kagoshima-ken",
+      "name_en": "Kagoshima-ken",
+      "pref": "不明",
+      "lat": 31.032249,
+      "lon": 130.432922
+    },
+    {
+      "name": "Kagoshima",
+      "name_en": "Kagoshima",
+      "pref": "不明",
+      "lat": 31.560181,
+      "lon": 130.558136
+    },
+    {
+      "name": "Kagawa-ken",
+      "name_en": "Kagawa-ken",
+      "pref": "不明",
+      "lat": 34.247169,
+      "lon": 133.994705
+    },
+    {
+      "name": "Kagasuno",
+      "name_en": "Kagasuno",
+      "pref": "不明",
+      "lat": 34.116669,
+      "lon": 134.583328
+    },
+    {
+      "name": "Kagamizu",
+      "name_en": "Kagamizu",
+      "pref": "不明",
+      "lat": 26.200001,
+      "lon": 127.650002
+    },
+    {
+      "name": "Kadoma",
+      "name_en": "Kadoma",
+      "pref": "不明",
+      "lat": 34.73333,
+      "lon": 135.583328
+    },
+    {
+      "name": "Kadogawa",
+      "name_en": "Kadogawa",
+      "pref": "不明",
+      "lat": 32.466671,
+      "lon": 131.649994
+    },
+    {
+      "name": "Kado",
+      "name_en": "Kado",
+      "pref": "不明",
+      "lat": 34.783329,
+      "lon": 133.850006
+    },
+    {
+      "name": "Kachikawa",
+      "name_en": "Kachikawa",
+      "pref": "不明",
+      "lat": 35.23333,
+      "lon": 136.949997
+    },
+    {
+      "name": "Jūrokuban",
+      "name_en": "Jūrokuban",
+      "pref": "不明",
+      "lat": 30.6,
+      "lon": 130.983337
+    },
+    {
+      "name": "Jizōdō",
+      "name_en": "Jizōdō",
+      "pref": "不明",
+      "lat": 37.616669,
+      "lon": 138.850006
+    },
+    {
+      "name": "Terauchi",
+      "name_en": "Terauchi",
+      "pref": "不明",
+      "lat": 34.783329,
+      "lon": 135.533325
+    },
+    {
+      "name": "Jigozen",
+      "name_en": "Jigozen",
+      "pref": "不明",
+      "lat": 34.333328,
+      "lon": 132.316666
+    },
+    {
+      "name": "Japan",
+      "name_en": "Japan",
+      "pref": "不明",
+      "lat": 35.68536,
+      "lon": 139.753098
+    },
+    {
+      "name": "Izumo",
+      "name_en": "Izumo",
+      "pref": "不明",
+      "lat": 35.366669,
+      "lon": 132.766663
+    },
+    {
+      "name": "Izumiōtsu",
+      "name_en": "Izumiōtsu",
+      "pref": "不明",
+      "lat": 34.5,
+      "lon": 135.399994
+    },
+    {
+      "name": "Izumi",
+      "name_en": "Izumi",
+      "pref": "不明",
+      "lat": 34.48333,
+      "lon": 135.433334
+    },
+    {
+      "name": "Izumi",
+      "name_en": "Izumi",
+      "pref": "不明",
+      "lat": 32.083328,
+      "lon": 130.366669
+    },
+    {
+      "name": "Izuhara",
+      "name_en": "Izuhara",
+      "pref": "不明",
+      "lat": 34.201389,
+      "lon": 129.287216
+    },
+    {
+      "name": "Izena",
+      "name_en": "Izena",
+      "pref": "不明",
+      "lat": 26.916269,
+      "lon": 127.933563
+    },
+    {
+      "name": "Iwatsuki",
+      "name_en": "Iwatsuki",
+      "pref": "不明",
+      "lat": 35.94278,
+      "lon": 139.69194
+    },
+    {
+      "name": "Iwata",
+      "name_en": "Iwata",
+      "pref": "不明",
+      "lat": 34.700001,
+      "lon": 137.850006
+    },
+    {
+      "name": "Iwanogawa",
+      "name_en": "Iwanogawa",
+      "pref": "不明",
+      "lat": 34.049999,
+      "lon": 135.333328
+    },
+    {
+      "name": "Mitsuchō-iwami",
+      "name_en": "Mitsuchō-iwami",
+      "pref": "不明",
+      "lat": 34.783329,
+      "lon": 134.533325
+    },
+    {
+      "name": "Iwakura",
+      "name_en": "Iwakura",
+      "pref": "不明",
+      "lat": 35.283329,
+      "lon": 136.866669
+    },
+    {
+      "name": "Iwakuni",
+      "name_en": "Iwakuni",
+      "pref": "不明",
+      "lat": 34.150002,
+      "lon": 132.183334
+    },
+    {
+      "name": "Iwai",
+      "name_en": "Iwai",
+      "pref": "不明",
+      "lat": 36.049999,
+      "lon": 139.899994
+    },
+    {
+      "name": "Iwade",
+      "name_en": "Iwade",
+      "pref": "不明",
+      "lat": 34.25,
+      "lon": 135.316666
+    },
+    {
+      "name": "Itsukaichi",
+      "name_en": "Itsukaichi",
+      "pref": "不明",
+      "lat": 35.725281,
+      "lon": 139.217773
+    },
+    {
+      "name": "Itoman",
+      "name_en": "Itoman",
+      "pref": "不明",
+      "lat": 26.12472,
+      "lon": 127.669441
+    },
+    {
+      "name": "Itoigawa",
+      "name_en": "Itoigawa",
+      "pref": "不明",
+      "lat": 37.033329,
+      "lon": 137.850006
+    },
+    {
+      "name": "Itō",
+      "name_en": "Itō",
+      "pref": "不明",
+      "lat": 34.966671,
+      "lon": 139.083328
+    },
+    {
+      "name": "Itazuke",
+      "name_en": "Itazuke",
+      "pref": "不明",
+      "lat": 33.566669,
+      "lon": 130.449997
+    },
+    {
+      "name": "Ikedachō-itano",
+      "name_en": "Ikedachō-itano",
+      "pref": "不明",
+      "lat": 34.01667,
+      "lon": 133.783325
+    },
+    {
+      "name": "Itami",
+      "name_en": "Itami",
+      "pref": "不明",
+      "lat": 34.784271,
+      "lon": 135.40126
+    },
+    {
+      "name": "Itakura",
+      "name_en": "Itakura",
+      "pref": "不明",
+      "lat": 34.666672,
+      "lon": 133.833328
+    },
+    {
+      "name": "Isoshi",
+      "name_en": "Isoshi",
+      "pref": "不明",
+      "lat": 34.79689,
+      "lon": 135.355606
+    },
+    {
+      "name": "Ishiki",
+      "name_en": "Ishiki",
+      "pref": "不明",
+      "lat": 34.799999,
+      "lon": 137.016663
+    },
+    {
+      "name": "Ishikawa-ken",
+      "name_en": "Ishikawa-ken",
+      "pref": "不明",
+      "lat": 36.77145,
+      "lon": 136.770493
+    },
+    {
+      "name": "Ishikawa",
+      "name_en": "Ishikawa",
+      "pref": "不明",
+      "lat": 26.42333,
+      "lon": 127.821388
+    },
+    {
+      "name": "Ishii",
+      "name_en": "Ishii",
+      "pref": "不明",
+      "lat": 34.066669,
+      "lon": 134.433334
+    },
+    {
+      "name": "Ishige",
+      "name_en": "Ishige",
+      "pref": "不明",
+      "lat": 36.116669,
+      "lon": 139.966675
+    },
+    {
+      "name": "Ishigaki",
+      "name_en": "Ishigaki",
+      "pref": "不明",
+      "lat": 24.34478,
+      "lon": 124.157173
+    },
+    {
+      "name": "Isesaki",
+      "name_en": "Isesaki",
+      "pref": "不明",
+      "lat": 36.316669,
+      "lon": 139.199997
+    },
+    {
+      "name": "Isehara",
+      "name_en": "Isehara",
+      "pref": "不明",
+      "lat": 35.39056,
+      "lon": 139.307785
+    },
+    {
+      "name": "Ise",
+      "name_en": "Ise",
+      "pref": "不明",
+      "lat": 34.48333,
+      "lon": 136.699997
+    },
+    {
+      "name": "Isawa",
+      "name_en": "Isawa",
+      "pref": "不明",
+      "lat": 35.650002,
+      "lon": 138.633331
+    },
+    {
+      "name": "Isahaya",
+      "name_en": "Isahaya",
+      "pref": "不明",
+      "lat": 32.84111,
+      "lon": 130.04306
+    },
+    {
+      "name": "Inuyama",
+      "name_en": "Inuyama",
+      "pref": "不明",
+      "lat": 35.379951,
+      "lon": 136.942947
+    },
+    {
+      "name": "Ino",
+      "name_en": "Ino",
+      "pref": "不明",
+      "lat": 33.549999,
+      "lon": 133.433334
+    },
+    {
+      "name": "Innoshima",
+      "name_en": "Innoshima",
+      "pref": "不明",
+      "lat": 34.283329,
+      "lon": 133.183334
+    },
+    {
+      "name": "Ishidachō-indōjiura",
+      "name_en": "Ishidachō-indōjiura",
+      "pref": "不明",
+      "lat": 33.73333,
+      "lon": 129.75
+    },
+    {
+      "name": "Inazawa",
+      "name_en": "Inazawa",
+      "pref": "不明",
+      "lat": 35.25,
+      "lon": 136.783325
+    },
+    {
+      "name": "Ina",
+      "name_en": "Ina",
+      "pref": "不明",
+      "lat": 35.82756,
+      "lon": 137.953781
+    },
+    {
+      "name": "Ina",
+      "name_en": "Ina",
+      "pref": "不明",
+      "lat": 35.716671,
+      "lon": 139.25
+    },
+    {
+      "name": "Imazu",
+      "name_en": "Imazu",
+      "pref": "不明",
+      "lat": 36.166672,
+      "lon": 133.316666
+    },
+    {
+      "name": "Imarichō-kō",
+      "name_en": "Imarichō-kō",
+      "pref": "不明",
+      "lat": 33.26667,
+      "lon": 129.883331
+    },
+    {
+      "name": "Imaichi",
+      "name_en": "Imaichi",
+      "pref": "不明",
+      "lat": 36.716671,
+      "lon": 139.683334
+    },
+    {
+      "name": "Ikoma",
+      "name_en": "Ikoma",
+      "pref": "不明",
+      "lat": 34.683331,
+      "lon": 135.699997
+    },
+    {
+      "name": "Ikeda",
+      "name_en": "Ikeda",
+      "pref": "不明",
+      "lat": 36.416672,
+      "lon": 137.883331
+    },
+    {
+      "name": "Ikeda",
+      "name_en": "Ikeda",
+      "pref": "不明",
+      "lat": 34.822079,
+      "lon": 135.429794
+    },
+    {
+      "name": "Ikeda",
+      "name_en": "Ikeda",
+      "pref": "不明",
+      "lat": 34.73333,
+      "lon": 137.816666
+    },
+    {
+      "name": "Ikedachō",
+      "name_en": "Ikedachō",
+      "pref": "不明",
+      "lat": 34.01667,
+      "lon": 133.800003
+    },
+    {
+      "name": "Ikaruga",
+      "name_en": "Ikaruga",
+      "pref": "不明",
+      "lat": 34.833328,
+      "lon": 134.583328
+    },
+    {
+      "name": "Ijūin",
+      "name_en": "Ijūin",
+      "pref": "不明",
+      "lat": 31.616671,
+      "lon": 130.399994
+    },
+    {
+      "name": "Iizuka",
+      "name_en": "Iizuka",
+      "pref": "不明",
+      "lat": 33.633331,
+      "lon": 130.683334
+    },
+    {
+      "name": "Iiyama",
+      "name_en": "Iiyama",
+      "pref": "不明",
+      "lat": 36.849998,
+      "lon": 138.366669
+    },
+    {
+      "name": "Iijima",
+      "name_en": "Iijima",
+      "pref": "不明",
+      "lat": 35.299999,
+      "lon": 137.883331
+    },
+    {
+      "name": "Iida",
+      "name_en": "Iida",
+      "pref": "不明",
+      "lat": 35.51965,
+      "lon": 137.82074
+    },
+    {
+      "name": "Iga-shi",
+      "name_en": "Iga-shi",
+      "pref": "不明",
+      "lat": 34.768551,
+      "lon": 136.130127
+    },
+    {
+      "name": "Ifukugata",
+      "name_en": "Ifukugata",
+      "pref": "不明",
+      "lat": 32.51667,
+      "lon": 131.666672
+    },
+    {
+      "name": "Ichinomiya",
+      "name_en": "Ichinomiya",
+      "pref": "不明",
+      "lat": 35.299999,
+      "lon": 136.800003
+    },
+    {
+      "name": "Ichinomiyachō",
+      "name_en": "Ichinomiyachō",
+      "pref": "不明",
+      "lat": 34.033329,
+      "lon": 134.466675
+    },
+    {
+      "name": "Ichikawa",
+      "name_en": "Ichikawa",
+      "pref": "不明",
+      "lat": 35.719719,
+      "lon": 139.924713
+    },
+    {
+      "name": "Ibusuki",
+      "name_en": "Ibusuki",
+      "pref": "不明",
+      "lat": 31.23333,
+      "lon": 130.649994
+    },
+    {
+      "name": "Ibaraki",
+      "name_en": "Ibaraki",
+      "pref": "不明",
+      "lat": 34.81641,
+      "lon": 135.568283
+    },
+    {
+      "name": "Ibara",
+      "name_en": "Ibara",
+      "pref": "不明",
+      "lat": 34.599998,
+      "lon": 133.466675
+    },
+    {
+      "name": "Hyōgo",
+      "name_en": "Hyōgo",
+      "pref": "不明",
+      "lat": 35.040321,
+      "lon": 134.825974
+    },
+    {
+      "name": "Hotaka",
+      "name_en": "Hotaka",
+      "pref": "不明",
+      "lat": 36.3396,
+      "lon": 137.882538
+    },
+    {
+      "name": "Hōryūji",
+      "name_en": "Hōryūji",
+      "pref": "不明",
+      "lat": 34.616669,
+      "lon": 135.733337
+    },
+    {
+      "name": "Horinouchi",
+      "name_en": "Horinouchi",
+      "pref": "不明",
+      "lat": 35.683331,
+      "lon": 139.649994
+    },
+    {
+      "name": "Honjōchō",
+      "name_en": "Honjōchō",
+      "pref": "不明",
+      "lat": 35.416672,
+      "lon": 136.75
+    },
+    {
+      "name": "Honjō",
+      "name_en": "Honjō",
+      "pref": "不明",
+      "lat": 36.23333,
+      "lon": 139.183334
+    },
+    {
+      "name": "Hondomachi-hondo",
+      "name_en": "Hondomachi-hondo",
+      "pref": "不明",
+      "lat": 32.450001,
+      "lon": 130.199997
+    },
+    {
+      "name": "Hōjō",
+      "name_en": "Hōjō",
+      "pref": "不明",
+      "lat": 34.98333,
+      "lon": 139.866669
+    },
+    {
+      "name": "Hōjōchō-hōjō",
+      "name_en": "Hōjōchō-hōjō",
+      "pref": "不明",
+      "lat": 34.933331,
+      "lon": 134.833328
+    },
+    {
+      "name": "Hōfu",
+      "name_en": "Hōfu",
+      "pref": "不明",
+      "lat": 34.049999,
+      "lon": 131.566666
+    },
+    {
+      "name": "Hitoyoshi",
+      "name_en": "Hitoyoshi",
+      "pref": "不明",
+      "lat": 32.216671,
+      "lon": 130.75
+    },
+    {
+      "name": "Okuhida-onsengō-hitoegane",
+      "name_en": "Okuhida-onsengō-hitoegane",
+      "pref": "不明",
+      "lat": 36.23333,
+      "lon": 137.533325
+    },
+    {
+      "name": "Hita",
+      "name_en": "Hita",
+      "pref": "不明",
+      "lat": 33.316669,
+      "lon": 130.933334
+    },
+    {
+      "name": "Hisai-motomachi",
+      "name_en": "Hisai-motomachi",
+      "pref": "不明",
+      "lat": 34.666672,
+      "lon": 136.466675
+    },
+    {
+      "name": "Hiroshima-ken",
+      "name_en": "Hiroshima-ken",
+      "pref": "不明",
+      "lat": 34.606731,
+      "lon": 132.785431
+    },
+    {
+      "name": "Hiroshima",
+      "name_en": "Hiroshima",
+      "pref": "不明",
+      "lat": 34.396271,
+      "lon": 132.459366
+    },
+    {
+      "name": "Hirokawa",
+      "name_en": "Hirokawa",
+      "pref": "不明",
+      "lat": 33.116669,
+      "lon": 130.966675
+    },
+    {
+      "name": "Hiratsuka",
+      "name_en": "Hiratsuka",
+      "pref": "不明",
+      "lat": 35.323059,
+      "lon": 139.342224
+    },
+    {
+      "name": "Hiratachō",
+      "name_en": "Hiratachō",
+      "pref": "不明",
+      "lat": 35.433331,
+      "lon": 132.816666
+    },
+    {
+      "name": "Hirara",
+      "name_en": "Hirara",
+      "pref": "不明",
+      "lat": 24.799999,
+      "lon": 125.283333
+    },
+    {
+      "name": "Hirao",
+      "name_en": "Hirao",
+      "pref": "不明",
+      "lat": 33.938332,
+      "lon": 132.071671
+    },
+    {
+      "name": "Hirakata",
+      "name_en": "Hirakata",
+      "pref": "不明",
+      "lat": 35.933331,
+      "lon": 139.550003
+    },
+    {
+      "name": "Hirakata",
+      "name_en": "Hirakata",
+      "pref": "不明",
+      "lat": 34.813519,
+      "lon": 135.649139
+    },
+    {
+      "name": "Hiradogoyamachi",
+      "name_en": "Hiradogoyamachi",
+      "pref": "不明",
+      "lat": 32.75,
+      "lon": 129.866669
+    },
+    {
+      "name": "Hirado",
+      "name_en": "Hirado",
+      "pref": "不明",
+      "lat": 33.359718,
+      "lon": 129.553055
+    },
+    {
+      "name": "Hioki",
+      "name_en": "Hioki",
+      "pref": "不明",
+      "lat": 31.58333,
+      "lon": 130.350006
+    },
+    {
+      "name": "Hinokage",
+      "name_en": "Hinokage",
+      "pref": "不明",
+      "lat": 32.650002,
+      "lon": 131.399994
+    },
+    {
+      "name": "Hino",
+      "name_en": "Hino",
+      "pref": "不明",
+      "lat": 35.673061,
+      "lon": 139.400284
+    },
+    {
+      "name": "Hino",
+      "name_en": "Hino",
+      "pref": "不明",
+      "lat": 35.0,
+      "lon": 136.25
+    },
+    {
+      "name": "Himimachi",
+      "name_en": "Himimachi",
+      "pref": "不明",
+      "lat": 36.849998,
+      "lon": 136.983337
+    },
+    {
+      "name": "Himeji",
+      "name_en": "Himeji",
+      "pref": "不明",
+      "lat": 34.816669,
+      "lon": 134.699997
+    },
+    {
+      "name": "Hikosan",
+      "name_en": "Hikosan",
+      "pref": "不明",
+      "lat": 33.48333,
+      "lon": 130.899994
+    },
+    {
+      "name": "Hikone",
+      "name_en": "Hikone",
+      "pref": "不明",
+      "lat": 35.25,
+      "lon": 136.25
+    },
+    {
+      "name": "Hiji",
+      "name_en": "Hiji",
+      "pref": "不明",
+      "lat": 33.366669,
+      "lon": 131.533325
+    },
+    {
+      "name": "Suminoe-higashi",
+      "name_en": "Suminoe-higashi",
+      "pref": "不明",
+      "lat": 33.200001,
+      "lon": 130.199997
+    },
+    {
+      "name": "Higashishinagawa",
+      "name_en": "Higashishinagawa",
+      "pref": "不明",
+      "lat": 35.599998,
+      "lon": 139.733337
+    },
+    {
+      "name": "Higashi-ōsaka",
+      "name_en": "Higashi-ōsaka",
+      "pref": "不明",
+      "lat": 34.666672,
+      "lon": 135.583328
+    },
+    {
+      "name": "Higashimachi",
+      "name_en": "Higashimachi",
+      "pref": "不明",
+      "lat": 34.400002,
+      "lon": 133.083328
+    },
+    {
+      "name": "Higashiboridōri",
+      "name_en": "Higashiboridōri",
+      "pref": "不明",
+      "lat": 37.916672,
+      "lon": 139.050003
+    },
+    {
+      "name": "Higashiasahimachi",
+      "name_en": "Higashiasahimachi",
+      "pref": "不明",
+      "lat": 35.466671,
+      "lon": 133.066666
+    },
+    {
+      "name": "Higashi",
+      "name_en": "Higashi",
+      "pref": "不明",
+      "lat": 26.576389,
+      "lon": 127.22139
+    },
+    {
+      "name": "Hekinan",
+      "name_en": "Hekinan",
+      "pref": "不明",
+      "lat": 34.883331,
+      "lon": 136.983337
+    },
+    {
+      "name": "Heda",
+      "name_en": "Heda",
+      "pref": "不明",
+      "lat": 34.966671,
+      "lon": 138.766663
+    },
+    {
+      "name": "Hayashima",
+      "name_en": "Hayashima",
+      "pref": "不明",
+      "lat": 34.599998,
+      "lon": 133.833328
+    },
+    {
+      "name": "Hayashi",
+      "name_en": "Hayashi",
+      "pref": "不明",
+      "lat": 35.216671,
+      "lon": 139.633331
+    },
+    {
+      "name": "Hayama",
+      "name_en": "Hayama",
+      "pref": "不明",
+      "lat": 35.26667,
+      "lon": 139.583328
+    },
+    {
+      "name": "Hayakawa",
+      "name_en": "Hayakawa",
+      "pref": "不明",
+      "lat": 35.450001,
+      "lon": 138.350006
+    },
+    {
+      "name": "Hatsukaichi",
+      "name_en": "Hatsukaichi",
+      "pref": "不明",
+      "lat": 34.349998,
+      "lon": 132.333328
+    },
+    {
+      "name": "Hatogaya-honchō",
+      "name_en": "Hatogaya-honchō",
+      "pref": "不明",
+      "lat": 35.834171,
+      "lon": 139.736389
+    },
+    {
+      "name": "Hatabuchō",
+      "name_en": "Hatabuchō",
+      "pref": "不明",
+      "lat": 33.98333,
+      "lon": 130.933334
+    },
+    {
+      "name": "Hashio",
+      "name_en": "Hashio",
+      "pref": "不明",
+      "lat": 34.566669,
+      "lon": 135.75
+    },
+    {
+      "name": "Hashimoto",
+      "name_en": "Hashimoto",
+      "pref": "不明",
+      "lat": 34.316669,
+      "lon": 135.616669
+    },
+    {
+      "name": "Harisakichō",
+      "name_en": "Harisakichō",
+      "pref": "不明",
+      "lat": 34.916672,
+      "lon": 137.149994
+    },
+    {
+      "name": "Harigaya",
+      "name_en": "Harigaya",
+      "pref": "不明",
+      "lat": 35.866669,
+      "lon": 139.633331
+    },
+    {
+      "name": "Hara",
+      "name_en": "Hara",
+      "pref": "不明",
+      "lat": 35.966671,
+      "lon": 138.550003
+    },
+    {
+      "name": "Hanyū",
+      "name_en": "Hanyū",
+      "pref": "不明",
+      "lat": 36.166672,
+      "lon": 139.533325
+    },
+    {
+      "name": "Hannō",
+      "name_en": "Hannō",
+      "pref": "不明",
+      "lat": 35.85194,
+      "lon": 139.318054
+    },
+    {
+      "name": "Handa",
+      "name_en": "Handa",
+      "pref": "不明",
+      "lat": 34.883331,
+      "lon": 136.933334
+    },
+    {
+      "name": "Hanazawa",
+      "name_en": "Hanazawa",
+      "pref": "不明",
+      "lat": 34.900002,
+      "lon": 138.333328
+    },
+    {
+      "name": "Hanawadamachi",
+      "name_en": "Hanawadamachi",
+      "pref": "不明",
+      "lat": 36.549999,
+      "lon": 139.883331
+    },
+    {
+      "name": "Hanabatachō",
+      "name_en": "Hanabatachō",
+      "pref": "不明",
+      "lat": 32.799999,
+      "lon": 130.699997
+    },
+    {
+      "name": "Hamanose",
+      "name_en": "Hamanose",
+      "pref": "不明",
+      "lat": 33.883331,
+      "lon": 135.149994
+    },
+    {
+      "name": "Hamanoichi",
+      "name_en": "Hamanoichi",
+      "pref": "不明",
+      "lat": 31.716669,
+      "lon": 130.733337
+    },
+    {
+      "name": "Hamanaka",
+      "name_en": "Hamanaka",
+      "pref": "不明",
+      "lat": 38.816669,
+      "lon": 139.783325
+    },
+    {
+      "name": "Hamamatsu",
+      "name_en": "Hamamatsu",
+      "pref": "不明",
+      "lat": 34.700001,
+      "lon": 137.733337
+    },
+    {
+      "name": "Hamakita",
+      "name_en": "Hamakita",
+      "pref": "不明",
+      "lat": 34.799999,
+      "lon": 137.783325
+    },
+    {
+      "name": "Hamada",
+      "name_en": "Hamada",
+      "pref": "不明",
+      "lat": 34.883331,
+      "lon": 132.083328
+    },
+    {
+      "name": "Hakui",
+      "name_en": "Hakui",
+      "pref": "不明",
+      "lat": 36.883331,
+      "lon": 136.783325
+    },
+    {
+      "name": "Hakonegasaki",
+      "name_en": "Hakonegasaki",
+      "pref": "不明",
+      "lat": 35.76944,
+      "lon": 139.351105
+    },
+    {
+      "name": "Hakone",
+      "name_en": "Hakone",
+      "pref": "不明",
+      "lat": 35.183331,
+      "lon": 139.033325
+    },
+    {
+      "name": "Hainuzuka",
+      "name_en": "Hainuzuka",
+      "pref": "不明",
+      "lat": 33.200001,
+      "lon": 130.5
+    },
+    {
+      "name": "Haibara-akanedai",
+      "name_en": "Haibara-akanedai",
+      "pref": "不明",
+      "lat": 34.533329,
+      "lon": 135.949997
+    },
+    {
+      "name": "Hagiwara",
+      "name_en": "Hagiwara",
+      "pref": "不明",
+      "lat": 36.666672,
+      "lon": 137.199997
+    },
+    {
+      "name": "Hagi",
+      "name_en": "Hagi",
+      "pref": "不明",
+      "lat": 34.400002,
+      "lon": 131.416672
+    },
+    {
+      "name": "Katsuren-haebaru",
+      "name_en": "Katsuren-haebaru",
+      "pref": "不明",
+      "lat": 26.336941,
+      "lon": 127.871941
+    },
+    {
+      "name": "Hadano",
+      "name_en": "Hadano",
+      "pref": "不明",
+      "lat": 35.371109,
+      "lon": 139.223618
+    },
+    {
+      "name": "Hachiōji",
+      "name_en": "Hachiōji",
+      "pref": "不明",
+      "lat": 35.65583,
+      "lon": 139.323883
+    },
+    {
+      "name": "Ōmihachiman",
+      "name_en": "Ōmihachiman",
+      "pref": "不明",
+      "lat": 35.128609,
+      "lon": 136.097595
+    },
+    {
+      "name": "Habu",
+      "name_en": "Habu",
+      "pref": "不明",
+      "lat": 33.816669,
+      "lon": 130.699997
+    },
+    {
+      "name": "Gyōda",
+      "name_en": "Gyōda",
+      "pref": "不明",
+      "lat": 36.133331,
+      "lon": 139.449997
+    },
+    {
+      "name": "Gushikawa",
+      "name_en": "Gushikawa",
+      "pref": "不明",
+      "lat": 26.354441,
+      "lon": 127.868607
+    },
+    {
+      "name": "Gunma-ken",
+      "name_en": "Gunma-ken",
+      "pref": "不明",
+      "lat": 36.507469,
+      "lon": 138.982346
+    },
+    {
+      "name": "Goyuchō",
+      "name_en": "Goyuchō",
+      "pref": "不明",
+      "lat": 34.833328,
+      "lon": 137.316666
+    },
+    {
+      "name": "Gōtsuchō",
+      "name_en": "Gōtsuchō",
+      "pref": "不明",
+      "lat": 35.0,
+      "lon": 132.216675
+    },
+    {
+      "name": "Gotenba",
+      "name_en": "Gotenba",
+      "pref": "不明",
+      "lat": 35.299999,
+      "lon": 138.933334
+    },
+    {
+      "name": "Gosen",
+      "name_en": "Gosen",
+      "pref": "不明",
+      "lat": 37.73333,
+      "lon": 139.166672
+    },
+    {
+      "name": "Gose",
+      "name_en": "Gose",
+      "pref": "不明",
+      "lat": 34.450001,
+      "lon": 135.733337
+    },
+    {
+      "name": "Gojō",
+      "name_en": "Gojō",
+      "pref": "不明",
+      "lat": 34.349998,
+      "lon": 135.699997
+    },
+    {
+      "name": "Gōdo",
+      "name_en": "Gōdo",
+      "pref": "不明",
+      "lat": 35.416672,
+      "lon": 136.600006
+    },
+    {
+      "name": "Gobō",
+      "name_en": "Gobō",
+      "pref": "不明",
+      "lat": 33.883331,
+      "lon": 135.149994
+    },
+    {
+      "name": "Ginoza",
+      "name_en": "Ginoza",
+      "pref": "不明",
+      "lat": 26.47611,
+      "lon": 127.973061
+    },
+    {
+      "name": "Ginowan",
+      "name_en": "Ginowan",
+      "pref": "不明",
+      "lat": 26.26265,
+      "lon": 127.761467
+    },
+    {
+      "name": "Gifu",
+      "name_en": "Gifu",
+      "pref": "不明",
+      "lat": 35.78091,
+      "lon": 137.053986
+    },
+    {
+      "name": "Gifu-shi",
+      "name_en": "Gifu-shi",
+      "pref": "不明",
+      "lat": 35.422909,
+      "lon": 136.760391
+    },
+    {
+      "name": "Ganeko",
+      "name_en": "Ganeko",
+      "pref": "不明",
+      "lat": 26.25601,
+      "lon": 127.75351
+    },
+    {
+      "name": "Gamagōri",
+      "name_en": "Gamagōri",
+      "pref": "不明",
+      "lat": 34.833328,
+      "lon": 137.233337
+    },
+    {
+      "name": "Futtsu",
+      "name_en": "Futtsu",
+      "pref": "不明",
+      "lat": 35.305279,
+      "lon": 139.818604
+    },
+    {
+      "name": "Fushimi",
+      "name_en": "Fushimi",
+      "pref": "不明",
+      "lat": 34.935551,
+      "lon": 135.761322
+    },
+    {
+      "name": "Kōfukuchō",
+      "name_en": "Kōfukuchō",
+      "pref": "不明",
+      "lat": 34.73333,
+      "lon": 135.600006
+    },
+    {
+      "name": "Furuichi",
+      "name_en": "Furuichi",
+      "pref": "不明",
+      "lat": 34.450001,
+      "lon": 132.466675
+    },
+    {
+      "name": "Furuichi",
+      "name_en": "Furuichi",
+      "pref": "不明",
+      "lat": 33.48333,
+      "lon": 131.716675
+    },
+    {
+      "name": "Furugen",
+      "name_en": "Furugen",
+      "pref": "不明",
+      "lat": 26.368589,
+      "lon": 127.751106
+    },
+    {
+      "name": "Funato",
+      "name_en": "Funato",
+      "pref": "不明",
+      "lat": 34.25,
+      "lon": 135.316666
+    },
+    {
+      "name": "Honchō",
+      "name_en": "Honchō",
+      "pref": "不明",
+      "lat": 35.693062,
+      "lon": 139.983337
+    },
+    {
+      "name": "Fukuyama",
+      "name_en": "Fukuyama",
+      "pref": "不明",
+      "lat": 34.48333,
+      "lon": 133.366669
+    },
+    {
+      "name": "Fukuroi",
+      "name_en": "Fukuroi",
+      "pref": "不明",
+      "lat": 34.75,
+      "lon": 137.916672
+    },
+    {
+      "name": "Fukura",
+      "name_en": "Fukura",
+      "pref": "不明",
+      "lat": 34.25,
+      "lon": 134.716675
+    },
+    {
+      "name": "Fukuoka Prefecture",
+      "name_en": "Fukuoka Prefecture",
+      "pref": "不明",
+      "lat": 33.52813,
+      "lon": 130.664719
+    },
+    {
+      "name": "Fukuoka",
+      "name_en": "Fukuoka",
+      "pref": "不明",
+      "lat": 33.606392,
+      "lon": 130.41806
+    },
+    {
+      "name": "Fukumitsu",
+      "name_en": "Fukumitsu",
+      "pref": "不明",
+      "lat": 36.549999,
+      "lon": 136.866669
+    },
+    {
+      "name": "Nishifukuma",
+      "name_en": "Nishifukuma",
+      "pref": "不明",
+      "lat": 33.76667,
+      "lon": 130.466675
+    },
+    {
+      "name": "Fukui",
+      "name_en": "Fukui",
+      "pref": "不明",
+      "lat": 35.850101,
+      "lon": 136.225174
+    },
+    {
+      "name": "Fukui-shi",
+      "name_en": "Fukui-shi",
+      "pref": "不明",
+      "lat": 36.06443,
+      "lon": 136.222565
+    },
+    {
+      "name": "Fukuechō",
+      "name_en": "Fukuechō",
+      "pref": "不明",
+      "lat": 32.688061,
+      "lon": 128.841934
+    },
+    {
+      "name": "Fukuchiyama",
+      "name_en": "Fukuchiyama",
+      "pref": "不明",
+      "lat": 35.299999,
+      "lon": 135.116669
+    },
+    {
+      "name": "Fukiage-fujimi",
+      "name_en": "Fukiage-fujimi",
+      "pref": "不明",
+      "lat": 36.099998,
+      "lon": 139.449997
+    },
+    {
+      "name": "Fukayachō",
+      "name_en": "Fukayachō",
+      "pref": "不明",
+      "lat": 36.200001,
+      "lon": 139.283325
+    },
+    {
+      "name": "Fujisawa",
+      "name_en": "Fujisawa",
+      "pref": "不明",
+      "lat": 35.341942,
+      "lon": 139.470001
+    },
+    {
+      "name": "Fujioka",
+      "name_en": "Fujioka",
+      "pref": "不明",
+      "lat": 36.25,
+      "lon": 139.649994
+    },
+    {
+      "name": "Fujioka",
+      "name_en": "Fujioka",
+      "pref": "不明",
+      "lat": 36.25,
+      "lon": 139.083328
+    },
+    {
+      "name": "Fujinomiya",
+      "name_en": "Fujinomiya",
+      "pref": "不明",
+      "lat": 35.216671,
+      "lon": 138.616669
+    },
+    {
+      "name": "Fujieda",
+      "name_en": "Fujieda",
+      "pref": "不明",
+      "lat": 34.866669,
+      "lon": 138.266663
+    },
+    {
+      "name": "Fuji",
+      "name_en": "Fuji",
+      "pref": "不明",
+      "lat": 35.166672,
+      "lon": 138.683334
+    },
+    {
+      "name": "Fuchu",
+      "name_en": "Fuchu",
+      "pref": "不明",
+      "lat": 35.666672,
+      "lon": 139.483337
+    },
+    {
+      "name": "Fuchūchō",
+      "name_en": "Fuchūchō",
+      "pref": "不明",
+      "lat": 34.566669,
+      "lon": 133.233337
+    },
+    {
+      "name": "Enzan",
+      "name_en": "Enzan",
+      "pref": "不明",
+      "lat": 35.700001,
+      "lon": 138.733337
+    },
+    {
+      "name": "Ehime",
+      "name_en": "Ehime",
+      "pref": "不明",
+      "lat": 33.625801,
+      "lon": 132.854721
+    },
+    {
+      "name": "Egota",
+      "name_en": "Egota",
+      "pref": "不明",
+      "lat": 35.73333,
+      "lon": 139.666672
+    },
+    {
+      "name": "Egashira",
+      "name_en": "Egashira",
+      "pref": "不明",
+      "lat": 35.116669,
+      "lon": 136.050003
+    },
+    {
+      "name": "Edome-naka",
+      "name_en": "Edome-naka",
+      "pref": "不明",
+      "lat": 36.138432,
+      "lon": 136.212357
+    },
+    {
+      "name": "Echigawa",
+      "name_en": "Echigawa",
+      "pref": "不明",
+      "lat": 35.166672,
+      "lon": 136.199997
+    },
+    {
+      "name": "Dōshi",
+      "name_en": "Dōshi",
+      "pref": "不明",
+      "lat": 35.583328,
+      "lon": 139.216675
+    },
+    {
+      "name": "Den’enchōfu",
+      "name_en": "Den’enchōfu",
+      "pref": "不明",
+      "lat": 35.583328,
+      "lon": 139.666672
+    },
+    {
+      "name": "Daitōchō",
+      "name_en": "Daitōchō",
+      "pref": "不明",
+      "lat": 34.700001,
+      "lon": 135.616669
+    },
+    {
+      "name": "Daisen",
+      "name_en": "Daisen",
+      "pref": "不明",
+      "lat": 35.383331,
+      "lon": 133.533325
+    },
+    {
+      "name": "Daidō",
+      "name_en": "Daidō",
+      "pref": "不明",
+      "lat": 34.049999,
+      "lon": 131.483337
+    },
+    {
+      "name": "Chōfu",
+      "name_en": "Chōfu",
+      "pref": "不明",
+      "lat": 35.65556,
+      "lon": 139.552216
+    },
+    {
+      "name": "Chizu",
+      "name_en": "Chizu",
+      "pref": "不明",
+      "lat": 35.26667,
+      "lon": 134.233337
+    },
+    {
+      "name": "Chiyoda-ku",
+      "name_en": "Chiyoda-ku",
+      "pref": "不明",
+      "lat": 35.694019,
+      "lon": 139.753632
+    },
+    {
+      "name": "Chiryū",
+      "name_en": "Chiryū",
+      "pref": "不明",
+      "lat": 35.0,
+      "lon": 137.033325
+    },
+    {
+      "name": "Chino",
+      "name_en": "Chino",
+      "pref": "不明",
+      "lat": 35.9944,
+      "lon": 138.154282
+    },
+    {
+      "name": "Chikushino-shi",
+      "name_en": "Chikushino-shi",
+      "pref": "不明",
+      "lat": 33.496311,
+      "lon": 130.515594
+    },
+    {
+      "name": "Chigasaki",
+      "name_en": "Chigasaki",
+      "pref": "不明",
+      "lat": 35.326111,
+      "lon": 139.403885
+    },
+    {
+      "name": "Chichibu",
+      "name_en": "Chichibu",
+      "pref": "不明",
+      "lat": 35.99028,
+      "lon": 139.076385
+    },
+    {
+      "name": "Chatan",
+      "name_en": "Chatan",
+      "pref": "不明",
+      "lat": 26.309441,
+      "lon": 127.770279
+    },
+    {
+      "name": "Chabana",
+      "name_en": "Chabana",
+      "pref": "不明",
+      "lat": 27.049999,
+      "lon": 128.416672
+    },
+    {
+      "name": "Buzen-shi",
+      "name_en": "Buzen-shi",
+      "pref": "不明",
+      "lat": 33.567429,
+      "lon": 131.085785
+    },
+    {
+      "name": "Beppu",
+      "name_en": "Beppu",
+      "pref": "不明",
+      "lat": 33.273609,
+      "lon": 131.491943
+    },
+    {
+      "name": "Bentenchō",
+      "name_en": "Bentenchō",
+      "pref": "不明",
+      "lat": 34.683331,
+      "lon": 135.183334
+    },
+    {
+      "name": "Ichibanchō",
+      "name_en": "Ichibanchō",
+      "pref": "不明",
+      "lat": 35.683331,
+      "lon": 139.75
+    },
+    {
+      "name": "Bakurochō",
+      "name_en": "Bakurochō",
+      "pref": "不明",
+      "lat": 36.566669,
+      "lon": 136.649994
+    },
+    {
+      "name": "Ayabe",
+      "name_en": "Ayabe",
+      "pref": "不明",
+      "lat": 35.299999,
+      "lon": 135.25
+    },
+    {
+      "name": "Aya",
+      "name_en": "Aya",
+      "pref": "不明",
+      "lat": 31.98333,
+      "lon": 131.266663
+    },
+    {
+      "name": "Awatabe",
+      "name_en": "Awatabe",
+      "pref": "不明",
+      "lat": 35.915611,
+      "lon": 136.239395
+    },
+    {
+      "name": "Awara",
+      "name_en": "Awara",
+      "pref": "不明",
+      "lat": 36.223091,
+      "lon": 136.192368
+    },
+    {
+      "name": "Atami",
+      "name_en": "Atami",
+      "pref": "不明",
+      "lat": 35.089439,
+      "lon": 139.068604
+    },
+    {
+      "name": "Ataka-shimmachi",
+      "name_en": "Ataka-shimmachi",
+      "pref": "不明",
+      "lat": 36.402981,
+      "lon": 136.407196
+    },
+    {
+      "name": "Ashiya",
+      "name_en": "Ashiya",
+      "pref": "不明",
+      "lat": 34.728069,
+      "lon": 135.302643
+    },
+    {
+      "name": "Ashikaga",
+      "name_en": "Ashikaga",
+      "pref": "不明",
+      "lat": 36.333328,
+      "lon": 139.449997
+    },
+    {
+      "name": "Ashihara",
+      "name_en": "Ashihara",
+      "pref": "不明",
+      "lat": 34.666672,
+      "lon": 135.5
+    },
+    {
+      "name": "Asahi",
+      "name_en": "Asahi",
+      "pref": "不明",
+      "lat": 35.90469,
+      "lon": 136.662796
+    },
+    {
+      "name": "Asagaya-minami",
+      "name_en": "Asagaya-minami",
+      "pref": "不明",
+      "lat": 35.700001,
+      "lon": 139.649994
+    },
+    {
+      "name": "Arita",
+      "name_en": "Arita",
+      "pref": "不明",
+      "lat": 33.183331,
+      "lon": 129.899994
+    },
+    {
+      "name": "Arimatsu",
+      "name_en": "Arimatsu",
+      "pref": "不明",
+      "lat": 35.066669,
+      "lon": 136.966675
+    },
+    {
+      "name": "Arai",
+      "name_en": "Arai",
+      "pref": "不明",
+      "lat": 37.01667,
+      "lon": 138.25
+    },
+    {
+      "name": "Aoki",
+      "name_en": "Aoki",
+      "pref": "不明",
+      "lat": 36.366669,
+      "lon": 138.133331
+    },
+    {
+      "name": "Aoichō",
+      "name_en": "Aoichō",
+      "pref": "不明",
+      "lat": 35.166672,
+      "lon": 136.916672
+    },
+    {
+      "name": "Annaka",
+      "name_en": "Annaka",
+      "pref": "不明",
+      "lat": 36.316669,
+      "lon": 138.899994
+    },
+    {
+      "name": "Anjō",
+      "name_en": "Anjō",
+      "pref": "不明",
+      "lat": 34.958279,
+      "lon": 137.080536
+    },
+    {
+      "name": "Anan",
+      "name_en": "Anan",
+      "pref": "不明",
+      "lat": 33.916672,
+      "lon": 134.649994
+    },
+    {
+      "name": "Anamizu",
+      "name_en": "Anamizu",
+      "pref": "不明",
+      "lat": 37.23333,
+      "lon": 136.899994
+    },
+    {
+      "name": "Amagi",
+      "name_en": "Amagi",
+      "pref": "不明",
+      "lat": 33.416672,
+      "lon": 130.649994
+    },
+    {
+      "name": "Amagasaki",
+      "name_en": "Amagasaki",
+      "pref": "不明",
+      "lat": 34.716671,
+      "lon": 135.416672
+    },
+    {
+      "name": "Akune",
+      "name_en": "Akune",
+      "pref": "不明",
+      "lat": 32.01667,
+      "lon": 130.199997
+    },
+    {
+      "name": "Akuchi",
+      "name_en": "Akuchi",
+      "pref": "不明",
+      "lat": 35.01667,
+      "lon": 133.633331
+    },
+    {
+      "name": "Kariya",
+      "name_en": "Kariya",
+      "pref": "不明",
+      "lat": 34.75,
+      "lon": 134.399994
+    },
+    {
+      "name": "Aki",
+      "name_en": "Aki",
+      "pref": "不明",
+      "lat": 33.5,
+      "lon": 133.899994
+    },
+    {
+      "name": "Akashichō",
+      "name_en": "Akashichō",
+      "pref": "不明",
+      "lat": 35.666672,
+      "lon": 139.783325
+    },
+    {
+      "name": "Aioi",
+      "name_en": "Aioi",
+      "pref": "不明",
+      "lat": 34.803612,
+      "lon": 134.468063
+    },
+    {
+      "name": "Aichi-ken",
+      "name_en": "Aichi-ken",
+      "pref": "不明",
+      "lat": 35.180168,
+      "lon": 136.906555
+    },
+    {
+      "name": "Ageoshimo",
+      "name_en": "Ageoshimo",
+      "pref": "不明",
+      "lat": 35.969719,
+      "lon": 139.588608
+    },
+    {
+      "name": "Agematsu",
+      "name_en": "Agematsu",
+      "pref": "不明",
+      "lat": 35.784611,
+      "lon": 137.692673
+    },
+    {
+      "name": "Ageki",
+      "name_en": "Ageki",
+      "pref": "不明",
+      "lat": 35.150002,
+      "lon": 136.516663
+    },
+    {
+      "name": "Motobu",
+      "name_en": "Motobu",
+      "pref": "不明",
+      "lat": 26.652781,
+      "lon": 127.890282
+    },
+    {
+      "name": "Okinawa",
+      "name_en": "Okinawa",
+      "pref": "不明",
+      "lat": 26.335831,
+      "lon": 127.801392
+    },
+    {
+      "name": "Urazoe",
+      "name_en": "Urazoe",
+      "pref": "不明",
+      "lat": 26.25444,
+      "lon": 127.70639
+    },
+    {
+      "name": "Haebaru",
+      "name_en": "Haebaru",
+      "pref": "不明",
+      "lat": 26.184719,
+      "lon": 127.722504
+    },
+    {
+      "name": "Kushima",
+      "name_en": "Kushima",
+      "pref": "不明",
+      "lat": 31.45833,
+      "lon": 131.233337
+    },
+    {
+      "name": "Hikari",
+      "name_en": "Hikari",
+      "pref": "不明",
+      "lat": 33.955002,
+      "lon": 131.949997
+    },
+    {
+      "name": "Kaita",
+      "name_en": "Kaita",
+      "pref": "不明",
+      "lat": 34.366669,
+      "lon": 132.550003
+    },
+    {
+      "name": "Seirō",
+      "name_en": "Seirō",
+      "pref": "不明",
+      "lat": 37.98333,
+      "lon": 139.255005
+    },
+    {
+      "name": "Mirukashi",
+      "name_en": "Mirukashi",
+      "pref": "不明",
+      "lat": 33.438332,
+      "lon": 129.938324
+    },
+    {
+      "name": "Yakataishi",
+      "name_en": "Yakataishi",
+      "pref": "不明",
+      "lat": 33.521671,
+      "lon": 129.925003
+    },
+    {
+      "name": "Nagato",
+      "name_en": "Nagato",
+      "pref": "不明",
+      "lat": 34.383331,
+      "lon": 131.199997
+    },
+    {
+      "name": "Nakai",
+      "name_en": "Nakai",
+      "pref": "不明",
+      "lat": 35.96833,
+      "lon": 139.158615
+    },
+    {
+      "name": "Hasuda",
+      "name_en": "Hasuda",
+      "pref": "不明",
+      "lat": 35.975559,
+      "lon": 139.650833
+    },
+    {
+      "name": "Kamifukuoka",
+      "name_en": "Kamifukuoka",
+      "pref": "不明",
+      "lat": 35.872501,
+      "lon": 139.50972
+    },
+    {
+      "name": "Sayama",
+      "name_en": "Sayama",
+      "pref": "不明",
+      "lat": 35.852951,
+      "lon": 139.412125
+    },
+    {
+      "name": "Fussa",
+      "name_en": "Fussa",
+      "pref": "不明",
+      "lat": 35.736671,
+      "lon": 139.323608
+    },
+    {
+      "name": "Fujino",
+      "name_en": "Fujino",
+      "pref": "不明",
+      "lat": 35.606392,
+      "lon": 139.143066
+    },
+    {
+      "name": "Kunitachi",
+      "name_en": "Kunitachi",
+      "pref": "不明",
+      "lat": 35.674438,
+      "lon": 139.434998
+    },
+    {
+      "name": "Okura",
+      "name_en": "Okura",
+      "pref": "不明",
+      "lat": 35.584721,
+      "lon": 139.470276
+    },
+    {
+      "name": "Minawa",
+      "name_en": "Minawa",
+      "pref": "不明",
+      "lat": 35.522781,
+      "lon": 139.319443
+    },
+    {
+      "name": "Kawara",
+      "name_en": "Kawara",
+      "pref": "不明",
+      "lat": 35.47361,
+      "lon": 139.272781
+    },
+    {
+      "name": "Miyanomae",
+      "name_en": "Miyanomae",
+      "pref": "不明",
+      "lat": 35.422779,
+      "lon": 139.392776
+    },
+    {
+      "name": "Takata",
+      "name_en": "Takata",
+      "pref": "不明",
+      "lat": 35.33889,
+      "lon": 139.423065
+    },
+    {
+      "name": "Koyasu",
+      "name_en": "Koyasu",
+      "pref": "不明",
+      "lat": 35.41806,
+      "lon": 139.255554
+    },
+    {
+      "name": "Asaka",
+      "name_en": "Asaka",
+      "pref": "不明",
+      "lat": 35.804722,
+      "lon": 139.601944
+    },
+    {
+      "name": "Wako",
+      "name_en": "Wako",
+      "pref": "不明",
+      "lat": 35.78944,
+      "lon": 139.623337
+    },
+    {
+      "name": "Shimotoda",
+      "name_en": "Shimotoda",
+      "pref": "不明",
+      "lat": 35.809441,
+      "lon": 139.692505
+    },
+    {
+      "name": "Komae",
+      "name_en": "Komae",
+      "pref": "不明",
+      "lat": 35.636391,
+      "lon": 139.574432
+    },
+    {
+      "name": "Kimitsu",
+      "name_en": "Kimitsu",
+      "pref": "不明",
+      "lat": 35.325279,
+      "lon": 139.891113
+    },
+    {
+      "name": "Miura",
+      "name_en": "Miura",
+      "pref": "不明",
+      "lat": 35.139999,
+      "lon": 139.619171
+    },
+    {
+      "name": "Wakayama",
+      "name_en": "Wakayama",
+      "pref": "不明",
+      "lat": 34.226109,
+      "lon": 135.167496
+    },
+    {
+      "name": "Iyo",
+      "name_en": "Iyo",
+      "pref": "不明",
+      "lat": 33.751389,
+      "lon": 132.701385
+    },
+    {
+      "name": "Yokogawara",
+      "name_en": "Yokogawara",
+      "pref": "不明",
+      "lat": 33.803761,
+      "lon": 132.886414
+    },
+    {
+      "name": "Uwajima",
+      "name_en": "Uwajima",
+      "pref": "不明",
+      "lat": 33.223751,
+      "lon": 132.560013
+    },
+    {
+      "name": "Tsutsui",
+      "name_en": "Tsutsui",
+      "pref": "不明",
+      "lat": 33.788849,
+      "lon": 132.705017
+    },
+    {
+      "name": "Tsuitachi",
+      "name_en": "Tsuitachi",
+      "pref": "不明",
+      "lat": 33.916672,
+      "lon": 133.183334
+    },
+    {
+      "name": "Saijō",
+      "name_en": "Saijō",
+      "pref": "不明",
+      "lat": 33.916672,
+      "lon": 133.183334
+    },
+    {
+      "name": "Ōzu",
+      "name_en": "Ōzu",
+      "pref": "不明",
+      "lat": 33.5,
+      "lon": 132.550003
+    },
+    {
+      "name": "Matsuyama",
+      "name_en": "Matsuyama",
+      "pref": "不明",
+      "lat": 33.839161,
+      "lon": 132.765747
+    },
+    {
+      "name": "Masaki-chō",
+      "name_en": "Masaki-chō",
+      "pref": "不明",
+      "lat": 33.787571,
+      "lon": 132.711243
+    },
+    {
+      "name": "Mannen",
+      "name_en": "Mannen",
+      "pref": "不明",
+      "lat": 33.707279,
+      "lon": 132.792694
+    },
+    {
+      "name": "Komatsu",
+      "name_en": "Komatsu",
+      "pref": "不明",
+      "lat": 33.883331,
+      "lon": 133.116669
+    },
+    {
+      "name": "Kawanoechō",
+      "name_en": "Kawanoechō",
+      "pref": "不明",
+      "lat": 34.01667,
+      "lon": 133.566666
+    },
+    {
+      "name": "Ikazaki",
+      "name_en": "Ikazaki",
+      "pref": "不明",
+      "lat": 33.535278,
+      "lon": 132.654373
+    },
+    {
+      "name": "Hōjō",
+      "name_en": "Hōjō",
+      "pref": "不明",
+      "lat": 33.976608,
+      "lon": 132.777664
+    },
+    {
+      "name": "Setana",
+      "name_en": "Setana",
+      "pref": "不明",
+      "lat": 42.451389,
+      "lon": 139.851395
+    },
+    {
+      "name": "Okushiri",
+      "name_en": "Okushiri",
+      "pref": "不明",
+      "lat": 42.168331,
+      "lon": 139.518326
+    },
+    {
+      "name": "Fukaura",
+      "name_en": "Fukaura",
+      "pref": "不明",
+      "lat": 40.633331,
+      "lon": 139.916672
+    },
+    {
+      "name": "Buhama",
+      "name_en": "Buhama",
+      "pref": "不明",
+      "lat": 42.073059,
+      "lon": 139.424438
+    },
+    {
+      "name": "Yuzawa",
+      "name_en": "Yuzawa",
+      "pref": "不明",
+      "lat": 39.166672,
+      "lon": 140.5
+    },
+    {
+      "name": "Yotsukaidō",
+      "name_en": "Yotsukaidō",
+      "pref": "不明",
+      "lat": 35.650002,
+      "lon": 140.166672
+    },
+    {
+      "name": "Yonezawa",
+      "name_en": "Yonezawa",
+      "pref": "不明",
+      "lat": 37.916672,
+      "lon": 140.116669
+    },
+    {
+      "name": "Yokote",
+      "name_en": "Yokote",
+      "pref": "不明",
+      "lat": 39.299999,
+      "lon": 140.566666
+    },
+    {
+      "name": "Yōkaichiba",
+      "name_en": "Yōkaichiba",
+      "pref": "不明",
+      "lat": 35.700001,
+      "lon": 140.550003
+    },
+    {
+      "name": "Yanagawamachi-saiwaichō",
+      "name_en": "Yanagawamachi-saiwaichō",
+      "pref": "不明",
+      "lat": 37.849998,
+      "lon": 140.600006
+    },
+    {
+      "name": "Yamoto",
+      "name_en": "Yamoto",
+      "pref": "不明",
+      "lat": 38.42738,
+      "lon": 141.214874
+    },
+    {
+      "name": "Yamagata-ken",
+      "name_en": "Yamagata-ken",
+      "pref": "不明",
+      "lat": 38.450298,
+      "lon": 140.099701
+    },
+    {
+      "name": "Yamagata",
+      "name_en": "Yamagata",
+      "pref": "不明",
+      "lat": 38.240559,
+      "lon": 140.363327
+    },
+    {
+      "name": "Yamada",
+      "name_en": "Yamada",
+      "pref": "不明",
+      "lat": 39.466671,
+      "lon": 141.949997
+    },
+    {
+      "name": "Yachimata",
+      "name_en": "Yachimata",
+      "pref": "不明",
+      "lat": 35.650002,
+      "lon": 140.316666
+    },
+    {
+      "name": "Yabuki",
+      "name_en": "Yabuki",
+      "pref": "不明",
+      "lat": 37.200001,
+      "lon": 140.316666
+    },
+    {
+      "name": "Yabasehonchō",
+      "name_en": "Yabasehonchō",
+      "pref": "不明",
+      "lat": 39.716671,
+      "lon": 140.100006
+    },
+    {
+      "name": "Watari",
+      "name_en": "Watari",
+      "pref": "不明",
+      "lat": 38.035,
+      "lon": 140.851105
+    },
+    {
+      "name": "Wakuya",
+      "name_en": "Wakuya",
+      "pref": "不明",
+      "lat": 38.533329,
+      "lon": 141.133331
+    },
+    {
+      "name": "Wada",
+      "name_en": "Wada",
+      "pref": "不明",
+      "lat": 39.650002,
+      "lon": 140.216675
+    },
+    {
+      "name": "Uwamachi",
+      "name_en": "Uwamachi",
+      "pref": "不明",
+      "lat": 37.75,
+      "lon": 140.466675
+    },
+    {
+      "name": "Ushiku",
+      "name_en": "Ushiku",
+      "pref": "不明",
+      "lat": 35.966671,
+      "lon": 140.133331
+    },
+    {
+      "name": "Uchimaru",
+      "name_en": "Uchimaru",
+      "pref": "不明",
+      "lat": 39.700001,
+      "lon": 141.149994
+    },
+    {
+      "name": "Uchigō-tsuzuramachi",
+      "name_en": "Uchigō-tsuzuramachi",
+      "pref": "不明",
+      "lat": 37.033329,
+      "lon": 140.850006
+    },
+    {
+      "name": "Tsukuba",
+      "name_en": "Tsukuba",
+      "pref": "不明",
+      "lat": 36.083328,
+      "lon": 140.116669
+    },
+    {
+      "name": "Tsukuba",
+      "name_en": "Tsukuba",
+      "pref": "不明",
+      "lat": 36.200001,
+      "lon": 140.100006
+    },
+    {
+      "name": "Toride",
+      "name_en": "Toride",
+      "pref": "不明",
+      "lat": 35.900002,
+      "lon": 140.083328
+    },
+    {
+      "name": "Tōno",
+      "name_en": "Tōno",
+      "pref": "不明",
+      "lat": 39.316669,
+      "lon": 141.533325
+    },
+    {
+      "name": "Tomobe",
+      "name_en": "Tomobe",
+      "pref": "不明",
+      "lat": 36.349998,
+      "lon": 140.300003
+    },
+    {
+      "name": "Tomiya",
+      "name_en": "Tomiya",
+      "pref": "不明",
+      "lat": 38.393059,
+      "lon": 140.886108
+    },
+    {
+      "name": "Tōgane",
+      "name_en": "Tōgane",
+      "pref": "不明",
+      "lat": 35.549999,
+      "lon": 140.366669
+    },
+    {
+      "name": "Tendō",
+      "name_en": "Tendō",
+      "pref": "不明",
+      "lat": 38.353611,
+      "lon": 140.36972
+    },
+    {
+      "name": "Tateno",
+      "name_en": "Tateno",
+      "pref": "不明",
+      "lat": 36.033329,
+      "lon": 140.116669
+    },
+    {
+      "name": "Tateishi",
+      "name_en": "Tateishi",
+      "pref": "不明",
+      "lat": 38.98333,
+      "lon": 141.116669
+    },
+    {
+      "name": "Tanagura",
+      "name_en": "Tanagura",
+      "pref": "不明",
+      "lat": 37.033329,
+      "lon": 140.383331
+    },
+    {
+      "name": "Tako",
+      "name_en": "Tako",
+      "pref": "不明",
+      "lat": 35.73333,
+      "lon": 140.466675
+    },
+    {
+      "name": "Takahata",
+      "name_en": "Takahata",
+      "pref": "不明",
+      "lat": 38.002499,
+      "lon": 140.191116
+    },
+    {
+      "name": "Takahagi",
+      "name_en": "Takahagi",
+      "pref": "不明",
+      "lat": 36.716671,
+      "lon": 140.716675
+    },
+    {
+      "name": "Takado",
+      "name_en": "Takado",
+      "pref": "不明",
+      "lat": 36.716671,
+      "lon": 140.716675
+    },
+    {
+      "name": "Suwa",
+      "name_en": "Suwa",
+      "pref": "不明",
+      "lat": 36.566669,
+      "lon": 140.633331
+    },
+    {
+      "name": "Sukagawa",
+      "name_en": "Sukagawa",
+      "pref": "不明",
+      "lat": 37.283329,
+      "lon": 140.383331
+    },
+    {
+      "name": "Sugisaki",
+      "name_en": "Sugisaki",
+      "pref": "不明",
+      "lat": 36.383331,
+      "lon": 140.350006
+    },
+    {
+      "name": "Shizukuishi",
+      "name_en": "Shizukuishi",
+      "pref": "不明",
+      "lat": 39.683331,
+      "lon": 140.983337
+    },
+    {
+      "name": "Shisui",
+      "name_en": "Shisui",
+      "pref": "不明",
+      "lat": 35.716671,
+      "lon": 140.266663
+    },
+    {
+      "name": "Shiroishi",
+      "name_en": "Shiroishi",
+      "pref": "不明",
+      "lat": 38.00333,
+      "lon": 140.618332
+    },
+    {
+      "name": "Shiroi",
+      "name_en": "Shiroi",
+      "pref": "不明",
+      "lat": 35.799999,
+      "lon": 140.066666
+    },
+    {
+      "name": "Shiogasaki",
+      "name_en": "Shiogasaki",
+      "pref": "不明",
+      "lat": 36.333328,
+      "lon": 140.550003
+    },
+    {
+      "name": "Shiogama",
+      "name_en": "Shiogama",
+      "pref": "不明",
+      "lat": 38.316669,
+      "lon": 141.033325
+    },
+    {
+      "name": "Shinjō",
+      "name_en": "Shinjō",
+      "pref": "不明",
+      "lat": 38.75861,
+      "lon": 140.300827
+    },
+    {
+      "name": "Shimizukōji",
+      "name_en": "Shimizukōji",
+      "pref": "不明",
+      "lat": 38.25,
+      "lon": 140.883331
+    },
+    {
+      "name": "Shibayama",
+      "name_en": "Shibayama",
+      "pref": "不明",
+      "lat": 35.683331,
+      "lon": 140.433334
+    },
+    {
+      "name": "Sendai",
+      "name_en": "Sendai",
+      "pref": "不明",
+      "lat": 38.26889,
+      "lon": 140.871933
+    },
+    {
+      "name": "Sembokuchō",
+      "name_en": "Sembokuchō",
+      "pref": "不明",
+      "lat": 39.683331,
+      "lon": 141.149994
+    },
+    {
+      "name": "Sawara",
+      "name_en": "Sawara",
+      "pref": "不明",
+      "lat": 35.883331,
+      "lon": 140.5
+    },
+    {
+      "name": "Sakura",
+      "name_en": "Sakura",
+      "pref": "不明",
+      "lat": 35.716671,
+      "lon": 140.233337
+    },
+    {
+      "name": "Sagae",
+      "name_en": "Sagae",
+      "pref": "不明",
+      "lat": 38.372501,
+      "lon": 140.272507
+    },
+    {
+      "name": "Ryūgasaki",
+      "name_en": "Ryūgasaki",
+      "pref": "不明",
+      "lat": 35.900002,
+      "lon": 140.183334
+    },
+    {
+      "name": "Rifu",
+      "name_en": "Rifu",
+      "pref": "不明",
+      "lat": 38.323608,
+      "lon": 140.974442
+    },
+    {
+      "name": "Ōtsukimachi",
+      "name_en": "Ōtsukimachi",
+      "pref": "不明",
+      "lat": 37.383331,
+      "lon": 140.316666
+    },
+    {
+      "name": "Ōtsuchi",
+      "name_en": "Ōtsuchi",
+      "pref": "不明",
+      "lat": 39.366669,
+      "lon": 141.899994
+    },
+    {
+      "name": "Ōtawara",
+      "name_en": "Ōtawara",
+      "pref": "不明",
+      "lat": 36.866669,
+      "lon": 140.033325
+    },
+    {
+      "name": "Onagawa Chō",
+      "name_en": "Onagawa Chō",
+      "pref": "不明",
+      "lat": 38.438332,
+      "lon": 141.449997
+    },
+    {
+      "name": "Ōmiya",
+      "name_en": "Ōmiya",
+      "pref": "不明",
+      "lat": 36.549999,
+      "lon": 140.416672
+    },
+    {
+      "name": "Omigawa",
+      "name_en": "Omigawa",
+      "pref": "不明",
+      "lat": 35.849998,
+      "lon": 140.616669
+    },
+    {
+      "name": "Ōmagari",
+      "name_en": "Ōmagari",
+      "pref": "不明",
+      "lat": 39.450001,
+      "lon": 140.483337
+    },
+    {
+      "name": "Okunoya",
+      "name_en": "Okunoya",
+      "pref": "不明",
+      "lat": 36.283329,
+      "lon": 140.416672
+    },
+    {
+      "name": "Ōkawara",
+      "name_en": "Ōkawara",
+      "pref": "不明",
+      "lat": 38.049999,
+      "lon": 140.733612
+    },
+    {
+      "name": "Ōishida",
+      "name_en": "Ōishida",
+      "pref": "不明",
+      "lat": 38.586941,
+      "lon": 140.371384
+    },
+    {
+      "name": "Ōhasama",
+      "name_en": "Ōhasama",
+      "pref": "不明",
+      "lat": 39.466671,
+      "lon": 141.283325
+    },
+    {
+      "name": "Ōhara",
+      "name_en": "Ōhara",
+      "pref": "不明",
+      "lat": 35.25,
+      "lon": 140.383331
+    },
+    {
+      "name": "Ōfunato",
+      "name_en": "Ōfunato",
+      "pref": "不明",
+      "lat": 39.071671,
+      "lon": 141.716675
+    },
+    {
+      "name": "Odaka",
+      "name_en": "Odaka",
+      "pref": "不明",
+      "lat": 37.566669,
+      "lon": 140.983337
+    },
+    {
+      "name": "Odaka",
+      "name_en": "Odaka",
+      "pref": "不明",
+      "lat": 37.200001,
+      "lon": 140.416672
+    },
+    {
+      "name": "Ōhira",
+      "name_en": "Ōhira",
+      "pref": "不明",
+      "lat": 37.849998,
+      "lon": 140.283325
+    },
+    {
+      "name": "Obanazawa",
+      "name_en": "Obanazawa",
+      "pref": "不明",
+      "lat": 38.603329,
+      "lon": 140.401947
+    },
+    {
+      "name": "Ōarai",
+      "name_en": "Ōarai",
+      "pref": "不明",
+      "lat": 36.316669,
+      "lon": 140.600006
+    },
+    {
+      "name": "Ōami",
+      "name_en": "Ōami",
+      "pref": "不明",
+      "lat": 35.51667,
+      "lon": 140.316666
+    },
+    {
+      "name": "Noguchi",
+      "name_en": "Noguchi",
+      "pref": "不明",
+      "lat": 36.549999,
+      "lon": 140.333328
+    },
+    {
+      "name": "Nihommatsu",
+      "name_en": "Nihommatsu",
+      "pref": "不明",
+      "lat": 37.583328,
+      "lon": 140.433334
+    },
+    {
+      "name": "Narutō",
+      "name_en": "Narutō",
+      "pref": "不明",
+      "lat": 35.599998,
+      "lon": 140.416672
+    },
+    {
+      "name": "Narita",
+      "name_en": "Narita",
+      "pref": "不明",
+      "lat": 35.783329,
+      "lon": 140.316666
+    },
+    {
+      "name": "Narashino",
+      "name_en": "Narashino",
+      "pref": "不明",
+      "lat": 35.683331,
+      "lon": 140.033325
+    },
+    {
+      "name": "Namie",
+      "name_en": "Namie",
+      "pref": "不明",
+      "lat": 37.48333,
+      "lon": 141.0
+    },
+    {
+      "name": "Namekawa",
+      "name_en": "Namekawa",
+      "pref": "不明",
+      "lat": 35.866669,
+      "lon": 140.350006
+    },
+    {
+      "name": "Nakayama",
+      "name_en": "Nakayama",
+      "pref": "不明",
+      "lat": 38.121391,
+      "lon": 140.218323
+    },
+    {
+      "name": "Naka",
+      "name_en": "Naka",
+      "pref": "不明",
+      "lat": 36.049999,
+      "lon": 140.166672
+    },
+    {
+      "name": "Nagasu",
+      "name_en": "Nagasu",
+      "pref": "不明",
+      "lat": 36.283329,
+      "lon": 140.516663
+    },
+    {
+      "name": "Nagai",
+      "name_en": "Nagai",
+      "pref": "不明",
+      "lat": 38.103611,
+      "lon": 140.035004
+    },
+    {
+      "name": "Motomiya",
+      "name_en": "Motomiya",
+      "pref": "不明",
+      "lat": 37.51667,
+      "lon": 140.399994
+    },
+    {
+      "name": "Motegi",
+      "name_en": "Motegi",
+      "pref": "不明",
+      "lat": 36.51667,
+      "lon": 140.183334
+    },
+    {
+      "name": "Moriya",
+      "name_en": "Moriya",
+      "pref": "不明",
+      "lat": 35.933331,
+      "lon": 140.0
+    },
+    {
+      "name": "Morioka",
+      "name_en": "Morioka",
+      "pref": "不明",
+      "lat": 39.703609,
+      "lon": 141.152496
+    },
+    {
+      "name": "Mooka",
+      "name_en": "Mooka",
+      "pref": "不明",
+      "lat": 36.433331,
+      "lon": 140.016663
+    },
+    {
+      "name": "Momiyama",
+      "name_en": "Momiyama",
+      "pref": "不明",
+      "lat": 36.183331,
+      "lon": 140.550003
+    },
+    {
+      "name": "Mobara",
+      "name_en": "Mobara",
+      "pref": "不明",
+      "lat": 35.416672,
+      "lon": 140.300003
+    },
+    {
+      "name": "Mizusawa",
+      "name_en": "Mizusawa",
+      "pref": "不明",
+      "lat": 39.133331,
+      "lon": 141.133331
+    },
+    {
+      "name": "Mizuki",
+      "name_en": "Mizuki",
+      "pref": "不明",
+      "lat": 36.51667,
+      "lon": 140.633331
+    },
+    {
+      "name": "Miyako",
+      "name_en": "Miyako",
+      "pref": "不明",
+      "lat": 39.636669,
+      "lon": 141.952499
+    },
+    {
+      "name": "Miyagi-ken",
+      "name_en": "Miyagi-ken",
+      "pref": "不明",
+      "lat": 38.449379,
+      "lon": 140.926239
+    },
+    {
+      "name": "Mito",
+      "name_en": "Mito",
+      "pref": "不明",
+      "lat": 36.341389,
+      "lon": 140.446671
+    },
+    {
+      "name": "Minami",
+      "name_en": "Minami",
+      "pref": "不明",
+      "lat": 24.783331,
+      "lon": 141.316666
+    },
+    {
+      "name": "Miharu",
+      "name_en": "Miharu",
+      "pref": "不明",
+      "lat": 37.433331,
+      "lon": 140.483337
+    },
+    {
+      "name": "Matsushima",
+      "name_en": "Matsushima",
+      "pref": "不明",
+      "lat": 38.373569,
+      "lon": 141.06105
+    },
+    {
+      "name": "Mashiko",
+      "name_en": "Mashiko",
+      "pref": "不明",
+      "lat": 36.466671,
+      "lon": 140.100006
+    },
+    {
+      "name": "Marumori",
+      "name_en": "Marumori",
+      "pref": "不明",
+      "lat": 37.916672,
+      "lon": 140.766663
+    },
+    {
+      "name": "Makabe",
+      "name_en": "Makabe",
+      "pref": "不明",
+      "lat": 36.26667,
+      "lon": 140.100006
+    },
+    {
+      "name": "Maebara",
+      "name_en": "Maebara",
+      "pref": "不明",
+      "lat": 35.099998,
+      "lon": 140.100006
+    },
+    {
+      "name": "Kurosawajiri",
+      "name_en": "Kurosawajiri",
+      "pref": "不明",
+      "lat": 39.283329,
+      "lon": 141.116669
+    },
+    {
+      "name": "Kuroiso",
+      "name_en": "Kuroiso",
+      "pref": "不明",
+      "lat": 36.966671,
+      "lon": 140.050003
+    },
+    {
+      "name": "Kōriyama",
+      "name_en": "Kōriyama",
+      "pref": "不明",
+      "lat": 37.400002,
+      "lon": 140.383331
+    },
+    {
+      "name": "Koori",
+      "name_en": "Koori",
+      "pref": "不明",
+      "lat": 37.833328,
+      "lon": 140.516663
+    },
+    {
+      "name": "Koibuchi",
+      "name_en": "Koibuchi",
+      "pref": "不明",
+      "lat": 36.349998,
+      "lon": 140.366669
+    },
+    {
+      "name": "Kogota",
+      "name_en": "Kogota",
+      "pref": "不明",
+      "lat": 38.549999,
+      "lon": 141.050003
+    },
+    {
+      "name": "Kita-sannomaru",
+      "name_en": "Kita-sannomaru",
+      "pref": "不明",
+      "lat": 36.366669,
+      "lon": 140.483337
+    },
+    {
+      "name": "Kitakubo",
+      "name_en": "Kitakubo",
+      "pref": "不明",
+      "lat": 36.73333,
+      "lon": 140.716675
+    },
+    {
+      "name": "Kitakami",
+      "name_en": "Kitakami",
+      "pref": "不明",
+      "lat": 39.283329,
+      "lon": 141.116669
+    },
+    {
+      "name": "Kitaibaraki",
+      "name_en": "Kitaibaraki",
+      "pref": "不明",
+      "lat": 36.783329,
+      "lon": 140.75
+    },
+    {
+      "name": "Kitagama",
+      "name_en": "Kitagama",
+      "pref": "不明",
+      "lat": 38.13472,
+      "lon": 140.935287
+    },
+    {
+      "name": "Kamogawa",
+      "name_en": "Kamogawa",
+      "pref": "不明",
+      "lat": 35.099998,
+      "lon": 140.100006
+    },
+    {
+      "name": "Katsuura",
+      "name_en": "Katsuura",
+      "pref": "不明",
+      "lat": 35.133331,
+      "lon": 140.300003
+    },
+    {
+      "name": "Katsuta",
+      "name_en": "Katsuta",
+      "pref": "不明",
+      "lat": 36.383331,
+      "lon": 140.533325
+    },
+    {
+      "name": "Katori-shi",
+      "name_en": "Katori-shi",
+      "pref": "不明",
+      "lat": 35.897671,
+      "lon": 140.499435
+    },
+    {
+      "name": "Kasumichō",
+      "name_en": "Kasumichō",
+      "pref": "不明",
+      "lat": 38.25,
+      "lon": 140.333328
+    },
+    {
+      "name": "Kasama",
+      "name_en": "Kasama",
+      "pref": "不明",
+      "lat": 36.383331,
+      "lon": 140.266663
+    },
+    {
+      "name": "Karasuyama",
+      "name_en": "Karasuyama",
+      "pref": "不明",
+      "lat": 36.650002,
+      "lon": 140.149994
+    },
+    {
+      "name": "Kanegasaki",
+      "name_en": "Kanegasaki",
+      "pref": "不明",
+      "lat": 39.200001,
+      "lon": 141.116669
+    },
+    {
+      "name": "Kaminoyama",
+      "name_en": "Kaminoyama",
+      "pref": "不明",
+      "lat": 38.153889,
+      "lon": 140.273605
+    },
+    {
+      "name": "Kamaishi",
+      "name_en": "Kamaishi",
+      "pref": "不明",
+      "lat": 39.26667,
+      "lon": 141.883331
+    },
+    {
+      "name": "Kakunodatemachi",
+      "name_en": "Kakunodatemachi",
+      "pref": "不明",
+      "lat": 39.583328,
+      "lon": 140.566666
+    },
+    {
+      "name": "Kakuda",
+      "name_en": "Kakuda",
+      "pref": "不明",
+      "lat": 37.966671,
+      "lon": 140.783325
+    },
+    {
+      "name": "Kadonowakichō",
+      "name_en": "Kadonowakichō",
+      "pref": "不明",
+      "lat": 38.416672,
+      "lon": 141.300003
+    },
+    {
+      "name": "Jinmachi",
+      "name_en": "Jinmachi",
+      "pref": "不明",
+      "lat": 38.400002,
+      "lon": 140.383331
+    },
+    {
+      "name": "Iwate",
+      "name_en": "Iwate",
+      "pref": "不明",
+      "lat": 39.596008,
+      "lon": 141.359711
+    },
+    {
+      "name": "Iwase",
+      "name_en": "Iwase",
+      "pref": "不明",
+      "lat": 36.349998,
+      "lon": 140.100006
+    },
+    {
+      "name": "Iwanuma",
+      "name_en": "Iwanuma",
+      "pref": "不明",
+      "lat": 38.104721,
+      "lon": 140.859436
+    },
+    {
+      "name": "Iwaki",
+      "name_en": "Iwaki",
+      "pref": "不明",
+      "lat": 37.049999,
+      "lon": 140.883331
+    },
+    {
+      "name": "Iwaizumi",
+      "name_en": "Iwaizumi",
+      "pref": "不明",
+      "lat": 39.849998,
+      "lon": 141.800003
+    },
+    {
+      "name": "Iwawada",
+      "name_en": "Iwawada",
+      "pref": "不明",
+      "lat": 35.183331,
+      "lon": 140.366669
+    },
+    {
+      "name": "Itako",
+      "name_en": "Itako",
+      "pref": "不明",
+      "lat": 35.933331,
+      "lon": 140.550003
+    },
+    {
+      "name": "Isomura",
+      "name_en": "Isomura",
+      "pref": "不明",
+      "lat": 35.083328,
+      "lon": 140.100006
+    },
+    {
+      "name": "Ishiwaki",
+      "name_en": "Ishiwaki",
+      "pref": "不明",
+      "lat": 39.383331,
+      "lon": 140.050003
+    },
+    {
+      "name": "Ishioka",
+      "name_en": "Ishioka",
+      "pref": "不明",
+      "lat": 36.183331,
+      "lon": 140.266663
+    },
+    {
+      "name": "Ishinomaki",
+      "name_en": "Ishinomaki",
+      "pref": "不明",
+      "lat": 38.416672,
+      "lon": 141.300003
+    },
+    {
+      "name": "Ishikawa",
+      "name_en": "Ishikawa",
+      "pref": "不明",
+      "lat": 37.150002,
+      "lon": 140.449997
+    },
+    {
+      "name": "Inawashiro",
+      "name_en": "Inawashiro",
+      "pref": "不明",
+      "lat": 37.566669,
+      "lon": 140.116669
+    },
+    {
+      "name": "Ichinoseki",
+      "name_en": "Ichinoseki",
+      "pref": "不明",
+      "lat": 38.916672,
+      "lon": 141.133331
+    },
+    {
+      "name": "Ichihara",
+      "name_en": "Ichihara",
+      "pref": "不明",
+      "lat": 35.51667,
+      "lon": 140.083328
+    },
+    {
+      "name": "Ibaraki",
+      "name_en": "Ibaraki",
+      "pref": "不明",
+      "lat": 36.310349,
+      "lon": 140.316147
+    },
+    {
+      "name": "Hokota",
+      "name_en": "Hokota",
+      "pref": "不明",
+      "lat": 36.150002,
+      "lon": 140.516663
+    },
+    {
+      "name": "Hobaramachi",
+      "name_en": "Hobaramachi",
+      "pref": "不明",
+      "lat": 37.816669,
+      "lon": 140.550003
+    },
+    {
+      "name": "Hitachi",
+      "name_en": "Hitachi",
+      "pref": "不明",
+      "lat": 36.599998,
+      "lon": 140.649994
+    },
+    {
+      "name": "Higashine",
+      "name_en": "Higashine",
+      "pref": "不明",
+      "lat": 38.438889,
+      "lon": 140.400558
+    },
+    {
+      "name": "Higashimiyanome",
+      "name_en": "Higashimiyanome",
+      "pref": "不明",
+      "lat": 39.416672,
+      "lon": 141.133331
+    },
+    {
+      "name": "Hasaki",
+      "name_en": "Hasaki",
+      "pref": "不明",
+      "lat": 35.73333,
+      "lon": 140.833328
+    },
+    {
+      "name": "Hanawa",
+      "name_en": "Hanawa",
+      "pref": "不明",
+      "lat": 36.950001,
+      "lon": 140.416672
+    },
+    {
+      "name": "Hanamaki",
+      "name_en": "Hanamaki",
+      "pref": "不明",
+      "lat": 39.383331,
+      "lon": 141.116669
+    },
+    {
+      "name": "Gojōnome",
+      "name_en": "Gojōnome",
+      "pref": "不明",
+      "lat": 39.933331,
+      "lon": 140.116669
+    },
+    {
+      "name": "Futto",
+      "name_en": "Futto",
+      "pref": "不明",
+      "lat": 35.966671,
+      "lon": 140.366669
+    },
+    {
+      "name": "Fusa",
+      "name_en": "Fusa",
+      "pref": "不明",
+      "lat": 35.849998,
+      "lon": 140.133331
+    },
+    {
+      "name": "Furukawa",
+      "name_en": "Furukawa",
+      "pref": "不明",
+      "lat": 38.571671,
+      "lon": 140.955566
+    },
+    {
+      "name": "Funehikimachi-funehiki",
+      "name_en": "Funehikimachi-funehiki",
+      "pref": "不明",
+      "lat": 37.433331,
+      "lon": 140.583328
+    },
+    {
+      "name": "Funaishikawa",
+      "name_en": "Funaishikawa",
+      "pref": "不明",
+      "lat": 36.466671,
+      "lon": 140.566666
+    },
+    {
+      "name": "Funagata",
+      "name_en": "Funagata",
+      "pref": "不明",
+      "lat": 38.688889,
+      "lon": 140.319443
+    },
+    {
+      "name": "Fukushima-ken",
+      "name_en": "Fukushima-ken",
+      "pref": "不明",
+      "lat": 37.38158,
+      "lon": 140.221985
+    },
+    {
+      "name": "Fukushima",
+      "name_en": "Fukushima",
+      "pref": "不明",
+      "lat": 37.75,
+      "lon": 140.467773
+    },
+    {
+      "name": "Fujishiro",
+      "name_en": "Fujishiro",
+      "pref": "不明",
+      "lat": 35.916672,
+      "lon": 140.116669
+    },
+    {
+      "name": "Edosaki",
+      "name_en": "Edosaki",
+      "pref": "不明",
+      "lat": 35.950001,
+      "lon": 140.316666
+    },
+    {
+      "name": "Daigo",
+      "name_en": "Daigo",
+      "pref": "不明",
+      "lat": 36.76667,
+      "lon": 140.350006
+    },
+    {
+      "name": "Chōnan",
+      "name_en": "Chōnan",
+      "pref": "不明",
+      "lat": 35.400002,
+      "lon": 140.233337
+    },
+    {
+      "name": "Chiba-ken",
+      "name_en": "Chiba-ken",
+      "pref": "不明",
+      "lat": 35.605061,
+      "lon": 140.123337
+    },
+    {
+      "name": "Chiba",
+      "name_en": "Chiba",
+      "pref": "不明",
+      "lat": 35.604721,
+      "lon": 140.123337
+    },
+    {
+      "name": "Asahi",
+      "name_en": "Asahi",
+      "pref": "不明",
+      "lat": 35.716671,
+      "lon": 140.649994
+    },
+    {
+      "name": "Ami",
+      "name_en": "Ami",
+      "pref": "不明",
+      "lat": 36.033329,
+      "lon": 140.199997
+    },
+    {
+      "name": "Akita",
+      "name_en": "Akita",
+      "pref": "不明",
+      "lat": 39.75251,
+      "lon": 140.40538
+    },
+    {
+      "name": "Akita",
+      "name_en": "Akita",
+      "pref": "不明",
+      "lat": 39.716671,
+      "lon": 140.116669
+    },
+    {
+      "name": "Akanuma",
+      "name_en": "Akanuma",
+      "pref": "不明",
+      "lat": 37.366669,
+      "lon": 140.433334
+    },
+    {
+      "name": "Abiko",
+      "name_en": "Abiko",
+      "pref": "不明",
+      "lat": 35.866669,
+      "lon": 140.016663
+    },
+    {
+      "name": "Kahoku",
+      "name_en": "Kahoku",
+      "pref": "不明",
+      "lat": 38.51667,
+      "lon": 141.321671
+    },
+    {
+      "name": "Akita Shi",
+      "name_en": "Akita Shi",
+      "pref": "不明",
+      "lat": 39.71806,
+      "lon": 140.103333
+    },
+    {
+      "name": "Nishikawa",
+      "name_en": "Nishikawa",
+      "pref": "不明",
+      "lat": 38.926109,
+      "lon": 140.176392
+    },
+    {
+      "name": "Mazawa",
+      "name_en": "Mazawa",
+      "pref": "不明",
+      "lat": 38.433891,
+      "lon": 140.124176
+    },
+    {
+      "name": "Motodate",
+      "name_en": "Motodate",
+      "pref": "不明",
+      "lat": 38.35944,
+      "lon": 140.290283
+    },
+    {
+      "name": "Yamanobe",
+      "name_en": "Yamanobe",
+      "pref": "不明",
+      "lat": 38.291111,
+      "lon": 140.266663
+    },
+    {
+      "name": "Aone-onsen",
+      "name_en": "Aone-onsen",
+      "pref": "不明",
+      "lat": 38.141941,
+      "lon": 140.533615
+    },
+    {
+      "name": "Motomachi",
+      "name_en": "Motomachi",
+      "pref": "不明",
+      "lat": 43.822781,
+      "lon": 144.104446
+    },
+    {
+      "name": "Zenikamechō",
+      "name_en": "Zenikamechō",
+      "pref": "不明",
+      "lat": 41.76667,
+      "lon": 140.833328
+    },
+    {
+      "name": "Yuni",
+      "name_en": "Yuni",
+      "pref": "不明",
+      "lat": 43.007221,
+      "lon": 141.784439
+    },
+    {
+      "name": "Yūbari",
+      "name_en": "Yūbari",
+      "pref": "不明",
+      "lat": 43.037781,
+      "lon": 141.957779
+    },
+    {
+      "name": "Yokohama",
+      "name_en": "Yokohama",
+      "pref": "不明",
+      "lat": 41.083328,
+      "lon": 141.25
+    },
+    {
+      "name": "Yakumo",
+      "name_en": "Yakumo",
+      "pref": "不明",
+      "lat": 42.253891,
+      "lon": 140.269165
+    },
+    {
+      "name": "Wassamu",
+      "name_en": "Wassamu",
+      "pref": "不明",
+      "lat": 44.020828,
+      "lon": 142.417786
+    },
+    {
+      "name": "Wakkanai",
+      "name_en": "Wakkanai",
+      "pref": "不明",
+      "lat": 45.409439,
+      "lon": 141.673889
+    },
+    {
+      "name": "Utashinai",
+      "name_en": "Utashinai",
+      "pref": "不明",
+      "lat": 43.51667,
+      "lon": 142.050003
+    },
+    {
+      "name": "Uryū",
+      "name_en": "Uryū",
+      "pref": "不明",
+      "lat": 43.639439,
+      "lon": 141.887787
+    },
+    {
+      "name": "Urakawa",
+      "name_en": "Urakawa",
+      "pref": "不明",
+      "lat": 42.15556,
+      "lon": 142.783615
+    },
+    {
+      "name": "Honchō",
+      "name_en": "Honchō",
+      "pref": "不明",
+      "lat": 42.80611,
+      "lon": 143.654724
+    },
+    {
+      "name": "Tsukigata",
+      "name_en": "Tsukigata",
+      "pref": "不明",
+      "lat": 43.335281,
+      "lon": 141.669434
+    },
+    {
+      "name": "Honchō",
+      "name_en": "Honchō",
+      "pref": "不明",
+      "lat": 43.703892,
+      "lon": 144.021103
+    },
+    {
+      "name": "Toyokoro",
+      "name_en": "Toyokoro",
+      "pref": "不明",
+      "lat": 42.816669,
+      "lon": 143.533325
+    },
+    {
+      "name": "Toyohira-ku",
+      "name_en": "Toyohira-ku",
+      "pref": "不明",
+      "lat": 43.049999,
+      "lon": 141.366669
+    },
+    {
+      "name": "Tomioka",
+      "name_en": "Tomioka",
+      "pref": "不明",
+      "lat": 43.48333,
+      "lon": 142.183334
+    },
+    {
+      "name": "Tomamae",
+      "name_en": "Tomamae",
+      "pref": "不明",
+      "lat": 44.305279,
+      "lon": 141.654434
+    },
+    {
+      "name": "Tomakomai",
+      "name_en": "Tomakomai",
+      "pref": "不明",
+      "lat": 42.63694,
+      "lon": 141.603333
+    },
+    {
+      "name": "Tokorochō-higashihama",
+      "name_en": "Tokorochō-higashihama",
+      "pref": "不明",
+      "lat": 44.118061,
+      "lon": 144.073608
+    },
+    {
+      "name": "Tōbetsu",
+      "name_en": "Tōbetsu",
+      "pref": "不明",
+      "lat": 43.216942,
+      "lon": 141.516937
+    },
+    {
+      "name": "Teshio",
+      "name_en": "Teshio",
+      "pref": "不明",
+      "lat": 44.883888,
+      "lon": 141.743057
+    },
+    {
+      "name": "Teshikaga",
+      "name_en": "Teshikaga",
+      "pref": "不明",
+      "lat": 43.483608,
+      "lon": 144.456116
+    },
+    {
+      "name": "Mutsu",
+      "name_en": "Mutsu",
+      "pref": "不明",
+      "lat": 41.28944,
+      "lon": 141.216934
+    },
+    {
+      "name": "Takko",
+      "name_en": "Takko",
+      "pref": "不明",
+      "lat": 40.336109,
+      "lon": 141.151672
+    },
+    {
+      "name": "Takikawa",
+      "name_en": "Takikawa",
+      "pref": "不明",
+      "lat": 43.55278,
+      "lon": 141.906387
+    },
+    {
+      "name": "Takanosu",
+      "name_en": "Takanosu",
+      "pref": "不明",
+      "lat": 40.221939,
+      "lon": 140.369446
+    },
+    {
+      "name": "Taiki",
+      "name_en": "Taiki",
+      "pref": "不明",
+      "lat": 42.490559,
+      "lon": 143.274719
+    },
+    {
+      "name": "Suttsu",
+      "name_en": "Suttsu",
+      "pref": "不明",
+      "lat": 42.788059,
+      "lon": 140.225555
+    },
+    {
+      "name": "Sunagawa",
+      "name_en": "Sunagawa",
+      "pref": "不明",
+      "lat": 43.486389,
+      "lon": 141.905563
+    },
+    {
+      "name": "Sōbetsu",
+      "name_en": "Sōbetsu",
+      "pref": "不明",
+      "lat": 42.555828,
+      "lon": 140.886108
+    },
+    {
+      "name": "Shizunai-furukawachō",
+      "name_en": "Shizunai-furukawachō",
+      "pref": "不明",
+      "lat": 42.333889,
+      "lon": 142.366943
+    },
+    {
+      "name": "Shiraoi",
+      "name_en": "Shiraoi",
+      "pref": "不明",
+      "lat": 42.549999,
+      "lon": 141.350006
+    },
+    {
+      "name": "Shintoku",
+      "name_en": "Shintoku",
+      "pref": "不明",
+      "lat": 43.074718,
+      "lon": 142.834717
+    },
+    {
+      "name": "Shimukappu",
+      "name_en": "Shimukappu",
+      "pref": "不明",
+      "lat": 43.0,
+      "lon": 142.416672
+    },
+    {
+      "name": "Masukawachō",
+      "name_en": "Masukawachō",
+      "pref": "不明",
+      "lat": 41.816669,
+      "lon": 140.850006
+    },
+    {
+      "name": "Shinshimokawa",
+      "name_en": "Shinshimokawa",
+      "pref": "不明",
+      "lat": 44.28944,
+      "lon": 142.636383
+    },
+    {
+      "name": "Shimo-ihira",
+      "name_en": "Shimo-ihira",
+      "pref": "不明",
+      "lat": 42.716671,
+      "lon": 143.266663
+    },
+    {
+      "name": "Shimo-furano",
+      "name_en": "Shimo-furano",
+      "pref": "不明",
+      "lat": 43.349998,
+      "lon": 142.383331
+    },
+    {
+      "name": "Shimizu",
+      "name_en": "Shimizu",
+      "pref": "不明",
+      "lat": 43.006111,
+      "lon": 142.88472
+    },
+    {
+      "name": "Shikabe",
+      "name_en": "Shikabe",
+      "pref": "不明",
+      "lat": 42.025829,
+      "lon": 140.821106
+    },
+    {
+      "name": "Shihoro",
+      "name_en": "Shihoro",
+      "pref": "不明",
+      "lat": 43.166672,
+      "lon": 143.25
+    },
+    {
+      "name": "Shichinohe",
+      "name_en": "Shichinohe",
+      "pref": "不明",
+      "lat": 40.691109,
+      "lon": 141.154724
+    },
+    {
+      "name": "Shibetsu",
+      "name_en": "Shibetsu",
+      "pref": "不明",
+      "lat": 43.658989,
+      "lon": 145.131973
+    },
+    {
+      "name": "Shibecha",
+      "name_en": "Shibecha",
+      "pref": "不明",
+      "lat": 43.292782,
+      "lon": 144.600555
+    },
+    {
+      "name": "Honmachi",
+      "name_en": "Honmachi",
+      "pref": "不明",
+      "lat": 43.90556,
+      "lon": 144.659439
+    },
+    {
+      "name": "Sarufutsu",
+      "name_en": "Sarufutsu",
+      "pref": "不明",
+      "lat": 45.256939,
+      "lon": 142.200287
+    },
+    {
+      "name": "Sapporo",
+      "name_en": "Sapporo",
+      "pref": "不明",
+      "lat": 43.064171,
+      "lon": 141.346939
+    },
+    {
+      "name": "Sannohe",
+      "name_en": "Sannohe",
+      "pref": "不明",
+      "lat": 40.373058,
+      "lon": 141.257217
+    },
+    {
+      "name": "Sanbongi",
+      "name_en": "Sanbongi",
+      "pref": "不明",
+      "lat": 40.599998,
+      "lon": 141.216675
+    },
+    {
+      "name": "Honchō",
+      "name_en": "Honchō",
+      "pref": "不明",
+      "lat": 42.121941,
+      "lon": 142.919174
+    },
+    {
+      "name": "Rusutsu",
+      "name_en": "Rusutsu",
+      "pref": "不明",
+      "lat": 42.734169,
+      "lon": 140.872787
+    },
+    {
+      "name": "Rumoi",
+      "name_en": "Rumoi",
+      "pref": "不明",
+      "lat": 43.934441,
+      "lon": 141.642776
+    },
+    {
+      "name": "Rikubetsu",
+      "name_en": "Rikubetsu",
+      "pref": "不明",
+      "lat": 43.466671,
+      "lon": 143.738068
+    },
+    {
+      "name": "Retsureppu",
+      "name_en": "Retsureppu",
+      "pref": "不明",
+      "lat": 43.116669,
+      "lon": 141.366669
+    },
+    {
+      "name": "Rausu",
+      "name_en": "Rausu",
+      "pref": "不明",
+      "lat": 44.018059,
+      "lon": 145.191971
+    },
+    {
+      "name": "Bifuka",
+      "name_en": "Bifuka",
+      "pref": "不明",
+      "lat": 44.475281,
+      "lon": 142.343063
+    },
+    {
+      "name": "Pippu",
+      "name_en": "Pippu",
+      "pref": "不明",
+      "lat": 43.869438,
+      "lon": 142.473892
+    },
+    {
+      "name": "Otofuke",
+      "name_en": "Otofuke",
+      "pref": "不明",
+      "lat": 42.991669,
+      "lon": 143.200287
+    },
+    {
+      "name": "Otaru",
+      "name_en": "Otaru",
+      "pref": "不明",
+      "lat": 43.189442,
+      "lon": 141.002213
+    },
+    {
+      "name": "Ōmagari",
+      "name_en": "Ōmagari",
+      "pref": "不明",
+      "lat": 42.968891,
+      "lon": 141.473892
+    },
+    {
+      "name": "Oku-ikutahara",
+      "name_en": "Oku-ikutahara",
+      "pref": "不明",
+      "lat": 43.849998,
+      "lon": 143.516663
+    },
+    {
+      "name": "Oketo",
+      "name_en": "Oketo",
+      "pref": "不明",
+      "lat": 43.671391,
+      "lon": 143.589172
+    },
+    {
+      "name": "Ōdate",
+      "name_en": "Ōdate",
+      "pref": "不明",
+      "lat": 40.268608,
+      "lon": 140.568329
+    },
+    {
+      "name": "Obihiro",
+      "name_en": "Obihiro",
+      "pref": "不明",
+      "lat": 42.917221,
+      "lon": 143.204437
+    },
+    {
+      "name": "Kōtoku",
+      "name_en": "Kōtoku",
+      "pref": "不明",
+      "lat": 42.51667,
+      "lon": 143.149994
+    },
+    {
+      "name": "Noshiro",
+      "name_en": "Noshiro",
+      "pref": "不明",
+      "lat": 40.203892,
+      "lon": 140.02417
+    },
+    {
+      "name": "Noboribetsu",
+      "name_en": "Noboribetsu",
+      "pref": "不明",
+      "lat": 42.451389,
+      "lon": 141.173065
+    },
+    {
+      "name": "Nishikioka",
+      "name_en": "Nishikioka",
+      "pref": "不明",
+      "lat": 42.599998,
+      "lon": 141.483337
+    },
+    {
+      "name": "Nishi-kagura",
+      "name_en": "Nishi-kagura",
+      "pref": "不明",
+      "lat": 43.683331,
+      "lon": 142.399994
+    },
+    {
+      "name": "Nemuro",
+      "name_en": "Nemuro",
+      "pref": "不明",
+      "lat": 43.323608,
+      "lon": 145.574997
+    },
+    {
+      "name": "Nayoro",
+      "name_en": "Nayoro",
+      "pref": "不明",
+      "lat": 44.350559,
+      "lon": 142.457779
+    },
+    {
+      "name": "Honchō",
+      "name_en": "Honchō",
+      "pref": "不明",
+      "lat": 41.883331,
+      "lon": 140.683334
+    },
+    {
+      "name": "Namioka",
+      "name_en": "Namioka",
+      "pref": "不明",
+      "lat": 40.707218,
+      "lon": 140.589447
+    },
+    {
+      "name": "Nakanosawa",
+      "name_en": "Nakanosawa",
+      "pref": "不明",
+      "lat": 42.966671,
+      "lon": 141.550003
+    },
+    {
+      "name": "Mobetsu",
+      "name_en": "Mobetsu",
+      "pref": "不明",
+      "lat": 44.283329,
+      "lon": 143.366669
+    },
+    {
+      "name": "Nakagawa",
+      "name_en": "Nakagawa",
+      "pref": "不明",
+      "lat": 44.78611,
+      "lon": 142.057785
+    },
+    {
+      "name": "Naitōbokujō",
+      "name_en": "Naitōbokujō",
+      "pref": "不明",
+      "lat": 43.049999,
+      "lon": 144.216675
+    },
+    {
+      "name": "Naie",
+      "name_en": "Naie",
+      "pref": "不明",
+      "lat": 43.418331,
+      "lon": 141.887787
+    },
+    {
+      "name": "Muroran",
+      "name_en": "Muroran",
+      "pref": "不明",
+      "lat": 42.317219,
+      "lon": 140.988068
+    },
+    {
+      "name": "Moseushi",
+      "name_en": "Moseushi",
+      "pref": "不明",
+      "lat": 43.687778,
+      "lon": 141.959167
+    },
+    {
+      "name": "Mombetsu",
+      "name_en": "Mombetsu",
+      "pref": "不明",
+      "lat": 44.352501,
+      "lon": 143.352493
+    },
+    {
+      "name": "Moiwashita",
+      "name_en": "Moiwashita",
+      "pref": "不明",
+      "lat": 43.0,
+      "lon": 141.350006
+    },
+    {
+      "name": "Misawa",
+      "name_en": "Misawa",
+      "pref": "不明",
+      "lat": 42.75,
+      "lon": 141.716675
+    },
+    {
+      "name": "Misawa",
+      "name_en": "Misawa",
+      "pref": "不明",
+      "lat": 40.683609,
+      "lon": 141.359726
+    },
+    {
+      "name": "Yoichi",
+      "name_en": "Yoichi",
+      "pref": "不明",
+      "lat": 43.203892,
+      "lon": 140.770279
+    },
+    {
+      "name": "Memuro-minami",
+      "name_en": "Memuro-minami",
+      "pref": "不明",
+      "lat": 42.90667,
+      "lon": 143.050568
+    },
+    {
+      "name": "Matsumae",
+      "name_en": "Matsumae",
+      "pref": "不明",
+      "lat": 41.423889,
+      "lon": 140.104996
+    },
+    {
+      "name": "Makubetsu",
+      "name_en": "Makubetsu",
+      "pref": "不明",
+      "lat": 45.371391,
+      "lon": 141.821106
+    },
+    {
+      "name": "Makkari",
+      "name_en": "Makkari",
+      "pref": "不明",
+      "lat": 42.757778,
+      "lon": 140.802505
+    },
+    {
+      "name": "Tokorochō-kyōritsu",
+      "name_en": "Tokorochō-kyōritsu",
+      "pref": "不明",
+      "lat": 44.084438,
+      "lon": 144.053894
+    },
+    {
+      "name": "Kyōgoku",
+      "name_en": "Kyōgoku",
+      "pref": "不明",
+      "lat": 42.855,
+      "lon": 140.886932
+    },
+    {
+      "name": "Kutchan",
+      "name_en": "Kutchan",
+      "pref": "不明",
+      "lat": 42.901112,
+      "lon": 140.740555
+    },
+    {
+      "name": "Kushiro",
+      "name_en": "Kushiro",
+      "pref": "不明",
+      "lat": 42.974998,
+      "lon": 144.374725
+    },
+    {
+      "name": "Midori",
+      "name_en": "Midori",
+      "pref": "不明",
+      "lat": 45.400002,
+      "lon": 141.683334
+    },
+    {
+      "name": "Kuromatsunai",
+      "name_en": "Kuromatsunai",
+      "pref": "不明",
+      "lat": 42.66806,
+      "lon": 140.306107
+    },
+    {
+      "name": "Kuroishi",
+      "name_en": "Kuroishi",
+      "pref": "不明",
+      "lat": 40.638889,
+      "lon": 140.592224
+    },
+    {
+      "name": "Motomachi",
+      "name_en": "Motomachi",
+      "pref": "不明",
+      "lat": 43.720558,
+      "lon": 143.737213
+    },
+    {
+      "name": "Kuji",
+      "name_en": "Kuji",
+      "pref": "不明",
+      "lat": 40.187778,
+      "lon": 141.76889
+    },
+    {
+      "name": "Koshimizu",
+      "name_en": "Koshimizu",
+      "pref": "不明",
+      "lat": 43.853329,
+      "lon": 144.459717
+    },
+    {
+      "name": "Hiranai",
+      "name_en": "Hiranai",
+      "pref": "不明",
+      "lat": 40.92028,
+      "lon": 140.955566
+    },
+    {
+      "name": "Koetoi",
+      "name_en": "Koetoi",
+      "pref": "不明",
+      "lat": 45.40139,
+      "lon": 141.752777
+    },
+    {
+      "name": "Shimokizukuri",
+      "name_en": "Shimokizukuri",
+      "pref": "不明",
+      "lat": 40.80611,
+      "lon": 140.386108
+    },
+    {
+      "name": "Kitanuma",
+      "name_en": "Kitanuma",
+      "pref": "不明",
+      "lat": 40.566669,
+      "lon": 141.483337
+    },
+    {
+      "name": "Kitami",
+      "name_en": "Kitami",
+      "pref": "不明",
+      "lat": 43.803059,
+      "lon": 143.890823
+    },
+    {
+      "name": "Kikonai",
+      "name_en": "Kikonai",
+      "pref": "不明",
+      "lat": 41.673061,
+      "lon": 140.437225
+    },
+    {
+      "name": "Karumai",
+      "name_en": "Karumai",
+      "pref": "不明",
+      "lat": 40.321388,
+      "lon": 141.458328
+    },
+    {
+      "name": "Kareizawa",
+      "name_en": "Kareizawa",
+      "pref": "不明",
+      "lat": 40.716671,
+      "lon": 140.649994
+    },
+    {
+      "name": "Kamoenai",
+      "name_en": "Kamoenai",
+      "pref": "不明",
+      "lat": 43.138329,
+      "lon": 140.434433
+    },
+    {
+      "name": "Kamikita Kōzan",
+      "name_en": "Kamikita Kōzan",
+      "pref": "不明",
+      "lat": 40.736111,
+      "lon": 140.956116
+    },
+    {
+      "name": "Kawakami",
+      "name_en": "Kawakami",
+      "pref": "不明",
+      "lat": 43.150002,
+      "lon": 143.716675
+    },
+    {
+      "name": "Kamikawa",
+      "name_en": "Kamikawa",
+      "pref": "不明",
+      "lat": 43.84,
+      "lon": 142.771103
+    },
+    {
+      "name": "Kamiiso",
+      "name_en": "Kamiiso",
+      "pref": "不明",
+      "lat": 41.816669,
+      "lon": 140.649994
+    },
+    {
+      "name": "Kaiyō",
+      "name_en": "Kaiyō",
+      "pref": "不明",
+      "lat": 43.583328,
+      "lon": 144.916672
+    },
+    {
+      "name": "Iwanai",
+      "name_en": "Iwanai",
+      "pref": "不明",
+      "lat": 42.974442,
+      "lon": 140.508896
+    },
+    {
+      "name": "Iwamizawa",
+      "name_en": "Iwamizawa",
+      "pref": "不明",
+      "lat": 43.200279,
+      "lon": 141.75972
+    },
+    {
+      "name": "Itayanagi",
+      "name_en": "Itayanagi",
+      "pref": "不明",
+      "lat": 40.690281,
+      "lon": 140.45694
+    },
+    {
+      "name": "Ishikari",
+      "name_en": "Ishikari",
+      "pref": "不明",
+      "lat": 43.239719,
+      "lon": 141.353897
+    },
+    {
+      "name": "Ichinohe",
+      "name_en": "Ichinohe",
+      "pref": "不明",
+      "lat": 40.20694,
+      "lon": 141.301666
+    },
+    {
+      "name": "Horonobe",
+      "name_en": "Horonobe",
+      "pref": "不明",
+      "lat": 45.016941,
+      "lon": 141.851395
+    },
+    {
+      "name": "Horokanai",
+      "name_en": "Horokanai",
+      "pref": "不明",
+      "lat": 44.005829,
+      "lon": 142.154434
+    },
+    {
+      "name": "Hontomari",
+      "name_en": "Hontomari",
+      "pref": "不明",
+      "lat": 45.25,
+      "lon": 141.183334
+    },
+    {
+      "name": "Hongō",
+      "name_en": "Hongō",
+      "pref": "不明",
+      "lat": 43.89814,
+      "lon": 144.138733
+    },
+    {
+      "name": "Hokuryū",
+      "name_en": "Hokuryū",
+      "pref": "不明",
+      "lat": 43.783329,
+      "lon": 141.916672
+    },
+    {
+      "name": "Hokkaido",
+      "name_en": "Hokkaido",
+      "pref": "不明",
+      "lat": 43.06451,
+      "lon": 141.346603
+    },
+    {
+      "name": "Kitahiroshima",
+      "name_en": "Kitahiroshima",
+      "pref": "不明",
+      "lat": 42.97583,
+      "lon": 141.567215
+    },
+    {
+      "name": "Hirosaki",
+      "name_en": "Hirosaki",
+      "pref": "不明",
+      "lat": 40.59306,
+      "lon": 140.472504
+    },
+    {
+      "name": "Hiroo",
+      "name_en": "Hiroo",
+      "pref": "不明",
+      "lat": 42.28389,
+      "lon": 143.319168
+    },
+    {
+      "name": "Hinode",
+      "name_en": "Hinode",
+      "pref": "不明",
+      "lat": 43.066669,
+      "lon": 141.916672
+    },
+    {
+      "name": "Higashikawa",
+      "name_en": "Higashikawa",
+      "pref": "不明",
+      "lat": 44.23333,
+      "lon": 141.783325
+    },
+    {
+      "name": "Hidaka",
+      "name_en": "Hidaka",
+      "pref": "不明",
+      "lat": 42.87278,
+      "lon": 142.440567
+    },
+    {
+      "name": "Hashimoto",
+      "name_en": "Hashimoto",
+      "pref": "不明",
+      "lat": 40.816669,
+      "lon": 140.75
+    },
+    {
+      "name": "Hanawa",
+      "name_en": "Hanawa",
+      "pref": "不明",
+      "lat": 40.183609,
+      "lon": 140.787216
+    },
+    {
+      "name": "Hakodate",
+      "name_en": "Hakodate",
+      "pref": "不明",
+      "lat": 41.775829,
+      "lon": 140.736664
+    },
+    {
+      "name": "Hachinohe",
+      "name_en": "Hachinohe",
+      "pref": "不明",
+      "lat": 40.5,
+      "lon": 141.5
+    },
+    {
+      "name": "Hachinohe",
+      "name_en": "Hachinohe",
+      "pref": "不明",
+      "lat": 40.505001,
+      "lon": 141.491943
+    },
+    {
+      "name": "Hachimanchō",
+      "name_en": "Hachimanchō",
+      "pref": "不明",
+      "lat": 43.25,
+      "lon": 141.366669
+    },
+    {
+      "name": "Funadomari",
+      "name_en": "Funadomari",
+      "pref": "不明",
+      "lat": 45.436939,
+      "lon": 141.039719
+    },
+    {
+      "name": "Fukagawa",
+      "name_en": "Fukagawa",
+      "pref": "不明",
+      "lat": 43.708061,
+      "lon": 142.039169
+    },
+    {
+      "name": "Fujisaki",
+      "name_en": "Fujisaki",
+      "pref": "不明",
+      "lat": 40.650829,
+      "lon": 140.491394
+    },
+    {
+      "name": "Mukaiengaru",
+      "name_en": "Mukaiengaru",
+      "pref": "不明",
+      "lat": 44.054169,
+      "lon": 143.522217
+    },
+    {
+      "name": "Kanaura",
+      "name_en": "Kanaura",
+      "pref": "不明",
+      "lat": 44.707218,
+      "lon": 141.788895
+    },
+    {
+      "name": "Ebetsu",
+      "name_en": "Ebetsu",
+      "pref": "不明",
+      "lat": 43.108059,
+      "lon": 141.550568
+    },
+    {
+      "name": "Date",
+      "name_en": "Date",
+      "pref": "不明",
+      "lat": 42.46806,
+      "lon": 140.868057
+    },
+    {
+      "name": "Chitose",
+      "name_en": "Chitose",
+      "pref": "不明",
+      "lat": 42.819439,
+      "lon": 141.652222
+    },
+    {
+      "name": "Biratori",
+      "name_en": "Biratori",
+      "pref": "不明",
+      "lat": 42.583328,
+      "lon": 142.133331
+    },
+    {
+      "name": "Biei",
+      "name_en": "Biei",
+      "pref": "不明",
+      "lat": 43.584438,
+      "lon": 142.459717
+    },
+    {
+      "name": "Bibai",
+      "name_en": "Bibai",
+      "pref": "不明",
+      "lat": 43.324718,
+      "lon": 141.858612
+    },
+    {
+      "name": "Minato",
+      "name_en": "Minato",
+      "pref": "不明",
+      "lat": 45.400002,
+      "lon": 141.683334
+    },
+    {
+      "name": "Mashike",
+      "name_en": "Mashike",
+      "pref": "不明",
+      "lat": 43.85194,
+      "lon": 141.521393
+    },
+    {
+      "name": "Betsukai",
+      "name_en": "Betsukai",
+      "pref": "不明",
+      "lat": 43.375832,
+      "lon": 145.286667
+    },
+    {
+      "name": "Bannaguro",
+      "name_en": "Bannaguro",
+      "pref": "不明",
+      "lat": 43.16861,
+      "lon": 141.321106
+    },
+    {
+      "name": "Ashoro",
+      "name_en": "Ashoro",
+      "pref": "不明",
+      "lat": 43.237221,
+      "lon": 143.542786
+    },
+    {
+      "name": "Ashibetsu",
+      "name_en": "Ashibetsu",
+      "pref": "不明",
+      "lat": 43.50972,
+      "lon": 142.185562
+    },
+    {
+      "name": "Asahikawa",
+      "name_en": "Asahikawa",
+      "pref": "不明",
+      "lat": 43.76778,
+      "lon": 142.370285
+    },
+    {
+      "name": "Aomori-ken",
+      "name_en": "Aomori-ken",
+      "pref": "不明",
+      "lat": 40.7831,
+      "lon": 140.828278
+    },
+    {
+      "name": "Aomori",
+      "name_en": "Aomori",
+      "pref": "不明",
+      "lat": 40.82444,
+      "lon": 140.740005
+    },
+    {
+      "name": "Akkeshi",
+      "name_en": "Akkeshi",
+      "pref": "不明",
+      "lat": 43.035561,
+      "lon": 144.852493
+    },
+    {
+      "name": "Akaigawa",
+      "name_en": "Akaigawa",
+      "pref": "不明",
+      "lat": 43.083328,
+      "lon": 140.817215
+    },
+    {
+      "name": "Akabira",
+      "name_en": "Akabira",
+      "pref": "不明",
+      "lat": 43.551392,
+      "lon": 142.053055
+    },
+    {
+      "name": "Ajigasawa",
+      "name_en": "Ajigasawa",
+      "pref": "不明",
+      "lat": 40.774441,
+      "lon": 140.203064
+    },
+    {
+      "name": "Aibetsu",
+      "name_en": "Aibetsu",
+      "pref": "不明",
+      "lat": 43.906551,
+      "lon": 142.577484
+    },
+    {
+      "name": "Abira",
+      "name_en": "Abira",
+      "pref": "不明",
+      "lat": 42.816669,
+      "lon": 141.833328
+    },
+    {
+      "name": "Abashiri",
+      "name_en": "Abashiri",
+      "pref": "不明",
+      "lat": 44.021271,
+      "lon": 144.269714
+    },
+    {
+      "name": "Goshogawara",
+      "name_en": "Goshogawara",
+      "pref": "不明",
+      "lat": 40.80444,
+      "lon": 140.441391
+    },
+    {
+      "name": "Hamatonbetsu",
+      "name_en": "Hamatonbetsu",
+      "pref": "不明",
+      "lat": 45.133331,
+      "lon": 142.383331
+    },
+    {
+      "name": "Kawasakichō",
+      "name_en": "Kawasakichō",
+      "pref": "不明",
+      "lat": 35.65694,
+      "lon": 136.064438
+    },
+    {
+      "name": "Asahi",
+      "name_en": "Asahi",
+      "pref": "不明",
+      "lat": 34.06432,
+      "lon": 133.000488
+    },
+    {
+      "name": "Kōya",
+      "name_en": "Kōya",
+      "pref": "不明",
+      "lat": 34.21294,
+      "lon": 135.622437
+    },
+    {
+      "name": "Tsumuura",
+      "name_en": "Tsumuura",
+      "pref": "不明",
+      "lat": 34.450001,
+      "lon": 134.001663
+    },
+    {
+      "name": "Shōwajima",
+      "name_en": "Shōwajima",
+      "pref": "不明",
+      "lat": 35.571671,
+      "lon": 139.75
+    },
+    {
+      "name": "Chuo",
+      "name_en": "Chuo",
+      "pref": "不明",
+      "lat": 35.60778,
+      "lon": 140.126663
+    },
+    {
+      "name": "Mihama",
+      "name_en": "Mihama",
+      "pref": "不明",
+      "lat": 35.633331,
+      "lon": 140.059998
+    },
+    {
+      "name": "Inage",
+      "name_en": "Inage",
+      "pref": "不明",
+      "lat": 35.633331,
+      "lon": 140.083328
+    },
+    {
+      "name": "Kubota",
+      "name_en": "Kubota",
+      "pref": "不明",
+      "lat": 35.453331,
+      "lon": 140.008331
+    },
+    {
+      "name": "Kitasode",
+      "name_en": "Kitasode",
+      "pref": "不明",
+      "lat": 35.458328,
+      "lon": 140.008331
+    },
+    {
+      "name": "Kihoku-chō",
+      "name_en": "Kihoku-chō",
+      "pref": "不明",
+      "lat": 33.25592,
+      "lon": 132.683426
+    },
+    {
+      "name": "Nanto-shi",
+      "name_en": "Nanto-shi",
+      "pref": "不明",
+      "lat": 36.569221,
+      "lon": 136.911621
+    },
+    {
+      "name": "Kawage",
+      "name_en": "Kawage",
+      "pref": "不明",
+      "lat": 34.80447,
+      "lon": 136.546448
+    },
+    {
+      "name": "Asahi",
+      "name_en": "Asahi",
+      "pref": "不明",
+      "lat": 35.972591,
+      "lon": 136.124557
+    },
+    {
+      "name": "Neyagawa",
+      "name_en": "Neyagawa",
+      "pref": "不明",
+      "lat": 34.766151,
+      "lon": 135.627594
+    },
+    {
+      "name": "Owariasahi",
+      "name_en": "Owariasahi",
+      "pref": "不明",
+      "lat": 35.208,
+      "lon": 137.029999
+    },
+    {
+      "name": "Hitachi-Naka",
+      "name_en": "Hitachi-Naka",
+      "pref": "不明",
+      "lat": 36.396591,
+      "lon": 140.53479
+    },
+    {
+      "name": "Tsuchiura",
+      "name_en": "Tsuchiura",
+      "pref": "不明",
+      "lat": 36.090469,
+      "lon": 140.210464
+    },
+    {
+      "name": "Inashiki",
+      "name_en": "Inashiki",
+      "pref": "不明",
+      "lat": 35.956329,
+      "lon": 140.323563
+    },
+    {
+      "name": "Higashi-Hiroshima",
+      "name_en": "Higashi-Hiroshima",
+      "pref": "不明",
+      "lat": 34.434841,
+      "lon": 132.740616
+    },
+    {
+      "name": "Akikawa",
+      "name_en": "Akikawa",
+      "pref": "不明",
+      "lat": 35.728779,
+      "lon": 139.294144
+    },
+    {
+      "name": "Ōnojō",
+      "name_en": "Ōnojō",
+      "pref": "不明",
+      "lat": 33.535671,
+      "lon": 130.478607
+    },
+    {
+      "name": "Kasuga",
+      "name_en": "Kasuga",
+      "pref": "不明",
+      "lat": 33.526112,
+      "lon": 130.48703
+    },
+    {
+      "name": "Kamagaya-shi",
+      "name_en": "Kamagaya-shi",
+      "pref": "不明",
+      "lat": 35.776741,
+      "lon": 140.000748
+    },
+    {
+      "name": "Kita-Akita",
+      "name_en": "Kita-Akita",
+      "pref": "不明",
+      "lat": 40.199558,
+      "lon": 140.393875
+    },
+    {
+      "name": "Nisshin",
+      "name_en": "Nisshin",
+      "pref": "不明",
+      "lat": 35.165829,
+      "lon": 136.963974
+    },
+    {
+      "name": "Aisai",
+      "name_en": "Aisai",
+      "pref": "不明",
+      "lat": 35.163502,
+      "lon": 136.732224
+    },
+    {
+      "name": "Minokamo",
+      "name_en": "Minokamo",
+      "pref": "不明",
+      "lat": 35.481991,
+      "lon": 137.021667
+    },
+    {
+      "name": "Gujō",
+      "name_en": "Gujō",
+      "pref": "不明",
+      "lat": 35.736912,
+      "lon": 136.958527
+    },
+    {
+      "name": "Jōetsu",
+      "name_en": "Jōetsu",
+      "pref": "不明",
+      "lat": 37.148281,
+      "lon": 138.23642
+    },
+    {
+      "name": "Saitama",
+      "name_en": "Saitama",
+      "pref": "不明",
+      "lat": 35.90807,
+      "lon": 139.65657
+    },
+    {
+      "name": "Babagasu",
+      "name_en": "Babagasu",
+      "pref": "不明",
+      "lat": 32.852211,
+      "lon": 130.847504
+    },
+    {
+      "name": "Niseko Town",
+      "name_en": "Niseko Town",
+      "pref": "不明",
+      "lat": 42.778709,
+      "lon": 140.669037
+    },
+    {
+      "name": "Higashimurayama",
+      "name_en": "Higashimurayama",
+      "pref": "不明",
+      "lat": 35.754589,
+      "lon": 139.468521
+    },
+    {
+      "name": "Kunisaki-shi",
+      "name_en": "Kunisaki-shi",
+      "pref": "不明",
+      "lat": 33.56543,
+      "lon": 131.731567
+    },
+    {
+      "name": "Fujikawaguchiko",
+      "name_en": "Fujikawaguchiko",
+      "pref": "不明",
+      "lat": 35.48933,
+      "lon": 138.688324
+    },
+    {
+      "name": "御影",
+      "name_en": "御影",
+      "pref": "不明",
+      "lat": 34.724258,
+      "lon": 135.252426
+    },
+    {
+      "name": "芦屋",
+      "name_en": "芦屋",
+      "pref": "不明",
+      "lat": 34.733921,
+      "lon": 135.30719
+    },
+    {
+      "name": "松山市",
+      "name_en": "松山市",
+      "pref": "不明",
+      "lat": 33.83905,
+      "lon": 132.756729
+    },
+    {
+      "name": "kagoshima",
+      "name_en": "kagoshima",
+      "pref": "不明",
+      "lat": 31.595791,
+      "lon": 130.556717
+    },
+    {
+      "name": "Rishiri Town",
+      "name_en": "Rishiri Town",
+      "pref": "不明",
+      "lat": 45.159279,
+      "lon": 141.196289
+    },
+    {
+      "name": "tsuruhashi",
+      "name_en": "tsuruhashi",
+      "pref": "不明",
+      "lat": 34.665051,
+      "lon": 135.53009
+    },
+    {
+      "name": "shimochi",
+      "name_en": "shimochi",
+      "pref": "不明",
+      "lat": 24.827169,
+      "lon": 125.149467
+    },
+    {
+      "name": "Kamigyō-ku",
+      "name_en": "Kamigyō-ku",
+      "pref": "不明",
+      "lat": 35.029541,
+      "lon": 135.756653
+    },
+    {
+      "name": "Buzen",
+      "name_en": "Buzen",
+      "pref": "不明",
+      "lat": 33.61153,
+      "lon": 131.13002
+    },
+    {
+      "name": "Yoshitomi",
+      "name_en": "Yoshitomi",
+      "pref": "不明",
+      "lat": 33.60247,
+      "lon": 131.175995
+    }
+  ]
+}
