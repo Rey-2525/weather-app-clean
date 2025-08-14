@@ -60,7 +60,6 @@ weather-app-clean/
 ├── data/               # キャッシュ・データファイル
 ├── main.py
 └── requirements.txt
-
 ```
 
 ---
@@ -69,34 +68,25 @@ weather-app-clean/
 
 ### 1. 環境構築
 
-```bash
-bash
-CopyEdit
+```
 git clone https://github.com/<yourname>/rein-weather.git
 cd rein-weather
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-
 ```
 
 ### 2. 環境変数設定（.env）
 
 ```
-ini
-CopyEdit
 OPENWEATHER_API_KEY=xxxxx
 OPENAI_API_KEY=xxxxx
-
 ```
 
 ### 3. ローカル実行
 
-```bash
-bash
-CopyEdit
+```
 uvicorn main:app --reload
-
 ```
 
 ### 4. AWSデプロイ（簡易手順）
@@ -124,24 +114,20 @@ uvicorn main:app --reload
 - **症状**:
 
 ```
-pgsql
-CopyEdit
 GET https://your-domain.com/static/style-dark.css 403 (Forbidden)
 GET https://your-domain.com/favicon.ico 403 (Forbidden)
-
 ```
 
 - **原因**: `/home/ubuntu` に `www-data` ユーザーが入れない（実行権限不足）
 - **解決**:
 
-```bash
+```
 sudo chmod 755 /home/ubuntu
 sudo chmod 755 /home/ubuntu/weather-app-clean
 sudo chmod 755 /home/ubuntu/weather-app-clean/static
 sudo chmod 644 /home/ubuntu/weather-app-clean/static/style-dark.css
 sudo chmod 644 /home/ubuntu/weather-app-clean/static/favicon.ico
 sudo nginx -t && sudo systemctl reload nginx
-
 ```
 
 ---
