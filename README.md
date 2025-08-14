@@ -40,7 +40,7 @@ FastAPI + OpenWeatherMap API + OpenAI API(gpt-4) + Chart.js を使用し、AWS�
 
 ---
 
-## 📂 ディレクトリ構造
+## ディレクトリ構造
 
 ```
 csharp
@@ -57,7 +57,7 @@ weather-app-clean/
 
 ---
 
-## ⚙️ セットアップ方法
+## セットアップ方法
 
 ### 1. 環境構築
 
@@ -103,13 +103,13 @@ uvicorn main:app --reload
 
 ---
 
-## 📊 構成図
+## 構成図
 
 （Draw.io等で作成したAWS構成図をここに貼る）
 
 ---
 
-## 🧩 トラブルシュート
+## トラブルシュート
 
 ### 静的ファイル（CSS・favicon）が表示されない場合
 
@@ -138,7 +138,7 @@ sudo nginx -t && sudo systemctl reload nginx
 
 ---
 
-## 📌 今後の改善予定
+## 今後の改善予定
 
 - UIデザインのブラッシュアップ
 - 監視設定（CloudWatchなど）
@@ -147,6 +147,6 @@ sudo nginx -t && sudo systemctl reload nginx
 
 ---
 
-## 📜 ライセンス
+## ライセンス
 
 MIT License
