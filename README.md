@@ -20,7 +20,7 @@ FastAPI + OpenWeatherMap API + OpenAI API(gpt-4) + Chart.js を使用し、AWS�
 <img src="https://img.shields.io/badge/-Python-F2C63C.svg?logo=python&style=for-the-badge">
 <img src="https://img.shields.io/badge/-gunicorn-000000.svg?logo=gunicorn&style=for-the-badge">
 
-<img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=for-the-badge"> <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=for-the-badge"> <img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/-Amazon%20EC2-232F3E.svg?logo=amazon-EC2&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=for-the-badge"> <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=for-the-badge"> <img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/-Amazon%20EC2-232F3E.svg?logo=amazon-EC2&style=for-the-badge"> <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=Linux&logoColor=black&style=for-the-badge">
 
 ## 技術構成
 
@@ -33,8 +33,18 @@ FastAPI + OpenWeatherMap API + OpenAI API(gpt-4) + Chart.js を使用し、AWS�
 - **インフラ**: AWS EC2 (Ubuntu), nginx, Let's Encrypt SSL, systemd
 
 ## AI利用について
+本アプリのコード生成はChatGPTを活用しました。
 
-## 📷 スクリーンショット
+- APIの利用方法やルーティング処理の提案
+- UI改善のためのHTMLやCSSコーディング
+
+最終的な構成・機能設計・AWS構築はすべて自身で行い、  
+AIからの提案はコードレビュー・修正を経て採用しています。
+
+コーディングはAIに任せて、最終的に自分でそれらのコードを
+統合させて開発・運用していく形となりました。
+
+## スクリーンショット
 
 （ここにアプリのスクショを貼る）
 
@@ -43,8 +53,6 @@ FastAPI + OpenWeatherMap API + OpenAI API(gpt-4) + Chart.js を使用し、AWS�
 ## ディレクトリ構造
 
 ```
-csharp
-CopyEdit
 weather-app-clean/
 ├── app/                # FastAPIアプリケーション
 ├── static/             # CSS / 画像 / favicon
@@ -140,9 +148,8 @@ sudo nginx -t && sudo systemctl reload nginx
 
 ## 今後の改善予定
 
-- UIデザインのブラッシュアップ
+- UI改善
 - 監視設定（CloudWatchなど）
-- 国際化対応
 - キャッシュ戦略最適化
 
 ---
