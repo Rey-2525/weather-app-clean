@@ -1,4 +1,4 @@
-# 天気情報取得アプリ（AI × FastAPI）
+# rein-weather（AI × FastAPI）
 
 ## 概要
 rein-weatherは、現在地や国内の都市の天気情報を取得し、降水確率グラフ表示やAIによる解説・服装アドバイス
