@@ -1,9 +1,7 @@
 # rein-weather（AI × FastAPI）
 
 ## 概要
-rein-weatherは、現在地や国内の都市の天気情報を取得し、降水確率グラフ表示やAIによる解説・服装アドバイス
-を提供するwebアプリです。
-FastAPI + OpenWeatherMap API + OpenAI API(gpt-4) + Chart.js を使用し、AWS（EC2 + nginx + gunicorn + systemd + Let's Encrypt）上で運用しています。
+rein-weatherは、「AIによる解説と服装アドバイスを提供する天気アプリ
 
 ## 主な機能
 - 現在地の天気取得（気温・湿度・天気アイコン）
@@ -64,7 +62,6 @@ AIからの提案はコードレビュー・修正を経て採用しています
 └── my-weather-app/
     ├── .vscode/
     │   └── settings.json
-    ├── _pycache_
     ├── data
     ├── routes/
     │   ├── explanation.py
