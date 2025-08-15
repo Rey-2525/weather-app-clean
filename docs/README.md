@@ -32,6 +32,19 @@ FastAPI + OpenWeatherMap API + OpenAI API(gpt-4) + Chart.js を使用し、AWS�
     - Google Maps API
 - **インフラ**: AWS EC2 (Ubuntu), nginx, Let's Encrypt SSL, systemd
 
+## 開発背景
+実務、資格勉強だけでは足りないと感じ、アプリの開発、サーバーの構築・運用、AWSにデプロイまで
+自分一人（AIを合わせると二人）でやってしまおうと思い、始めました。
+クラウドにAWSを選んだのはシンプルに市場でAWSが一番シェアされているからです。
+
+**成果**：
+- AWS EC2を用いた本番環境運用（HTTPS化対応）
+- API連携とAPIキーの管理
+- AIと一緒に開発を進める方法を自分なりに学習
+- Linuxサーバーの基本的な構築、運用方法
+- GitHubの基本的な運用
+- OpenAI APIを用いた説明文生成機能
+
 ## AI利用について
 本アプリのコード生成はChatGPTを活用しました。
 
@@ -42,13 +55,7 @@ FastAPI + OpenWeatherMap API + OpenAI API(gpt-4) + Chart.js を使用し、AWS�
 AIからの提案はコードレビュー・修正を経て採用しています。
 
 コーディングはAIに任せて、最終的に自分でそれらのコードを
-統合させて開発・運用していく形となりました。
-
-## スクリーンショット
-
-（ここにアプリのスクショを貼る）
-
----
+統合させて開発・構築・運用していく形にしました。
 
 ## ディレクトリ構造
 
