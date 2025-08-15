@@ -163,7 +163,7 @@ sudo nginx -t && sudo systemctl reload nginx
 
 - UI改善
 - 監視設定（CloudWatchなど）
-- キャッシュ戦略最適化
+- キャッシュ最適化
 
 ---
 
