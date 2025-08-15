@@ -53,13 +53,40 @@ AIからの提案はコードレビュー・修正を経て採用しています
 ## ディレクトリ構造
 
 ```
-weather-app-clean/
-├── app/                # FastAPIアプリケーション
-├── static/             # CSS / 画像 / favicon
-├── templates/          # HTMLテンプレート
-├── data/               # キャッシュ・データファイル
-├── main.py
-└── requirements.txt
+.
+└── my-weather-app/
+    ├── .vscode/
+    │   └── settings.json
+    ├── _pycache_
+    ├── data
+    ├── routes/
+    │   ├── explanation.py
+    │   ├── filter.py
+    │   ├── generate_cities.py
+    │   ├── geocode.py
+    │   ├── nlp_filer.py
+    │   ├── view.py
+    │   └── weather.py
+    ├── scripts
+    ├── static/
+    │   ├── android-chrome-192x192.png
+    │   ├── android-chrome-512x512.png
+    │   ├── apple-touch-icon.png
+    │   ├── favicon-16x16.png
+    │   ├── favicon-32x32.png
+    │   ├── favicon.ico
+    │   ├── site.webmanifest
+    │   └── style-dark.css
+    ├── templates/
+    │   └── index.html
+    ├── utils/
+    │   ├── config.py
+    │   └── openai_client.py
+    ├── .gitattributes
+    ├── .gitignore
+    ├── 0.23.0
+    ├── main.py
+    └── requirements.txt
 ```
 
 ---
