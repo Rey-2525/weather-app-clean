@@ -58,7 +58,13 @@ AIからの提案はコードレビュー・修正を経て採用しています
 └── my-weather-app/
     ├── .vscode/
     │   └── settings.json
+    ├── _pycache_
     ├── data
+    ├── docs/
+    │   ├── AWS-architecture.drawio
+    │   ├── AWS-config.drawio.png
+    │   ├── ChatGPT image Aug 11, 2025,08_12_56 PM.png
+    │   └── README.md
     ├── routes/
     │   ├── explanation.py
     │   ├── filter.py
