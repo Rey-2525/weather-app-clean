@@ -136,7 +136,8 @@ uvicorn main:app --reload
 
 ## 構成図
 
-（Draw.io等で作成したAWS構成図をここに貼る）
+<img width="1648" height="741" alt="AWS-config drawio" src="https://github.com/user-attachments/assets/b33c0f42-bf84-4b83-ab8d-c6ed90d7e614" />
+
 
 ---
 
