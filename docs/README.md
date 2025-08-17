@@ -173,9 +173,10 @@ sudo nginx -t && sudo systemctl reload nginx
 
 ## 今後の改善予定
 
-- UI改善
-- 監視設定（CloudWatchなど）
-- キャッシュ最適化
+- UI改善（カードレイアウト整理・検索バー固定）
+- 監視設定の導入（CloudWatch Logs, メトリクス監視）
+- TerraformでAWS環境構築 + Ansibleで構成管理
+- GitHub Actionsで自動反映させる
 
 ---
 
