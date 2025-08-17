@@ -67,7 +67,6 @@ AIを補助ツールとして活用しつつ、最終的な設計・実装・運
     ├── docs/
     │   ├── AWS-architecture.drawio
     │   ├── AWS-config.drawio.png
-    │   ├── ChatGPT image Aug 11, 2025,08_12_56 PM.png
     │   └── README.md
     ├── routes/
     │   ├── explanation.py
@@ -94,7 +93,6 @@ AIを補助ツールとして活用しつつ、最終的な設計・実装・運
     │   └── openai_client.py
     ├── .gitattributes
     ├── .gitignore
-    ├── 0.23.0
     ├── main.py
     └── requirements.txt
 ```
