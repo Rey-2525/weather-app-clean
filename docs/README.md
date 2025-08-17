@@ -130,8 +130,6 @@ uvicorn main:app --reload
 - nginxリバースプロキシ設定
 - Let's EncryptでSSL化
 
-詳細手順は Qiita記事 に記載。
-
 ---
 
 ## 構成図
