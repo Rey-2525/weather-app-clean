@@ -32,11 +32,11 @@ rein-weatherは、AIによる解説と服装アドバイスを提供する天気
     - Google Maps API
 - **インフラ**: AWS EC2 (Ubuntu), nginx, Let's Encrypt SSL, systemd
 
+## 構成図（/docsにソースあり）
+<img width="1648" height="741" alt="AWS-config drawio" src="https://github.com/user-attachments/assets/b33c0f42-bf84-4b83-ab8d-c6ed90d7e614" />
+
 ## 開発背景
-課題：実務や資格ではweb開発からAWS構築まで経験できない
-→→業務経験だけでは不十分と考え、自ら企画・開発・構築を実施
-解決行動：自分で企画、設計し、Linux、AWS運用含めたアプリ開発を実施。
-結果：AWS EC2の本番運用まで実施。
+実務や資格の学習だけではWeb開発からAWS構築まで一貫した経験が得られないと考え、自ら企画・設計・開発・構築を実施しました。その結果、Linuxサーバー構築からAWS EC2の本番運用までを一人で完結させることができました。
 
 **成果**：
 - AWS EC2での本番運用（nginx + gunicorn + HTTPS対応）
@@ -123,6 +123,7 @@ venv/scripts/activate
 ```
 OPENWEATHER_API_KEY=xxxxx
 OPENAI_API_KEY=xxxxx
+GOOGLE_MAPS_API_KEY=xxxxx
 ```
 
 ### 3. ローカル実行
@@ -138,12 +139,6 @@ uvicorn main:app --reload
 - アプリ配置＆gunicorn + systemd設定
 - nginxリバースプロキシ設定
 - Let's EncryptでSSL化
-
----
-
-## 構成図（/docsにソースあり）
-<img width="1648" height="741" alt="AWS-config drawio" src="https://github.com/user-attachments/assets/b33c0f42-bf84-4b83-ab8d-c6ed90d7e614" />
-
 
 ---
 
