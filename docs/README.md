@@ -34,15 +34,15 @@ rein-weatherは、AIによる解説と服装アドバイスを提供する天気
 
 ## 開発背景
 課題：実務や資格ではweb開発からAWS構築まで経験できない
-→なら自分ですべてやってしまおうと思った。
+→→業務経験だけでは不十分と考え、自ら企画・開発・構築を実施
 解決行動：自分で企画、設計し、Linux、AWS運用含めたアプリ開発を実施。
 結果：AWS EC2の本番運用まで実施。
 
 **成果**：
 - AWS EC2での本番運用（nginx + gunicorn + HTTPS対応）
-- OpenAI APIを利用した自動解説文生成
-- Linuxサーバーの構築・権限周りのトラブルシュート経験
-- GitHubを使ったバージョン管理・チーム開発を意識した運用
+- OpenAI APIを利用した自動解説文生成機能を実装。
+- Linuxサーバー構築、権限設定のトラブルシュートを実施。サービスを外部公開まで安定稼働させた。
+- GitHubを使ったバージョン管理・チーム開発を意識した運用を実施。
 
 ## AI利用について
 本アプリのコード生成はChatGPTを活用しました。
@@ -59,21 +59,21 @@ AIを補助ツールとして活用しつつ、最終的な設計・実装・運
 
 ```
 .
-└── my-weather-app/
+└── weather-app-clean/
     ├── .vscode/
     │   └── settings.json
-    ├── __pycache__/
     ├── data
     ├── docs/
-    │   ├── AWS-architecture.drawio
-    │   ├── AWS-config.drawio.png
+    │   ├── img/
+    │   │   ├── AWS-architecture_20250817_v1.drawio
+    │   │   └── AWS-architecture_20250817_v1.png
     │   └── README.md
     ├── routes/
     │   ├── explanation.py
     │   ├── filter.py
     │   ├── generate_cities.py
     │   ├── geocode.py
-    │   ├── nlp_filer.py
+    │   ├── nlp_filter.py
     │   ├── view.py
     │   └── weather.py
     ├── scripts
@@ -93,6 +93,7 @@ AIを補助ツールとして活用しつつ、最終的な設計・実装・運
     │   └── openai_client.py
     ├── .gitattributes
     ├── .gitignore
+    ├── LICENSE.txt
     ├── main.py
     └── requirements.txt
 ```
@@ -175,8 +176,7 @@ sudo nginx -t && sudo systemctl reload nginx
 
 - UI改善（カードレイアウト整理・検索バー固定）
 - 監視設定の導入（CloudWatch Logs, メトリクス監視）
-- TerraformでAWS環境構築 + Ansibleで構成管理
-- GitHub Actionsで自動反映させる
+- CI/CD導入（Tearraform, Ansibleなどで構成管理）
 
 ---
 
