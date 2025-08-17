@@ -140,8 +140,7 @@ uvicorn main:app --reload
 
 ---
 
-## 構成図（/docs以下にソースあり）
-![AWS構成図](./img/AWS-architecture_20250817_v1.png)
+## 構成図（/docsにソースあり）
 <img width="1648" height="741" alt="AWS-config drawio" src="https://github.com/user-attachments/assets/b33c0f42-bf84-4b83-ab8d-c6ed90d7e614" />
 
 
