@@ -1,7 +1,7 @@
 # rein-weather（AI × FastAPI）
 
 ## 概要
-rein-weatherは、「AIによる解説と服装アドバイスを提供する天気アプリ
+rein-weatherは、AIによる解説と服装アドバイスを提供する天気アプリです。
 
 ## 主な機能
 - 現在地の天気取得（気温・湿度・天気アイコン）
@@ -31,7 +31,10 @@ rein-weatherは、「AIによる解説と服装アドバイスを提供する天
 - **インフラ**: AWS EC2 (Ubuntu), nginx, Let's Encrypt SSL, systemd
 
 ## 開発背景
-背景：実務と資格勉強だけでは不足と感じ、Linux、AWS運用含めたアプリ開発を実施。
+課題：実務や資格ではweb開発からAWS構築まで経験できない
+→なら自分ですべてやってしまおうと思った。
+解決行動：自分で企画、設計し、Linux、AWS運用含めたアプリ開発を実施。
+結果：AWS EC2の本番運用まで実施。
 
 **成果**：
 - AWS EC2本番運用（HTTPS化）
@@ -58,7 +61,7 @@ AIからの提案はコードレビュー・修正を経て採用しています
 └── my-weather-app/
     ├── .vscode/
     │   └── settings.json
-    ├── _pycache_
+    ├── __pycache__/
     ├── data
     ├── docs/
     │   ├── AWS-architecture.drawio
@@ -109,6 +112,11 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+windowsの場合：
+```
+venv/scripts/activate
+```
+
 ### 2. 環境変数設定（.env）
 
 ```
@@ -132,8 +140,8 @@ uvicorn main:app --reload
 
 ---
 
-## 構成図
-
+## 構成図（/docs以下にソースあり）
+![AWS構成図](docs/AWS-architecture_20250817_v1.drawio.png)
 <img width="1648" height="741" alt="AWS-config drawio" src="https://github.com/user-attachments/assets/b33c0f42-bf84-4b83-ab8d-c6ed90d7e614" />
 
 
