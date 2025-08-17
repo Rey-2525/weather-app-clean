@@ -171,6 +171,8 @@ sudo nginx -t && sudo systemctl reload nginx
 
 ## 今後の改善予定
 
+今後の改善予定としては、今までは手動で行っていたCI/CDパイプラインの導入やIaC（Terraform/Ansible）によるインフラ自動化を検討しています。
+
 - UI改善（カードレイアウト整理・検索バー固定）
 - 監視設定の導入（CloudWatch Logs, メトリクス監視）
 - CI/CD導入（Tearraform, Ansibleなどで構成管理）
