@@ -67,6 +67,13 @@ AIを補助ツールとして活用しつつ、最終的な設計・実装・運
     ├── .vscode/
     │   └── settings.json
     ├── data
+    ├── data_preprocessing/
+    │   ├── convert_city_names_to_ja.py
+    │   ├── convert_top20_to_ja.py
+    │   ├── enrich_city_data.py
+    │   ├── extract_japan_cities.py
+    │   ├── generate_city_data.py
+    │   └── prepare_city_weather_data_async.py
     ├── docs/
     │   ├── img/
     │   │   ├── AWS-architecture_20250817_v1.drawio
@@ -80,7 +87,6 @@ AIを補助ツールとして活用しつつ、最終的な設計・実装・運
     │   ├── nlp_filter.py
     │   ├── view.py
     │   └── weather.py
-    ├── scripts
     ├── static/
     │   ├── android-chrome-192x192.png
     │   ├── android-chrome-512x512.png
