@@ -3,416 +3,413 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>現在地の天気情報</title>
-<link rel="stylesheet" href="/static/style-dark.css" />
+  <title>Rein-weather | 現在地・国内天気 & 自然言語フィルタ</title>
 
-<link rel="apple-touch-icon" sizes="180x180" href="/static/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/static/favicon-32x32.png?v=2">
-<link rel="icon" type="image/png" sizes="16x16" href="/static/favicon-16x16.png?v=2">
-<link rel="manifest" href="/static/site.webmanifest">
-<link rel="icon" type="image/x-icon" href="/static/favicon.v3.ico">
+  <!-- Base styles -->
+  <link rel="stylesheet" href="/static/style-dark.css" />
 
-
+  <!-- Icons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/static/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/static/favicon-32x32.png?v=2">
+  <link rel="icon" type="image/png" sizes="16x16" href="/static/favicon-16x16.png?v=2">
+  <link rel="manifest" href="/static/site.webmanifest">
+  <link rel="icon" type="image/x-icon" href="/static/favicon.v3.ico">
 </head>
-<div class="fixed-top">
-  <div class="search-wrapper">
-    <div class="search-row">
-      <input type="text" id="location-input" placeholder="都市名を入力（例：大阪）">
-      <button id="search-weather-btn">国内の天気を検索</button>
+
+<body>
+  <!-- Header / Search -->
+  <header class="fixed-top" role="banner" aria-label="検索と操作バー">
+    <div class="navbar">
+      <div class="brand">
+        <span class="brand-emoji" aria-hidden="true">🌦️</span>
+        <span class="brand-text">Rein-weather</span>
+      </div>
+      <nav class="nav-actions" aria-label="ヘルプ">
+        <button id="help-toggle" class="btn ghost" aria-expanded="false" aria-controls="help-panel">使い方</button>
+      </nav>
     </div>
-    <div class="search-row">
-      <input type="text" id="filter-input" placeholder="例：涼しい場所を教えて">
-      <button id="filter-btn">都市をフィルタ</button>
+
+    <div class="search-wrapper" role="search">
+      <div class="search-row">
+        <label class="visually-hidden" for="location-input">都市名検索</label>
+        <input type="text" id="location-input" inputmode="search" placeholder="都市名（例：大阪, 札幌, 那覇）" autocomplete="off" />
+        <button id="search-weather-btn" class="btn primary">国内の天気を検索</button>
+      </div>
+      <div class="search-row">
+        <label class="visually-hidden" for="filter-input">自然言語フィルター</label>
+        <input type="text" id="filter-input" inputmode="search" placeholder="例：涼しい場所を教えて / 湿度ひくめ / 条件なし" autocomplete="off" />
+        <button id="filter-btn" class="btn secondary">都市をフィルタ</button>
+      </div>
+      <div class="search-row compact">
+        <button id="get-weather-btn" type="button" class="btn accent">📍 現在地の天気を取得</button>
+      </div>
     </div>
+
+    <!-- Collapsible Help -->
+    <section id="help-panel" class="help collapsed" aria-hidden="true">
+      <div class="help-inner">
+        <h2>使い方</h2>
+        <ol>
+          <li>「都市名検索」に <strong>大阪</strong> や <strong>札幌</strong> などを入力して <kbd>Enter</kbd> または <em>検索</em> を押す。</li>
+          <li>「自然言語フィルター」に <strong>涼しい場所</strong>、<strong>湿度ひくめ</strong> などを入力して <em>フィルタ</em>。</li>
+          <li>📍 ボタンで <strong>現在地</strong> の天気と降水確率（3時間ごと）を表示。</li>
+        </ol>
+        <p class="examples">
+          例）<code>ひんやり</code> / <code>過ごしやすい</code> / <code>暑すぎる</code> / <code>条件なし</code>
+        </p>
+        <p class="note">ヒント：<kbd>Enter</kbd> で実行、<kbd>/</kbd> で都市検索欄にフォーカス、<kbd>?</kbd> でこのヘルプ開閉。</p>
+        <p class="note">注意：位置情報の取得はブラウザの設定で許可してください。</p>
+        <p class="note">生成される解説・アドバイスはAIによるもので、必ずしも正確ではありません。</p>
+      </div>
+    </section>
+  </header>
+
+  <!-- Main Content -->
+  <main class="container" role="main">
+    <h1 aria-live="polite">天気情報</h1>
+
+    <!-- Status / Toast -->
+    <div id="status" class="toast" role="status" aria-live="polite" aria-atomic="true" hidden></div>
+
+    <!-- Cards -->
+    <section id="explanation-box" class="weather-card" hidden></section>
+    <section id="clothing-box" class="weather-card" hidden></section>
+
+    <!-- Current / Single city -->
+    <section id="weather-current" class="weather-card" hidden></section>
+
+    <!-- Filtered city grid -->
+    <section id="weather-grid" class="weather-grid" hidden aria-label="都市カード一覧"></section>
+
+    <!-- Loading -->
+    <div id="loading" class="loading-overlay" hidden>
+      <div class="loading-spinner">
+        <div class="spinner" aria-hidden="true"></div>
+        <p>天気情報を取得中...</p>
   </div>
 </div>
 
-  <div class="container">
-    <h1>🌤 現在地の天気情報</h1>
-    <button id="get-weather-btn" type="button">現在地の天気を取得</button>
-    <div id="explanation-box" class="weather-card" style="display: none;"></div>
-    <div id="clothing-box" class="weather-card" style="display: none;"></div>
-    <div id="weather" class="weather-card" style="display: none;"></div>
-    <ul id="filter-result"></ul>
-    <div id="loading" class="loading-spinner" style="display: none;">
-      <p>天気情報を取得中...</p>
-      <div class="spinner"></div>
-    </div>
-  </div>
-
-  <div id="weather" class="weather-card" style="display: none;"></div> <!-- 現在地など個別 -->
-  <div id="weather-list" class="weather-card" style="display: none;"></div> <!-- ⬅ 都市カード用グリッド -->
-
-
-
+  </main>
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <script>
-    function showloading(show) {
-      document.getElementById("loading").style.display = show ? "flex" : "none";
-    }
+    // ---------- Utilities ----------
+    // 追加：ボタン操作でのみロード表示するためのフラグ
+    let shouldShowLoading = false;
+    const $ = (sel) => document.querySelector(sel);
+    const show = (el, flag) => { if(el) el.hidden = !flag; };
+    const showLoading = (flag) => show($("#loading"), flag);
+    const setStatus = (msg) => {
+      const box = $("#status");
+      if (!box) return;
+      box.textContent = msg;
+      box.hidden = !msg;
+      if (!msg) {
+        box.classList.add("show");
+        setTimeout(() => box.classList.remove("show"), 2500);
+      }
+      };
 
-    function showWeather(data) {
-      const el = document.getElementById("weather");
-      el.style.display = "block";
-      const iconUrl = `http://openweathermap.org/img/wn/${data.icon}@2x.png`;
+    // Keyboard shortcuts
+    window.addEventListener("keydown", (e) => {
+      if (e.key === "/") { e.preventDefault(); $("#location-input")?.focus(); }
+      if (e.key === "?") { e.preventDefault(); toggleHelp(); }
+      if (e.key === "Enter") {
+        const active = document.activeElement?.id;
+        if (active === "location-input") $("#search-weather-btn").click();
+        if (active === "filter-input") $("#filter-btn").click();
+      }
+    });
+
+    // Help Toggle
+     function toggleHelp() {
+      $("#help-panel").classList.toggle("collapsed");
+     }
+    $("#help-toggle").addEventListener("click", toggleHelp);
+
+    // ---------- Rendering ----------
+    function renderCurrentWeather(data) {
+      const el = $("#weather-current");
+      show(el, true);
+      const iconUrl = `https://openweathermap.org/img/wn/${data.icon}@2x.png`; // enforce https
       el.innerHTML = `
         <p><strong>📍 場所：</strong> ${data.location}</p>
         <p><strong>🌡️ 気温：</strong> ${data.temperature}℃</p>
         <p><strong>💧 湿度：</strong> ${data.humidity}%</p>
         <p><strong>☁️ 天気：</strong> ${data.weather}</p>
+        <div id="forecast" class="forecast"></div>
       `;
     }
 
-    function addChatMessage(sender, message) {
-      const chatBox = document.getElementById("chat-box");
-      const div = document.createElement("div");
-      div.className = `chat-message ${sender}`;
-      div.textContent = message;
-      chatBox.appendChild(div);
-}
+    function renderForecast(forecast) {
+      const parent = $("#forecast");
+      if (!parent) return;
+      parent.innerHTML = "<h3>☔ 降水確率（3時間ごと）</h3>";
+      const labels = forecast.map(e => e.time.slice(11, 16));
+      const pops = forecast.map(e => e.pop);
 
-
-    async function getWeather(lat, lon) {
-      const res = await fetch(`/weather?lat=${lat}&lon=${lon}`);
-      const data = await res.json();
-      showWeather(data);
-    }
-
-    async function getExplanation(location, weather, temp, humidity, pop) {
-      const res = await fetch('/explanation', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          location,
-          weather,
-          temp,
-          humidity,
-          pop: pop / 100  // 小数（例：0.2）
-        })
-      });
-      const data = await res.json();
-      const box = document.getElementById("explanation-box");
-      box.style.display = "block";
-      box.innerHTML = `<p><strong>📝 解説：</strong> ${data.explanation}</p>`;
-}
-
-    async function getClothingAdvice(weather, temp, humidity) {
-      const res = await fetch("/clothing_advice", {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ weather, temp, humidity })
-      });
-
-        const data = await res.json();
-        const box = document.getElementById("clothing-box");
-        box.style.display = "block";
-        box.innerHTML = `<p><strong>🧥 服装アドバイス：</strong> ${data.advice}</p>`;
-}
-
-
-    async function getForecast(lat, lon) {
-      const existing = document.getElementById("forecast");
-      if (existing) existing.remove();
-
-      const res = await fetch(`/weather-forecast?lat=${lat}&lon=${lon}`);
-      const data = await res.json();
-
-      const forecastDiv = document.createElement("div");
-      forecastDiv.id = "forecast";
-      forecastDiv.innerHTML = "<h3>☔ 降水確率（3時間ごと）</h3>";
-      const ul = document.createElement("ul");
-
-      data.forecast.forEach(entry => {
+      const list = document.createElement("ul");
+      forecast.forEach(e => {
         const li = document.createElement("li");
-        li.textContent = `${entry.time}：${entry.pop}%`;
-        ul.appendChild(li);
+        li.textContent = `${e.time}：${e.pop}%`;
+        list.appendChild(li);
       });
-
-      forecastDiv.appendChild(ul);
+      parent.appendChild(list);
 
       const canvas = document.createElement("canvas");
       canvas.id = "precipChart";
-      forecastDiv.appendChild(canvas);
-
-      document.getElementById("weather").appendChild(forecastDiv);
-
-      const labels = data.forecast.map(entry => entry.time.slice(11, 16));
-      const pops = data.forecast.map(entry => entry.pop);
+      parent.appendChild(canvas);
 
       new Chart(canvas, {
         type: "bar",
         data: {
-          labels: labels,
-          datasets: [{
-            label: "降水確率 (%)",
-            data: pops,
-            backgroundColor: "rgba(54, 162, 235, 0.6)",
-            borderColor: "rgba(54, 162, 235, 1)",
-            borderWidth: 1
-          }]
+          labels,
+          datasets: [{ label: "降水確率 (%)", data: pops }]
         },
         options: {
           responsive: true,
-          scales: {
-            y: {
-              beginAtZero: true,
-              max: 100,
-              ticks: {
-                callback: value => value + "%"
-              }
-            }
-          },
-          plugins: {
-            legend: {
-              labels: {
-                color: "#fff"
-              }
-            }
-          }
+          scales: { y: { beginAtZero: true, max: 100, ticks: { callback: v => v + "%" } } },
+          plugins: { legend: { labels: { color: getComputedStyle(document.body).color } } }
         }
       });
     }
 
+    function renderCityCard({ weatherData, explanation, advice, reason }) {
+      const grid = $("#weather-grid");
+      grid.insertAdjacentHTML("beforeend", `
+        <article class="weather-card">
+          <p><strong>📍 ${weatherData.location}</strong></p>
+          <p>☁️ 天気：${weatherData.weather}、${weatherData.temperature}℃、湿度${weatherData.humidity}%</p>
+          ${reason ? `<p>✨ おすすめ理由：${reason}</p>` : ""}
+          <p>📝 解説：${explanation}</p>
+          <p>👕 服装アドバイス：${advice}</p>
+        </article>
+      `);
+      show(grid, true);
+    }
+
+    // ---------- API calls ----------
+    async function getJSON(url, opts) {
+      const res = await fetch(url, opts);
+      if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
+      return res.json();
+    }
+
     async function fetchAll(lat, lon) {
       try {
-        showloading(true);
+        if (shouldShowLoading) showLoading(true);
+        // Current weather
+        const weatherData = await getJSON(`/weather?lat=${lat}&lon=${lon}`);
+        renderCurrentWeather(weatherData);
 
-        // 🌤 現在の天気データ取得
-        const weatherRes = await fetch(`/weather?lat=${lat}&lon=${lon}`);
-        const weatherData = await weatherRes.json();
-        showWeather(weatherData);
+        // Forecast
+        const forecastData = await getJSON(`/weather-forecast?lat=${lat}&lon=${lon}`);
+        renderForecast(forecastData.forecast);
 
-        // ☔ 降水確率の取得＆グラフ表示
-        const forecastRes = await fetch(`/weather-forecast?lat=${lat}&lon=${lon}`);
-        const forecastData = await forecastRes.json();
-        await getForecast(lat, lon);
-
-        // 🧠 GPTで天気解説文生成（最初の降水確率を使う）
+        // Explanation (use first POP)
         const pop = forecastData.forecast[0]?.pop || 0;
-        await getExplanation(
-          weatherData.location,
-          weatherData.weather,
-          weatherData.temperature,
-          weatherData.humidity,
-          pop
-        );
+        const exp = await getJSON("/explanation", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            location: weatherData.location,
+            weather: weatherData.weather,
+            temp: weatherData.temperature,
+            humidity: weatherData.humidity,
+            pop: pop / 100
+          })
+        });
+        const box1 = $("#explanation-box");
+        box1.innerHTML = `<p><strong>📝 解説：</strong> ${exp.explanation}</p>`;
+        show(box1, true);
 
-        // 👕 服装アドバイス生成
-        await getClothingAdvice(
-          weatherData.weather,
-          weatherData.temperature,
-          weatherData.humidity
-        );
+        // Clothing advice
+        const adv = await getJSON("/clothing_advice", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            weather: weatherData.weather,
+            temp: weatherData.temperature,
+            humidity: weatherData.humidity
+          })
+        });
+        const box2 = $("#clothing-box");
+        box2.innerHTML = `<p><strong>🧥 服装アドバイス：</strong> ${adv.advice}</p>`;
+        show(box2, true);
 
+        setStatus("現在地の天気を更新しました");
       } catch (err) {
-        document.getElementById("weather").style.display = "block";
-        document.getElementById("weather").textContent = "取得に失敗しました。";
+        $("#weather-current").innerHTML = "取得に失敗しました。";
+        show($("#weather-current"), true);
         console.error(err);
+        setStatus("取得に失敗しました");
       } finally {
-        showloading(false);
+        if (shouldShowLoading) showLoading(false);
+        shouldShowLoading = false; // Reset flag
       }
     }
-    
-    let previousCityList = []; // 前回の都市リストを保持
+
+    // Keep last city list to avoid redundant renders
+    let previousCityList = [];
+
+    function listsEqual(a, b) {
+      if (a.length !== b.length) return false;
+      for (let i = 0; i < a.length; i++) {
+        const pa = typeof a[i] === "object" ? a[i].name : a[i];
+        const pb = typeof b[i] === "object" ? b[i].name : b[i];
+        if (pa !== pb) return false;
+      }
+      return true;
+    }
 
     async function fetchFilteredCities(keyword) {
-      let loadingTimeout = setTimeout(() => showloading(true), 300); // 0.3秒後に表示
-    function shouldUpdate(prev, current) {
-      if (prev.length !== current.length) return true;
-      for (let i = 0; i < prev.length; i++) {
-        if (typeof prev[i] === "string" && prev[i] !== current[i]) return true;
-        if (typeof prev[i] === "object" && prev[i].name !== current[i].name) return true;
+      let timer = null;
+      if (shouldShowLoading){
+        timer = setTimeout(() => showLoading(true), 250); // Show loading if takes >500ms
       }
-      return false;
-}
-    
-  try {
-      // ✅ 現在地カードを非表示に
-    document.getElementById("explanation-box").style.display = "none";
-    document.getElementById("clothing-box").style.display = "none";
-    
-    // 🔍 曖昧表現のキーワードチェック&エンドポイント切替
-    const fuzzyWords = ["ジメジメ", "ひんやり", "過ごしやすい", "暑すぎる", "寒い", "涼しい", "湿度", "温度", "条件なし"];
-    const isFuzzy = fuzzyWords.some(word => keyword.includes(word)) || keyword.length >= 10;
-    const endpoint = isFuzzy ? "/filter-nlp" : "/filter";
-    const requestBody = isFuzzy ? { message: keyword } : { keyword };
+      try {
+        // Hide current boxes when switching to grid
+        show($("#explanation-box"), false);
+        show($("#clothing-box"), false);
+        show($("#weather-current"), false);
 
-    const filterRes = await fetch(endpoint, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(requestBody)
-    });
-      
-     // ① 応答が正常か確認（statusコードが200であるか）
-    if (!filterRes.ok) {
-      console.error("サーバーエラー:", filterRes.status);
-      alert("フィルタ検索に失敗しました。");
-      return;
+        const fuzzyWords = ["ジメジメ","ひんやり","過ごしやすい","暑すぎる","寒い","涼しい","湿度","温度","条件なし"];
+        const isFuzzy = fuzzyWords.some(w => keyword.includes(w)) || keyword.length >= 10;
+        const endpoint = isFuzzy ? "/filter-nlp" : "/filter";
+        const body = isFuzzy ? { message: keyword } : { keyword };
+
+        const filterData = await getJSON(endpoint, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(body)
+        });
+
+        const cityList = filterData.cities || [];
+        if (cityList.length === 0 || (cityList[0]?.message?.includes("見つかりませんでした"))) {
+          $("#weather-grid").innerHTML = `<article class="weather-card"><p>😢 条件に合う都市が見つかりませんでした。</p></article>`;
+          show($("#weather-grid"), true);
+          previousCityList = [];
+          return;
+        }
+
+        if (listsEqual(previousCityList, cityList)) {
+          setStatus("同じ結果のため更新をスキップ");
+          return;
+        }
+        previousCityList = cityList;
+
+        const grid = $("#weather-grid");
+        grid.innerHTML = "";
+        show(grid, true);
+
+        for (const city of cityList) {
+          // 1) geocode
+          const geo = await getJSON("/geocode", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ city: city.name })
+          });
+          if (!geo.lat || !geo.lon) continue;
+
+          // 2) weather
+          const weatherData = await getJSON(`/weather?lat=${geo.lat}&lon=${geo.lon}`);
+
+          // 3) explanation
+          const explanation = await getJSON("/explanation", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+              location: weatherData.location,
+              weather: weatherData.weather,
+              temp: weatherData.temperature,
+              humidity: weatherData.humidity,
+              pop: 0.2
+            })
+          });
+
+          // 4) clothing advice
+          const advice = await getJSON("/clothing_advice", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({
+              weather: weatherData.weather,
+              temp: weatherData.temperature,
+              humidity: weatherData.humidity
+            })
+          });
+
+          // 5) render
+          renderCityCard({
+            weatherData,
+            explanation: explanation.explanation,
+            advice: advice.advice,
+            reason: city.reason
+          });
+        }
+        setStatus("フィルタ結果を更新しました");
+      } catch (err) {
+        console.error("フィルタ検索中にエラー:", err);
+        setStatus("フィルタ取得中にエラーが発生しました");
+        $("#weather-grid").innerHTML = `<article class="weather-card"><p>エラーが発生しました。</p></article>`;
+        show($("#weather-grid"), true);
+      } finally {
+        if (timer) clearTimeout(timer);
+        if (shouldShowLoading) showLoading(false);
+        shouldShowLoading = false; // Reset flag
+      }
     }
 
-    let filterData = null;
-    try {
-      filterData = await filterRes.json();
-    } catch (err) {
-      console.error("JSON解析失敗:", err);
-      alert("レスポンスの解析に失敗しました。");
-      return;
-    }
-
-    const cityList = filterData.cities;
-    if (!Array.isArray(cityList)) {
-    console.error("cities が取得できませんでした:", filterData);
-    alert("都市の取得に失敗しました。");
-    return;
-}
-
-    // ✅ 🔁 前回と同じならスキップ
-    if (!shouldUpdate(previousCityList, cityList)) {
-      console.log("🔁 前回と同じ結果なのでスキップします");
-      showloading(false);
-      return;
-    }
-    previousCityList = cityList; // 更新前のリストを保存
-    
-    // ✅ 🔁 前回の都市リストを更新
-    const weatherContainer = document.getElementById("weather");
-    weatherContainer.innerHTML = ""; // 初期化
-    weatherContainer.className = "weather-card weather-grid";
-    weatherContainer.style.display = "grid";
-
-    // 🔻 0件 or エラーメッセージが返ってきた場合
-    if (!cityList || cityList.length === 0 || (cityList[0].message && cityList[0].message.includes("見つかりませんでした"))) {
-      const noResult = document.createElement("div");
-      noResult.className = "weather-card";
-      noResult.innerHTML = `<p>😢 条件に合う都市が見つかりませんでした。</p>`;
-      weatherContainer.appendChild(noResult);
-      return;
-    }
-
-    // 🌤 各都市の天気取得＆表示
-    for (const city of cityList) {
-      // Step 1: 緯度経度
-      const geoRes = await fetch("/geocode", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ city:city.name })
-      });
-      const geoData = await geoRes.json();
-      if (!geoData.lat || !geoData.lon) continue;
-
-      // Step 2: 天気データ
-      const weatherRes = await fetch(`/weather?lat=${geoData.lat}&lon=${geoData.lon}`);
-      const weatherData = await weatherRes.json();
-
-      // Step 3: 解説（GPT）
-      const explanationRes = await fetch("/explanation", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          location: weatherData.location,
-          weather: weatherData.weather,
-          temp: weatherData.temperature,
-          humidity: weatherData.humidity,
-          pop: 0.2
-        })
-      });
-      const explanationData = await explanationRes.json();
-
-      // Step 4: 服装アドバイス（GPT）
-      const adviceRes = await fetch("/clothing_advice", {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({
-          weather: weatherData.weather,
-          temp: weatherData.temperature,
-          humidity: weatherData.humidity
-        })
-      });
-      const adviceData = await adviceRes.json();
-
-      // Step 5: 表示
-      const block = document.createElement("div");
-      block.className = "weather-card";
-      block.innerHTML = `
-        <p><strong>📍 ${weatherData.location}</strong></p>
-        <p>☁️ 天気：${weatherData.weather}、${weatherData.temperature}℃、湿度${weatherData.humidity}%</p>
-        <p>✨ おすすめ理由：${city.reason}</p>
-        <p>📝 解説：${explanationData.explanation}</p>
-        <p>👕 服装アドバイス：${adviceData.advice}</p>
-
-        <hr>
-      `;
-      weatherContainer.appendChild(block);
-    }
-
-  } catch (err) {
-    console.error("フィルタ検索中にエラー:", err);
-    alert("取得中にエラーが発生しました。");
-  } finally {
-    clearTimeout(loadingTimeout); // タイマーを止める
-    showloading(false);
-  }
-}
-
-    document.getElementById("get-weather-btn").addEventListener("click", (event) => {
-      event.preventDefault();
+    // ---------- Event bindings ----------
+    $("#get-weather-btn").addEventListener("click", (e) => {
+      e.preventDefault();
+      shouldShowLoading = true; // Set flag to show loading
       if ("geolocation" in navigator) {
         navigator.geolocation.getCurrentPosition(
-          (position) => {
-            const { latitude, longitude } = position.coords;
-            fetchAll(latitude, longitude);
-          },
+          (pos) => fetchAll(pos.coords.latitude, pos.coords.longitude),
           (error) => {
-            document.getElementById("weather").style.display = "block";
-            document.getElementById("weather").textContent = "位置情報が取得できませんでした。";
+            $("#weather-current").textContent = "位置情報が取得できませんでした。";
+            show($("#weather-current"), true);
             console.error("位置情報の取得に失敗:", error);
+            shouldShowLoading = false; // 失敗時に消す
           },
-          {
-            enableHighAccuracy: true,
-            timeout:10000, // 10秒
-            maximumAge: 0
-          }
+          { enableHighAccuracy: true, timeout: 10000, maximumAge: 0 }
         );
       } else {
-        document.getElementById("weather").style.display = "block";
-        document.getElementById("weather").textContent = "このブラウザは位置情報に対応していません。";
+        $("#weather-current").textContent = "このブラウザは位置情報に対応していません。";
+        show($("#weather-current"), true);
       }
     });
 
-    document.getElementById("filter-btn").addEventListener("click", async () => {
-    const keyword = document.getElementById("filter-input").value.trim();
-    if (!keyword) return;
-    await fetchFilteredCities(keyword);  // ✅ 既存の関数を使う
-  });
-
-    document.getElementById("search-weather-btn").addEventListener("click", async () => {
-    const city = document.getElementById("location-input").value.trim();
-    if (!city) return;
-
-  try {
-    showloading(true);
-    const res = await fetch("/geocode", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ city })
+    $("#filter-btn").addEventListener("click", async () => {
+      const keyword = $("#filter-input").value.trim();
+      if (!keyword) { setStatus("キーワードを入力してください"); return; }
+      shouldShowLoading = true;
+      await fetchFilteredCities(keyword);
     });
 
-    const data = await res.json();
-    if (data.lat && data.lon) {
-      fetchAll(data.lat, data.lon);
-    } else {
-      alert("場所が見つかりませんでした。");
-    }
-  } catch (err) {
-    console.error("地名検索に失敗しました:", err);
-    alert("エラーが発生しました。");
-  } finally {
-    showloading(false);
-  }
-});
-
+    $("#search-weather-btn").addEventListener("click", async () => {
+      const city = $("#location-input").value.trim();
+      if (!city) { setStatus("都市名を入力してください"); return; }
+      shouldShowLoading = true;
+      try {
+        const data = await getJSON("/geocode", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ city })
+        });
+        if (data.lat && data.lon) {
+          await fetchAll(data.lat, data.lon);
+          setStatus(`${city} の天気を表示しました`);
+        } else {
+          setStatus("場所が見つかりませんでした");
+        }
+      } catch (err) {
+        console.error("地名検索に失敗しました:", err);
+        setStatus("地名検索でエラーが発生しました");
+      } finally {
+        showLoading(false);
+      }
+    });
   </script>
-
 </body>
 </html>
