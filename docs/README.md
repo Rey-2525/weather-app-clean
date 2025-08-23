@@ -84,6 +84,7 @@ AIを補助ツールとして利用しつつ、最終的な設計・実装・運
     │   ├── view.py
     │   └── weather.py
     ├── static/
+    │   ├── old
     │   ├── android-chrome-192x192.png
     │   ├── android-chrome-512x512.png
     │   ├── apple-touch-icon.png
@@ -93,6 +94,7 @@ AIを補助ツールとして利用しつつ、最終的な設計・実装・運
     │   ├── site.webmanifest
     │   └── style-dark.css
     ├── templates/
+    │   ├── old
     │   └── index.html
     ├── utils/
     │   ├── config.py
