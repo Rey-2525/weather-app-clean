@@ -1,0 +1,61 @@
+name: Deploy to EC2
+on:
+  push:
+    branches: [ "main" ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Make release name
+        id: rel
+        run: echo "REL=$(date +%Y-%m-%d_%H%M%S)" >> $GITHUB_OUTPUT
+
+      - name: Tar source
+        run: tar --exclude-vcs -czf app.tar.gz .
+
+      - name: Upload to EC2
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+          source: "app.tar.gz"
+          target: "/home/ubuntu/releases/${{ steps.rel.outputs.REL }}/"
+
+      - name: Remote deploy
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.EC2_HOST }}
+          username: ${{ secrets.EC2_USER }}
+          key: ${{ secrets.EC2_SSH_KEY }}
+          script: |
+            set -euo pipefail
+            REL=${{ steps.rel.outputs.REL }}
+            BASE=/home/ubuntu
+            RDIR=$BASE/releases/$REL
+            mkdir -p "$RDIR"
+            tar -xzf "$RDIR/app.tar.gz" -C "$RDIR"
+
+            cd "$RDIR"
+            python3 -m venv venv
+            ./venv/bin/pip install --upgrade pip
+            ./venv/bin/pip install -r requirements.txt
+
+            # .env を前版から継承（Actionsに載せない）
+            if [ -f $BASE/current/.env ]; then cp $BASE/current/.env "$RDIR/.env"; fi
+
+            # 一時ポートでスモーク（/health を実装しておく）
+            ./venv/bin/gunicorn -w 2 -k uvicorn.workers.UvicornWorker main:app --bind 127.0.0.1:9000 &
+            GPID=$!
+            sleep 2
+            curl -fsS http://127.0.0.1:9000/health || (echo "Smoke test failed" && kill $GPID && exit 1)
+            kill $GPID
+
+            ln -sfn "$RDIR" $BASE/current
+            sudo systemctl restart weather.service
+
+            # 古いリリースを5世代残して掃除
+            ls -dt $BASE/releases/* | tail -n +6 | xargs -r rm -rf
