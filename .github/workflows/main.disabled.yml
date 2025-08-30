@@ -14,7 +14,8 @@ jobs:
         run: echo "REL=$(date +%Y-%m-%d_%H%M%S)" >> $GITHUB_OUTPUT
 
       - name: Tar source
-        run: tar --exclude-vcs -czf app.tar.gz .
+        run: tar --exclude-vcs -czf app.tar.gz . --warning=no-file-changed --warning=no-file-removed --warning=no-file-shrank
+ 
 
       - name: Upload to EC2
         uses: appleboy/scp-action@v0.1.7
