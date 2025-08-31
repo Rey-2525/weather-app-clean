@@ -1,64 +1,63 @@
-name: Deploy to EC2
+name: Deploy to EC2 (self-hosted runner)
+
 on:
   push:
     branches: [ "main" ]
 
+concurrency:
+  group: rein-weather-${{ github.ref }}
+  cancel-in-progress: true
+
 jobs:
   deploy:
-    runs-on: ubuntu-latest
+    runs-on: [self-hosted, ec2-prod]
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Make release name
         id: rel
         run: echo "REL=$(date +%Y-%m-%d_%H%M%S)" >> $GITHUB_OUTPUT
 
-      - name: Package source
-        run: git archive --format=tar.gz -o app.tar.gz HEAD
+      - name: Prepare release dir
+        run: |
+          set -euo pipefail
+          BASE=/home/ubuntu
+          RDIR=$BASE/releases/${{ steps.rel.outputs.REL }}
+          mkdir -p "$RDIR"
+          # ワークスペースの中身を丸ごとコピー（VCS情報は除外）
+          rsync -a --delete --exclude=".git" . "$RDIR/"
 
-      - name: Upload to EC2
-        uses: appleboy/scp-action@v0.1.7
-        with:
-          host: ${{ secrets.EC2_HOST }}
-          username: ${{ secrets.EC2_USER }}
-          key: ${{ secrets.EC2_SSH_KEY }}
-          source: "app.tar.gz"
-          target: "/home/ubuntu/releases/${{ steps.rel.outputs.REL }}/"
+      - name: Build venv & deps
+        run: |
+          set -euo pipefail
+          BASE=/home/ubuntu
+          RDIR=$BASE/releases/${{ steps.rel.outputs.REL }}
+          cd "$RDIR"
+          python3 -m venv venv
+          ./venv/bin/pip install --upgrade pip
+          ./venv/bin/pip install -r requirements.txt
+          # .env を前版から継承（Actionsには載せない）
+          if [ -f $BASE/current/.env ]; then cp $BASE/current/.env "$RDIR/.env"; fi
 
-      - name: Remote deploy
-        uses: appleboy/ssh-action@v1.0.3
-        with:
-          host: ${{ secrets.EC2_HOST }}
-          username: ${{ secrets.EC2_USER }}
-          key: ${{ secrets.EC2_SSH_KEY }}
-          script: |
-            set -euo pipefail
-            REL=${{ steps.rel.outputs.REL }}
-            BASE=/home/ubuntu
-            RDIR=$BASE/releases/$REL
-            mkdir -p "$RDIR"
-            tar -xzf "$RDIR/app.tar.gz" -C "$RDIR"
+      - name: Smoke test on 9000
+        run: |
+          set -euo pipefail
+          BASE=/home/ubuntu
+          RDIR=$BASE/releases/${{ steps.rel.outputs.REL }}
+          cd "$RDIR"
+          ./venv/bin/gunicorn -w 2 -k uvicorn.workers.UvicornWorker main:app --bind 127.0.0.1:9000 &
+          GPID=$!
+          sleep 2
+          curl -fsS http://127.0.0.1:9000/health
+          kill $GPID
 
-            cd "$RDIR"
-            python3 -m venv venv
-            # （どちらかに統一する：ここではプレフィックス方式）
-            ./venv/bin/pip install --upgrade pip
-            ./venv/bin/pip install -r requirements.txt
-            ./venv/bin/pip install gunicorn
-
-            # .env を前版から継承
-            if [ -f $BASE/current/.env ]; then cp $BASE/current/.env "$RDIR/.env"; fi
-
-            # 一時ポート: 9000 でスモーク（本番8000とは衝突しない）
-            ./venv/bin/gunicorn -w 2 -k uvicorn.workers.UvicornWorker main:app --bind 127.0.0.1:9000 &
-            GPID=$!
-            sleep 2
-            curl -fsS http://127.0.0.1:9000/health || (echo "Smoke test failed" && kill $GPID && exit 1)
-            kill $GPID
-
-            # 切替＆本番再起動
-            ln -sfn "$RDIR" $BASE/current
-            sudo systemctl restart weather.service
-
-            # 古いリリースを5世代残して掃除
-            ls -dt $BASE/releases/* | tail -n +6 | xargs -r rm -rf
+      - name: Switch current & restart service
+        run: |
+          set -euo pipefail
+          BASE=/home/ubuntu
+          RDIR=$BASE/releases/${{ steps.rel.outputs.REL }}
+          ln -sfn "$RDIR" $BASE/current
+          sudo systemctl restart weather.service
+          # 古いリリースは5世代だけ残して掃除
+          ls -dt $BASE/releases/* | tail -n +6 | xargs -r rm -rf
