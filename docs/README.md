@@ -33,6 +33,7 @@ rein-weatherは、AIによる解説と服装アドバイスを提供する天気
     - OpenAI API
     - Google Maps API
 - **インフラ**: AWS EC2 (Ubuntu), nginx, Let's Encrypt SSL, systemd
+- **CI/CDツール**: GitHub Actions
 
 ## 構成図（/docsにソースあり）
 
@@ -47,6 +48,7 @@ rein-weatherは、AIによる解説と服装アドバイスを提供する天気
 - OpenAI APIを利用した自動解説文生成機能を実装。
 - Linuxサーバー構築、403エラーなどの権限設定のトラブルシュートを実施。サービスを外部公開まで安定稼働させた。
 - GitHubを使ったバージョン管理・チーム開発を意識した運用を実施。
+- CI/CD導入（GitHub Actionsでmainにマージ→自動的にEC2へ展開）
 
 ## AI利用について
 
@@ -184,7 +186,7 @@ sudo nginx -t && sudo systemctl reload nginx
 今後の改善予定としては、今までの手作業を効率化するためのCI/CDパイプラインの導入やIaC（Terraform/Ansible）によるインフラ自動化を検討しています。
 
 - 監視設定の導入（CloudWatch Logs, メトリクス監視）
-- CI/CD導入（GitHub Actionsで自動的にEC2へ展開）
+- TerraformにてEC2をコードとして管理
 
 ---
 
