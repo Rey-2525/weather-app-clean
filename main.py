@@ -29,3 +29,7 @@ app.include_router(nlp_filter.router)  # /filter-nlp 用
 
 # 静的ファイル（CSS等）
 app.mount("/static", StaticFiles(directory="static"), name="static")
+
+@app.get("/health")
+def health():
+    return {"ok": True}
