@@ -48,10 +48,10 @@ jobs:
             if [ -f $BASE/current/.env ]; then cp $BASE/current/.env "$RDIR/.env"; fi
 
             # 一時ポートでスモーク（/health を実装しておく）
-            ./venv/bin/gunicorn -w 2 -k uvicorn.workers.UvicornWorker main:app --bind 127.0.0.1:9000 &
+            ./venv/bin/gunicorn -w 2 -k uvicorn.workers.UvicornWorker main:app --bind 127.0.0.1:8000 &
             GPID=$!
             sleep 2
-            curl -fsS http://127.0.0.1:9000/health || (echo "Smoke test failed" && kill $GPID && exit 1)
+            curl -fsS http://127.0.0.1:8000/health || (echo "Smoke test failed" && kill $GPID && exit 1)
             kill $GPID
 
             ln -sfn "$RDIR" $BASE/current
