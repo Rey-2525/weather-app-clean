@@ -38,7 +38,7 @@ jobs:
           ./venv/bin/pip install --upgrade pip
           ./venv/bin/pip install -r requirements.txt
           # .env を前版から継承（Actionsには載せない）
-          if [ -f $BASE/current/.env ]; then cp $BASE/current/.env "$RDIR/.env"; fi
+          if [ -f $BASE/weather-app-clean/.env ]; then cp $BASE/weather-app-clean/.env "$RDIR/.env"; fi
 
       - name: Smoke test on 9000
         run: |
@@ -52,12 +52,12 @@ jobs:
           curl -fsS http://127.0.0.1:9000/health
           kill $GPID
 
-      - name: Switch current & restart service
+      - name: Switch weather-app-clean & restart service
         run: |
           set -euo pipefail
           BASE=/home/ubuntu
           RDIR=$BASE/releases/${{ steps.rel.outputs.REL }}
-          ln -sfn "$RDIR" $BASE/current
+          ln -sfn "$RDIR" $BASE/weather-app-clean
           sudo systemctl restart weather.service
           # 古いリリースは5世代だけ残して掃除
           ls -dt $BASE/releases/* | tail -n +6 | xargs -r rm -rf
