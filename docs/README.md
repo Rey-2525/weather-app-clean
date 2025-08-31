@@ -60,6 +60,10 @@ AIを補助ツールとして利用しつつ、最終的な設計・実装・運
 ```
 .
 └── weather-app-clean/
+    ├── .github/
+    │   └── workflows/
+    │       ├── main.yml
+    │       └── aws.disabled.yml
     ├── .vscode/
     │   └── settings.json
     ├── data
