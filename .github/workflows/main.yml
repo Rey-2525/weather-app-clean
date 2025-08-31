@@ -13,11 +13,11 @@ jobs:
         id: rel
         run: echo "REL=$(date +%Y-%m-%d_%H%M%S)" >> $GITHUB_OUTPUT
 
-      - name: Pachage source
+      - name: Package source
         run: git archive --format=tar.gz -o app.tar.gz HEAD
 
       - name: Upload to EC2
-        uses: appleboy/scp-action@master
+        uses: appleboy/scp-action@v0.1.7
         with:
           host: ${{ secrets.EC2_HOST }}
           username: ${{ secrets.EC2_USER }}
@@ -41,19 +41,22 @@ jobs:
 
             cd "$RDIR"
             python3 -m venv venv
+            # （どちらかに統一する：ここではプレフィックス方式）
             ./venv/bin/pip install --upgrade pip
             ./venv/bin/pip install -r requirements.txt
+            ./venv/bin/pip install gunicorn
 
-            # .env を前版から継承（Actionsに載せない）
+            # .env を前版から継承
             if [ -f $BASE/current/.env ]; then cp $BASE/current/.env "$RDIR/.env"; fi
 
-            # 一時ポートでスモーク（/health を実装しておく）
+            # 一時ポート: 9000 でスモーク（本番8000とは衝突しない）
             ./venv/bin/gunicorn -w 2 -k uvicorn.workers.UvicornWorker main:app --bind 127.0.0.1:9000 &
             GPID=$!
             sleep 2
             curl -fsS http://127.0.0.1:9000/health || (echo "Smoke test failed" && kill $GPID && exit 1)
             kill $GPID
 
+            # 切替＆本番再起動
             ln -sfn "$RDIR" $BASE/current
             sudo systemctl restart weather.service
 
