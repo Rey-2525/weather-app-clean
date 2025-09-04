@@ -187,6 +187,7 @@ sudo nginx -t && sudo systemctl reload nginx
 
 - 監視設定の導入（CloudWatch Logs, メトリクス監視）
 - TerraformにてEC2をコードとして管理
+- マップ表示機能の追加
 
 ---
 
