@@ -21,7 +21,7 @@
   <header class="fixed-top" role="banner" aria-label="検索と操作バー">
     <div class="navbar">
       <div class="brand">
-        <span class="brand-emoji" aria-hidden="true">🌦️</span>
+        <span class="brand-emoji" aria-hidden="true"><image src="/static/weather.png" width="48" height="48"></image></span>
         <span class="brand-text">Rein-weather</span>
       </div>
       <nav class="nav-actions" aria-label="ヘルプ">
@@ -65,7 +65,7 @@
 
   <!-- Main Content -->
   <main class="container" role="main">
-    <h1 aria-live="polite">天気情報</h1>
+    <h1 aria-live="polite">天気情報が以下に表示されます</h1>
 
     <!-- Status / Toast -->
     <div id="status" class="toast" role="status" aria-live="polite" aria-atomic="true" hidden></div>
@@ -132,10 +132,10 @@
       show(el, true);
       const iconUrl = `https://openweathermap.org/img/wn/${data.icon}@2x.png`; // enforce https
       el.innerHTML = `
-        <p><strong>📍 場所：</strong> ${data.location}</p>
-        <p><strong>🌡️ 気温：</strong> ${data.temperature}℃</p>
-        <p><strong>💧 湿度：</strong> ${data.humidity}%</p>
-        <p><strong>☁️ 天気：</strong> ${data.weather}</p>
+        <p><strong><image src="/static/placeholder.png" alt="現在地" width="30" height="30"> 場所：</strong> ${data.location}</p>
+        <p><strong><image src="/static/temperatures.png" alt="現在地" width="30" height="30"> 気温：</strong> ${data.temperature}℃</p>
+        <p><strong><image src="/static/moist.png" alt="現在地" width="30" height="30"> 湿度：</strong> ${data.humidity}%</p>
+        <p><strong><image src="/static/clouds-and-sun.png" alt="現在地" width="30" height="30"> 天気：</strong> ${data.weather}</p>
         <div id="forecast" class="forecast"></div>
       `;
     }
