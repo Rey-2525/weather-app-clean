@@ -219,3 +219,8 @@ h1{font-size:1.6rem;margin:0 0 .5rem}
   input[type="text"]{width:100%}
   .btn{width:100%}
 }
+
+.brand-text {
+  font-size: 2rem; /* 2倍サイズ */
+  font-weight: bold; /* 太字にしたい場合 */
+}
