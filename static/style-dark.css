@@ -224,3 +224,15 @@ h1{font-size:1.6rem;margin:0 0 .5rem}
   font-size: 2rem; /* 2倍サイズ */
   font-weight: bold; /* 太字にしたい場合 */
 }
+
+#map {
+  width: 100%;
+  height: 360px; /* 必要に応じて高さを調整 */
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+@media (min-width: 900px) {
+  #map {
+    height: 420px; /* 大きな画面では高さを増やす */
+  }
+}
