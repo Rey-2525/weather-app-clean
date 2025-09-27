@@ -1,13 +1,15 @@
+from dotenv import load_dotenv
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import HTMLResponse
 from fastapi.templating import Jinja2Templates
-from routes import weather, view, explanation, geocode, filter, nlp_filter
+from routes import weather, explanation, geocode, filter, nlp_filter
 import os
 
 
 app = FastAPI()
+load_dotenv()
 
 # CORS設定
 app.add_middleware(
@@ -20,7 +22,6 @@ app.add_middleware(
 
 # ルーター登録
 app.include_router(weather.router)
-app.include_router(view.router)
 app.include_router(explanation.router)
 app.include_router(geocode.router)
 app.include_router(filter.router)
