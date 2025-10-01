@@ -21,7 +21,7 @@
   <header class="fixed-top" role="banner" aria-label="検索と操作バー">
     <div class="navbar">
       <div class="brand">
-        <span class="brand-emoji" aria-hidden="true">🌦️</span>
+        <span class="brand-emoji" aria-hidden="true"><image src="/static/weather.png" width="48" height="48"></image></span>
         <span class="brand-text">Rein-weather</span>
       </div>
       <nav class="nav-actions" aria-label="ヘルプ">
@@ -53,6 +53,7 @@
           <li>「都市名検索」に <strong>大阪</strong> や <strong>札幌</strong> などを入力して <kbd>Enter</kbd> または <em>検索</em> を押す。</li>
           <li>「自然言語フィルター」に <strong>涼しい場所</strong>、<strong>湿度ひくめ</strong> などを入力して <em>フィルタ</em>。</li>
           <li>📍 ボタンで <strong>現在地</strong> の天気と降水確率（3時間ごと）を表示。</li>
+          <li>画面下にマップが表示されるようになりました。</li>
         </ol>
         <p class="examples">
           例）<code>ひんやり</code> / <code>過ごしやすい</code> / <code>暑すぎる</code> / <code>条件なし</code>
@@ -65,7 +66,7 @@
 
   <!-- Main Content -->
   <main class="container" role="main">
-    <h1 aria-live="polite">天気情報</h1>
+    <h1 aria-live="polite">天気情報が以下に表示されます</h1>
 
     <!-- Status / Toast -->
     <div id="status" class="toast" role="status" aria-live="polite" aria-atomic="true" hidden></div>
@@ -76,6 +77,12 @@
 
     <!-- Current / Single city -->
     <section id="weather-current" class="weather-card" hidden></section>
+
+    <!--Map Card-->
+    <section id="map-card" class="weather-card" hidden>
+      <h3>🗺️ 現在地マップ</h3>
+      <div id="map"></div>
+    </section>
 
     <!-- Filtered city grid -->
     <section id="weather-grid" class="weather-grid" hidden aria-label="都市カード一覧"></section>
@@ -132,10 +139,10 @@
       show(el, true);
       const iconUrl = `https://openweathermap.org/img/wn/${data.icon}@2x.png`; // enforce https
       el.innerHTML = `
-        <p><strong>📍 場所：</strong> ${data.location}</p>
-        <p><strong>🌡️ 気温：</strong> ${data.temperature}℃</p>
-        <p><strong>💧 湿度：</strong> ${data.humidity}%</p>
-        <p><strong>☁️ 天気：</strong> ${data.weather}</p>
+        <p><strong><image src="/static/placeholder.png" alt="現在地" width="30" height="30"> 場所：</strong> ${data.location}</p>
+        <p><strong><image src="/static/temperatures.png" alt="現在地" width="30" height="30"> 気温：</strong> ${data.temperature}℃</p>
+        <p><strong><image src="/static/moist.png" alt="現在地" width="30" height="30"> 湿度：</strong> ${data.humidity}%</p>
+        <p><strong><image src="/static/clouds-and-sun.png" alt="現在地" width="30" height="30"> 天気：</strong> ${data.weather}</p>
         <div id="forecast" class="forecast"></div>
       `;
     }
@@ -194,9 +201,14 @@
       return res.json();
     }
 
+    let gmap, gmarker;
+
     async function fetchAll(lat, lon) {
       try {
         if (shouldShowLoading) showLoading(true);
+
+        showmap(lat, lon);
+
         // Current weather
         const weatherData = await getJSON(`/weather?lat=${lat}&lon=${lon}`);
         renderCurrentWeather(weatherData);
@@ -247,6 +259,31 @@
         shouldShowLoading = false; // Reset flag
       }
     }
+
+    function showmap(lat, lon) {
+        const card = document.querySelector("#map-card");
+        card.hidden = false;
+        const pos = {lat, lng: lon};
+
+        if (!gmap) {
+          gmap = new google.maps.Map(document.getElementById("map"), {
+            center: pos,
+            zoom: 15,
+            mapTypeControl: false,
+            streetViewControl: false,
+          });
+
+          // 標準マーカー
+          gmarker = new google.maps.Marker({
+            position: pos,
+            map: gmap,
+            title: "現在地"
+          });
+        } else {
+          gmap.setCenter(pos);
+          gmarker.setPosition(pos);
+        }
+      }
 
     // Keep last city list to avoid redundant renders
     let previousCityList = [];
@@ -410,5 +447,8 @@
       }
     });
   </script>
+  <script
+  src="https://maps.googleapis.com/maps/api/js?key={{ google_maps_api_key }}&v=weekly&libraries=marker&loading=async"
+  async defer></script>
 </body>
 </html>

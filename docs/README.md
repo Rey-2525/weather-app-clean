@@ -14,6 +14,7 @@ rein-weatherは、AIによる解説と服装アドバイスを提供する天気
 - 自然文による都市フィルター（例：「涼しい場所を教えて」）
 - ダークモード対応 / レスポンシブUI
 - 推薦理由キャッシュ（reason_cache.json）
+- マップ表示
 
 ## 使用技術一覧
 
@@ -87,7 +88,6 @@ AIを補助ツールとして利用しつつ、最終的な設計・実装・運
     │   ├── generate_cities.py
     │   ├── geocode.py
     │   ├── nlp_filter.py
-    │   ├── view.py
     │   └── weather.py
     ├── static/
     │   ├── old
@@ -187,7 +187,6 @@ sudo nginx -t && sudo systemctl reload nginx
 
 - 監視設定の導入（CloudWatch Logs, メトリクス監視）
 - TerraformにてEC2をコードとして管理
-- マップ表示機能の追加
 
 ---
 

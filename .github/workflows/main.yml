@@ -39,7 +39,7 @@ jobs:
           ./venv/bin/pip install -r requirements.txt
           ./venv/bin/pip install gunicorn
           # .env を前版から継承（Actionsには載せない）
-          if [ -f $BASE/weather-app-clean/.env ]; then cp $BASE/weather-app-clean/.env "$RDIR/.env"; fi
+          if [ -f /home/ubuntu/.app_env ]; then cp /home/ubuntu/.app_env "$RDIR/.env"; fi
 
       - name: Smoke test on 9000
         run: |
