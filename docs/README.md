@@ -38,7 +38,7 @@ rein-weatherは、AIによる解説と服装アドバイスを提供する天気
 
 ## 構成図（/docsにソースあり）
 
-以下はreini-weatherのAWS構成図です。EC2にFastAPIとnginx（リバースプロキシサーバー）を配置し、SSL実装まで行いました。
+以下はrein-weatherのAWS構成図です。EC2にFastAPIとnginx（リバースプロキシサーバー）を配置し、SSL実装まで行いました。
 <img width="1648" height="741" alt="AWS-config drawio" src="https://github.com/user-attachments/assets/b33c0f42-bf84-4b83-ab8d-c6ed90d7e614" />
 
 ## 開発背景
