@@ -78,9 +78,10 @@ AIを補助ツールとして利用しつつ、最終的な設計・実装・運
     │   ├── generate_city_data.py
     │   └── prepare_city_weather_data_async.py
     ├── docs/
+    │   ├── old
     │   ├── img/
-    │   │   ├── AWS-architecture_20250817_v1.drawio
-    │   │   └── AWS-architecture_20250817_v1.png
+    │   │   ├── AWS-architecture_20251001_v1.drawio
+    │   │   └── AWS-architecture_20251001_v1.png
     │   └── README.md
     ├── routes/
     │   ├── explanation.py
@@ -88,6 +89,7 @@ AIを補助ツールとして利用しつつ、最終的な設計・実装・運
     │   ├── generate_cities.py
     │   ├── geocode.py
     │   ├── nlp_filter.py
+    │   ├── view.py
     │   └── weather.py
     ├── static/
     │   ├── old
