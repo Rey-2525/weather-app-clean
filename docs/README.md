@@ -39,7 +39,7 @@ rein-weatherは、AIによる解説と服装アドバイスを提供する天気
 ## 構成図（/docsにソースあり）
 
 以下はrein-weatherのAWS構成図です。EC2にFastAPIとnginx（リバースプロキシサーバー）を配置し、SSL実装まで行いました。
-<img width="1648" height="741" alt="AWS-config drawio" src="[https://github.com/Rey-2525/weather-app-clean/blob/main/docs/img/AWS-architecture_20251001_v1.png]" />
+![構成図](https://github.com/Rey-2525/weather-app-clean/assets/img/AWS-architecture_20251001_v1.png)
 
 ## 開発背景
 実務や資格の学習だけではWeb開発からAWS構築まで一貫した経験が得られないと考え、自ら企画・設計・開発・構築を実施しました。その結果、Linuxサーバー構築からAWS EC2の本番運用までを一人で完結させることができました。
