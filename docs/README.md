@@ -23,7 +23,7 @@ rein-weatherは、AIによる解説と服装アドバイスを提供する天気
 <img src="https://img.shields.io/badge/-Python-F2C63C.svg?logo=python&style=for-the-badge">
 <img src="https://img.shields.io/badge/-gunicorn-000000.svg?logo=gunicorn&style=for-the-badge">
 
-<img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=for-the-badge"> <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=for-the-badge"> <img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/-Amazon%20EC2-232F3E.svg?logo=amazon-EC2&style=for-the-badge"> <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=Linux&logoColor=black&style=for-the-badge">
+<img src="https://img.shields.io/badge/-Nginx-269539.svg?logo=nginx&style=for-the-badge"> <img src="https://img.shields.io/badge/-Amazon%20aws-232F3E.svg?logo=amazon-aws&style=for-the-badge"> <img src="https://img.shields.io/badge/-Ubuntu-E95420.svg?logo=ubuntu&logoColor=white&style=for-the-badge"> <img src="https://img.shields.io/badge/-Amazon%20EC2-232F3E.svg?logo=amazon-EC2&style=for-the-badge"> <img src="https://img.shields.io/badge/-Linux-FCC624.svg?logo=Linux&logoColor=black&style=for-the-badge"> <img src="https://img.shields.io/badge/-Github%20Actions-181717.svg?logo=github&style=flat-square">
 
 ## 技術構成
 
