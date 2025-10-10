@@ -41,16 +41,16 @@ jobs:
           # .env を前版から継承（Actionsには載せない）
           if [ -f /home/ubuntu/.app_env ]; then cp /home/ubuntu/.app_env "$RDIR/.env"; fi
 
-      - name: Smoke test on 9000
+      - name: Smoke test on 8000
         run: |
           set -euo pipefail
           BASE=/home/ubuntu
           RDIR=$BASE/releases/${{ steps.rel.outputs.REL }}
           cd "$RDIR"
-          ./venv/bin/gunicorn -w 2 -k uvicorn.workers.UvicornWorker main:app --bind 127.0.0.1:9000 &
+          ./venv/bin/gunicorn -w 2 -k uvicorn.workers.UvicornWorker main:app --bind 127.0.0.1:8000 &
           GPID=$!
           sleep 2
-          curl -fsS http://127.0.0.1:9000/health
+          curl -fsS http://127.0.0.1:8000/health
           kill $GPID
 
       - name: Switch weather-app-clean & restart service
