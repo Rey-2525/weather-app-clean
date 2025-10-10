@@ -52,6 +52,14 @@ jobs:
           sleep 2
           curl -fsS http://127.0.0.1:9000/health
           kill $GPID
+          # .envをコピー（存在しない場合は落とさない）
+          if [ -f $BASE/weather-app-clean/.env ]; then
+            echo "Copying existing .env..."
+            cp $BASE/weather-app-clean/.env "$RDIR/.env"
+          else
+            echo "⚠️ No .env found in current release. Smoke test may fail."
+          fi
+
 
       - name: Switch weather-app-clean & restart service
         run: |
