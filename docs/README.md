@@ -35,6 +35,7 @@ rein-weatherは、AIによる解説と服装アドバイスを提供する天気
     - Google Maps API
 - **インフラ**: AWS EC2 (Ubuntu), nginx, Let's Encrypt SSL, systemd
 - **CI/CDツール**: GitHub Actions
+- **IaC**: Terraform（→ [インフラ構成リポジトリ](https://github.com/Rey-2525/terraform-rein-weather)）
 
 ## 構成図（/docsにソースあり）
 
