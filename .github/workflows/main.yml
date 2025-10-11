@@ -26,7 +26,7 @@ jobs:
           RDIR=$BASE/releases/${{ steps.rel.outputs.REL }}
           mkdir -p "$RDIR"
           # ワークスペースの中身を丸ごとコピー（VCS情報は除外）
-          rsync -a --delete --exclude=".git" . "$RDIR/"
+          rsync -a --delete --exclude=".git" --exclude=".terraform/" . "$RDIR/"
 
       - name: Build venv & deps
         run: |
